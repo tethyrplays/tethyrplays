@@ -3,7 +3,7 @@
 
 ![Image](dnd-5e-phandelver-carousel.png)
 
-More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave.
+Overview: More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave.
 
 Then disaster struck when orcs swept through the North and laid waste to all in their path and the location of Wave Echo Cave was lost.
 
@@ -19,3 +19,5 @@ In recent years, people have resettled the area. Phandalin is now a rough-and-tu
 - [D&D 5e Starter Kit](https://www.dndbeyond.com/sources/lmop) or [Player's Handbook](https://www.dndbeyond.com/sources/phb)
 - Must be 18 years of age or older
 - A reliable microphone without background noise
+
+**To Join Game:** [Apply via Roll20](https://app.roll20.net/campaigns/details/9698135/lost-mine-of-phandelver-introductory-campaign)
