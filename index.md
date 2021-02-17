@@ -1,5 +1,5 @@
 ### DUNGEONS & DRAGONS 5E | OFFICIAL CAMPAIGN
-## [The Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop)
+## The Lost Mine of Phandelver
 
 ![Image](dnd-5e-phandelver-carousel.png)
 
