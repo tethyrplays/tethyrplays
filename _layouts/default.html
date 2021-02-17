@@ -23,7 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul class="pages">
-          <li><a href="characters"><strong>List of characters</strong></a></li>
+          <li><a href="{{ "/characters" | absolute_url }}"><strong>List of characters</strong></a></li>
         </ul>
         
         {% if site.github.is_user_page %}
