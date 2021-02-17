@@ -16,5 +16,6 @@ In recent years, people have resettled the area. Phandalin is now a rough-and-tu
 **How We Play:** [Roll20 Virtual Tabletop](https://roll20.net/) and [Discord VoIP](https://discord.com/)
 
 **Required:**
-- [Starter Kit](https://www.dndbeyond.com/sources/lmop) or [Player's Handbook](https://www.dndbeyond.com/sources/phb)
-- Must be 18 years and older
+- [D&D 5e Starter Kit](https://www.dndbeyond.com/sources/lmop) or [Player's Handbook](https://www.dndbeyond.com/sources/phb)
+- Must be 18 years of age or older
+- A reliable microphone without background noise
