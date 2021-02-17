@@ -1,4 +1,5 @@
-## Dungeons & Dragons 5E:<br />[The Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop)
+### DUNGEONS & DRAGONS 5E CAMPAIGN
+## [The Lost Mine of Phandelver](https://www.dndbeyond.com/sources/lmop)
 
 More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave.
 
