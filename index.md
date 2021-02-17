@@ -1,4 +1,4 @@
-### DUNGEONS & DRAGONS 5E | OFFICIAL CAMPAIGN
+### NOW PLAYING | DUNGEONS & DRAGONS 5E STARTER CAMPAIGN
 ## The Lost Mine of Phandelver
 
 ![Image](dnd-5e-phandelver-carousel.png)
