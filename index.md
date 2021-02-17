@@ -11,4 +11,4 @@ In recent years, people have resettled the area. Phandalin is now a rough-and-tu
 
 **How We Play:** [**Roll20**](https://roll20.net/) and [**Discord**](https://discord.com/)
 
-**Cost:** FREE
+**Required:** [Starter Kit](https://www.dndbeyond.com/sources/lmop) or [Player's Handbook](https://www.dndbeyond.com/sources/phb)
