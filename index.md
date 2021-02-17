@@ -3,7 +3,7 @@
 
 ![Image](dnd-5e-phandelver-carousel.png)
 
-Overview: More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave.
+**Overview:** More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave.
 
 Then disaster struck when orcs swept through the North and laid waste to all in their path and the location of Wave Echo Cave was lost.
 
