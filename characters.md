@@ -1,1 +1,1 @@
-## Coming Soon
+## List of Characters
