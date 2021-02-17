@@ -11,7 +11,7 @@ For centuries, rumors of buried riches have attracted treasure seekers and oppor
 
 In recent years, people have resettled the area. Phandalin is now a rough-and-tumble frontier town and the Rockseeker brothers — a trio of dwarves — believe they have discovered the entrance to Wave Echo Cave and intend to reopen the mines.
 
-**No. of Players:** 4 to 6
+**System:** D&D 5th Edition, **No. of Players:** 4 to 6
 
 **How We Play:** [Roll20 Virtual Tabletop](https://roll20.net/) and [Discord VoIP](https://discord.com/)
 
