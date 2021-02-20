@@ -13,7 +13,8 @@ Hosted by Dungeon Master Nicole
 
 Overview of game rules, ettiquette and payment, and basic tutorial of Roll20 VTT and Discord for tabletop rpging.
 
-Created Lv 1 characters
+Created Lv 1 characters using Roll20 Charactermancer
+
 - Gar Rollisk (Half-Orc, Barbarian)
 - Asher (Half-Elf, Archfey Warlock)
 - Aarden Falknor (Human, Ranger)
