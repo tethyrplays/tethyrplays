@@ -20,4 +20,4 @@ In recent years, people have resettled the area. Phandalin is now a rough-and-tu
 - 18 years of age or older
 - Reliable microphone w/o background noise
 
-**To Join Game:** [Apply via Roll20](https://app.roll20.net/campaigns/details/9698135/lost-mine-of-phandelver-introductory-campaign)
+**More Details:** [Roll20 Campaign](https://app.roll20.net/campaigns/details/9698135/lost-mine-of-phandelver-introductory-campaign)]
