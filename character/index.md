@@ -1,13 +1,11 @@
 ### DUNGEONS & DRAGONS 5E
 
-# Tethyr's Characters
+# List of Characters
+
+**Aarden Falknor**
+<br />Standard Human - Ranger - Level 1
+<br />Appearances:
+- Character Backstory (Not yet available)
+- [LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole)
 
 ---
-
-## Aarden Falknor
-
-Standard Human - Ranger - Level 1
-
-Appearances:
-- Character Backstory (Not yet available)
-- [LMoP with DM Nicole](/session/2021-lmop-with-dm-nicole)
