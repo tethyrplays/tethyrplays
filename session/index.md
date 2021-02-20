@@ -6,4 +6,4 @@
 
 ## "Lost Mine of Phandelver"
 
-2021 - **[LMoP with DM Nicole](/session/2021-lmop-with-dm-nicole)** - Playing as [Aarden](/characters)
+2021 - **[LMoP with DM Nicole](/session/2021-lmop-with-dm-nicole)** - Playing as [Aarden](/character)
