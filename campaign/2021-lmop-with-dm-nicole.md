@@ -5,14 +5,15 @@
 
 ---
 
-## Session 2
+## Next Session
 
-Thursday, March 4, 2021. 12:30 p.m. to 2:30 p.m. PST
+_Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
 ---
 
 ## Session 1 Recap
-_Feb. 18, 2021 @ 12:30 to 2:30 PM_
+
+_Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 **[Participants:](#session-0-recap)** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
 
@@ -58,7 +59,8 @@ The party discusses what to do next and decides to locate the nearby Cragmaw lai
 ---
 
 ## Session 0 Recap
-_Feb. 4, 2021 @ 12:30 to 2:30 PM_
+
+_Thursday, February 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
 Hosted by [Dungeon Master Nicole](https://startplaying.games/game-master/loremasternicole).
 
