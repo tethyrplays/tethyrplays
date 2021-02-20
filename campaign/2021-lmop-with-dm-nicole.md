@@ -31,7 +31,7 @@ Several feet before the horses, splintered planks serve as a makeshift bridge fo
 
 **Combat Encounter:** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly Sharpshoot from range and misses 3x.
 
-Gar breaks into a rage with his greataxe, cleaving both of his attackers; the latter goblin is severed brutally. Asher vaporizes the third with an Eldritch blast; Gar's proximity to the blast covers him in goblin remains.
+Gar breaks into a rage with his greataxe, cleaving both of his attackers; the latter goblin is severed brutally. Asher vaporizes the third with an Eldritch blast. Gar's proximity to the blast covers him in goblin remains.
 
 Aarden uses hemp rope to restrain the final sleeping goblin for interrogation.
 
