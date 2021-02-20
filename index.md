@@ -2,7 +2,7 @@
 
 ## Lost Mine of Phandelver
 
-![Image](dnd-5e-phandelver-carousel.png)
+![Image](/dnd-5e-phandelver-carousel.png)
 
 **Overview:** More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver's Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power.
 
