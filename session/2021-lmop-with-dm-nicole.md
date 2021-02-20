@@ -40,7 +40,7 @@ The party discusses what to do next and decides to locate the nearby Cragmaw lai
 
 **Next Session:** Thursday, March 4. Payment to DM is due on Wednesday, March 3. See Discord for details.
 
-
+---
 
 ## Session 0 Recap
 _Feb. 4, 2021 @ 12:30 to 2:30 PM_
@@ -60,6 +60,8 @@ Created Lv 1 characters using Roll20 Charactermancer
 - Joe Rockseeker (Hill Dwarf, Forge Domain Cleric)
 
 Players are asked to send DM a character portrait for Roll20 token; choose a token border; and choose 1 Feat for character.
+
+---
 
 ## Campaign Plot
 
