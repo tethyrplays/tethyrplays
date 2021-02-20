@@ -7,5 +7,5 @@
 Human - Ranger - Level 1
 
 Appearances:
-- Backstory (Not yet available)
+- Character Backstory (Not yet available)
 - [LMoP with DM Nicole](/session/2021-lmop-with-dm-nicole)
