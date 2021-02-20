@@ -10,7 +10,7 @@ _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
 **Participants:** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
 
-**Travel.** The party travels from Neverwinter by wagon for approx. 2 days, first south along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin to deliver supplies.
+**Travel.** The party travels from Neverwinter by wagon for approx. 2 days, first south along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin to deliver supplies. Their employer, Gundren Rockseeker, and his protector, Sildar Hallwinter, left earlier on another errand.
 
 Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the wagon with the supplies. After brief introductions, Asher & Aarden discuss the escort mission as Gar rummages through the supplies to determine what the group is transporting.
 
@@ -24,17 +24,17 @@ Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the 
 
 **Interrogation.** Intimidated by Gar, the goblin divulges his name is Krag. Aarden meanwhile is in a fit, abusing his bow, over its dreadful aim throughout the encounter.
 
-Krag says the horses were killed in an earlier ambush by other members of his tribe, the Cragmaws. The dwarf Gundren Rockseeker and human Sildar Hallwinter were captured and taken to the tribal chief, a bugbear named Klarg.
+Krag says the horses were killed in an earlier ambush by other members of his tribe, the Cragmaws. A dwarf and human were captured and taken to the tribal chief, a bugbear named Klarg.
 
-The goblins have been on the lookout for the dwarf under orders of King Grol, leader of the Cragmaw Tribe. The King is allied with a figure known to the goblins only as "the black spider." The black spider wants to to acquire the Rockseekers' map to an old mine.
+The goblins have been on the lookout for the dwarf under orders of King Grol, leader of the Cragmaw Tribe. The King is allied with a figure known to the goblins only as "the black spider." The black spider wants to to acquire the dwarf's map to an old mine.
 
 Krag doesn't know the location of King Grol, but points the party to his own lair about 1-2 hours beyond the brook. Asked to lead the way, he refuses, stating his goblin peers would kill him for certain.
 
-Krag tells the party that Sildar is being held at the lair by Klarg, but Gundren and his map are already underway to King Grol, in hopes that his life will be spared.
+Krag tells the party that the human, presumed to be Sildar, is being held at the lair by Klarg, but the dwarf and his map are already underway to King Grol, in hopes that his life will be spared.
 
 Aarden's examinination of the dead horses reveals an empty map pouch, corroborating the goblin's claim.
 
-The party discusses what to do next and decides to locate the nearby Cragmaw lair, rescue Sildar and determine if the bugbear chief knows where their employer has been taken.
+The party discusses what to do next and decides to locate the nearby Cragmaw lair, rescue the captive and determine if the bugbear chief knows where their employer has been taken.
 
 **Krag's Fate.** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. The main concern is that the surviving goblin will interfere in their rescue attempt. Using his javelin, Gar impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
 
