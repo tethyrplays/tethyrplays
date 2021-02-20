@@ -58,9 +58,9 @@ Hosted by [Dungeon Master Nicole](https://startplaying.games/game-master/loremas
 
 Overview of game rules, ettiquette and payment.
 
-Basic tutorial of Roll20 VTT and Discord for tabletop rpging.
+Basic tutorial of Roll20 and Discord for virtual tabletop roleplaying.
 
-Created Lv 1 characters using Roll20 Charactermancer
+Created Lv 1 characters using Roll20's Charactermancer.
 
 - Gar Rollisk (Half-Orc, Barbarian)
 - Asher (Half-Elf, Archfey Warlock)
