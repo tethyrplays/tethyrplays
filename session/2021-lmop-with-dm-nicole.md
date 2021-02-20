@@ -3,6 +3,8 @@
 
 # "Lost Mine of Phandelver"<br />with DM Nicole
 
+---
+
 ## Session 1 Recap
 _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
