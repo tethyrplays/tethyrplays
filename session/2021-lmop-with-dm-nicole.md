@@ -1,7 +1,7 @@
 
 ### DUNGEONS & DRAGONS 5E
 
-# "Lost Mine of Phandelver" with DM Nicole
+# "Lost Mine of Phandelver"<br />with DM Nicole
 
 ## Session 1 Recap
 _Feb. 18, 2021 @ 12:30 to 2:30 PM_
