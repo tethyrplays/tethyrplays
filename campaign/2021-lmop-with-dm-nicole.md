@@ -27,7 +27,11 @@ Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the 
 
 **Investigation:** The party reaches a 3-way intersection. West returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon off to the side of the road and disembark to investigate. Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
 
-**Combat Encounter:** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly Sharpshoot from range and misses 3x. Gar breaks into a rage with his greataxe, cleaving both of his attackers; the latter goblin is severed brutally. Asher vaporizes the third with an Eldritch blast; Gar's proximity to the blast covers him in goblin remains. Aarden uses hemp rope to restrain the final sleeping goblin for interrogation.
+**Combat Encounter:** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly Sharpshoot from range and misses 3x.
+
+Gar breaks into a rage with his greataxe, cleaving both of his attackers; the latter goblin is severed brutally. Asher vaporizes the third with an Eldritch blast; Gar's proximity to the blast covers him in goblin remains.
+
+Aarden uses hemp rope to restrain the final sleeping goblin for interrogation.
 
 **Interrogation:** Intimidated by Gar, the goblin divulges his name is Krag. Aarden meanwhile is in a fit, abusing his bow, over its dreadful aim throughout the encounter.
 
