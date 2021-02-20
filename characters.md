@@ -6,7 +6,7 @@
 
 ## Aarden Falknor
 
-Human - Ranger - Level 1
+Standard Human - Ranger - Level 1
 
 Appearances:
 - Character Backstory (Not yet available)
