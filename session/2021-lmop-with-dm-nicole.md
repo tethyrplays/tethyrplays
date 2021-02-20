@@ -11,7 +11,7 @@ _Feb. 4, 2021 @ 12:30 to 2:30 PM_
 
 Hosted by Dungeon Master Nicole
 
-Overview of game rules, ettiquette and payment; how to use Roll20 and Discord for rpg
+Overview of game rules, ettiquette and payment, and basic tutorial of Roll20 VTT and Discord for tabletop rpging.
 
 Created Lv 1 characters
 - Gar Rollisk (Half-Orc, Barbarian)
@@ -20,6 +20,7 @@ Created Lv 1 characters
 - Tarkin Shadowdale (Stout Halfling, Rogue)
 - Joe Rockseeker (Hill Dwarf, Forge Domain Cleric)
 
+Players asked to send DM a character portrait for Roll20 token; choose a token border; and choose 1 Feat for character.
 
 ## Campaign Plot
 
