@@ -1,6 +1,6 @@
 ### CURRENTLY PLAYING
 
-# "Lost Mine of Phandelver"<br />_Dungeons & Dragons Fifth Edition_
+# "Lost Mine of Phandelver"
 
 ![Image](/dnd-5e-phandelver-carousel.png)
 
