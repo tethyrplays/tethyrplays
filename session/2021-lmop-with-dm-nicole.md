@@ -40,11 +40,11 @@ The party discusses what to do next and decides to locate the nearby Cragmaw lai
 
 **Encounter Loot:** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar.
 
-`Per DM: Players must keep track of loot distribution and update their own character sheet accordingly.`
+**!!!** Players must keep track of loot distribution and update their own character sheet accordingly.
 
 **Short Rest:** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
 
-`Per DM: Players are only permitted 2 short rests in a 24 hour period.`
+**!!!** Players are only permitted 2 short rests in a 24 hour period.`
 
 **Next Session:** Thursday, March 4. Payment to DM is due on Wednesday, March 3. See Discord for details.
 
