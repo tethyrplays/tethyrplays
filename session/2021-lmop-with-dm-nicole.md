@@ -11,7 +11,7 @@ _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 ## Session 0 Recap
 _Feb. 4, 2021 @ 12:30 to 2:30 PM_
 
-Hosted by Dungeon Master Nicole
+Hosted by [Dungeon Master Nicole](https://startplaying.games/game-master/loremasternicole).
 
 Overview of game rules, ettiquette and payment.
 
