@@ -33,7 +33,7 @@ Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the 
 
 Krag says the horses were killed in an earlier ambush by other members of his tribe, the Cragmaws. A dwarf and human were captured and taken to the tribal chief, a bugbear named Klarg.
 
-The goblins have been on the lookout for the dwarf under orders of King Grol, leader of the Cragmaw Tribe. The King is allied with a figure known to the goblins only as "the black spider." The black spider wants to to acquire the dwarf's map to an old mine.
+The goblins have been on the lookout for the dwarf under orders of King Grol, leader of the Cragmaw Tribe. The King is allied with a figure known to the goblins only as "the black spider." The black spider wants to to acquire the dwarven map to an old, lost mine.
 
 Krag doesn't know the location of King Grol, but points the party to his own lair about 1-2 hours beyond the brook. Asked to lead the way, he refuses, stating his goblin peers would kill him for certain.
 
