@@ -8,7 +8,7 @@
 ## Session 1 Recap
 _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
-**Participants:** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
+**[Participants:](#session-0-recap)** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
 
 **Travel:** The party travels from Neverwinter by wagon for approx. 2 days, first south along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin to deliver supplies. Their employer, Gundren Rockseeker, and his protector, Sildar Hallwinter, left earlier on another errand.
 
