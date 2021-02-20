@@ -16,7 +16,7 @@ Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the 
 
 **Introductions:** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing; Gundren's note is his only lead and he's trying to determine the connection. Gar has been assigned to escort the supplies on behalf of his blacksmithing guild.
 
-**#Fail Stealth Check:** Gar discovers ale amongst the wagon's mining and farming supplies and attempts to imbibe some without being noticed by his companions. The attempt fails with both Asher & Aaden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
+**#Fail Stealth Check:** Gar discovers ale amongst the wagon's mining and farming supplies and attempts to imbibe some without being noticed by his companions up front. The attempt fails with both Asher & Aaden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
 
 **Investigation:** The party reaches a 3-way intersection. West returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon off to the side of the road and disembark to investigate. Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
 
