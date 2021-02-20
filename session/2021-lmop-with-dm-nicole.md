@@ -4,11 +4,14 @@
 ## Session 1 Recap
 _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
+Participants: Gar, Asher, Aarden. Absent: Tarkin, Joe.
 
 ## Session 0 Recap
 _Feb. 4, 2021 @ 12:30 to 2:30 PM_
 
-**Dungeon Master:** Nicole
+Hosted by Dungeon Master Nicole
+
+Overview of game rules, ettiquette and payment; how to use Roll20 and Discord for rpg
 
 Created Lv 1 characters
 - Gar Rollisk (Half-Orc, Barbarian)
