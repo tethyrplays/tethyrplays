@@ -38,7 +38,7 @@ The party discusses what to do next and decides to locate the nearby Cragmaw lai
 
 **Krag's Fate.** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. The main concern is that the surviving goblin will interfere in their rescue attempt. Using his javelin, Gar impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
 
-**Loot.** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar.
+**Loot.** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar. (Players are expected to keep track of loot distribution and update their character sheet accordingly.)
 
 **Short Rest.** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots. (DM notes that players are only permitted 2 short rests in a 24 hour period.)
 
