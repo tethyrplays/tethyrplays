@@ -36,7 +36,7 @@ Aarden's examinination of the dead horses reveals an empty map pouch, corroborat
 
 The party discusses what to do next and decides to locate the nearby Cragmaw lair, rescue the captive and determine if the bugbear chief knows where their employer has been taken.
 
-**Krag's Fate:** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. The main concern is that the surviving goblin will interfere in their rescue attempt. Using his javelin, Gar impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
+**Krag's Fate:** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. Gar and Asher are concerned the goblin will interfere in the rescue attempt. Using his javelin, Gar quickly impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
 
 **Encounter Loot:** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar.
 
