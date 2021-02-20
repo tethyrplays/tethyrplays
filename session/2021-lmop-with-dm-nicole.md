@@ -4,7 +4,7 @@
 ## Session 1 Recap
 _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
-**Participants:** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
+**DM:** Nicole. **Participants:** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
 
 ## Session 0 Recap
 _Feb. 4, 2021 @ 12:30 to 2:30 PM_
