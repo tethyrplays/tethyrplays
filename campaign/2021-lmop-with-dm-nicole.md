@@ -5,6 +5,12 @@
 
 ---
 
+## Session 2
+
+Thursday, March 4, 2021. 12:30 p.m. to 2:30 p.m. PST
+
+---
+
 ## Session 1 Recap
 _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
@@ -42,7 +48,7 @@ The party discusses what to do next and decides to locate the nearby Cragmaw lai
 
 **Short Rest:** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
 
-**Next Session:** Thursday, March 4. Payment to DM is due on Wednesday, March 3. See Discord for details.
+**Next Session:** Payment to DM is due on Wednesday, March 3. See Discord for details.
 
 **!!!**
 - Players must keep track of loot distribution and update their own character sheet accordingly.
