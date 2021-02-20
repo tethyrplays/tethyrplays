@@ -3,4 +3,4 @@
 # List of Characters
 
 - Aarden Falknor (Human, Ranger, Level 1)
-_Character backstory not yet available_
+<br />_Character backstory not yet available_
