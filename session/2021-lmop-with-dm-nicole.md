@@ -14,7 +14,7 @@ _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
 Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the wagon with the supplies. After brief introductions, Asher & Aarden discuss the escort mission as Gar rummages through the supplies to determine what the group is transporting.
 
-**Introductions.** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing; the note is his only lead and is trying to determine Gundren's connection. Gar has been assigned to escort the supplies on behalf of his blacksmithing guild.
+**Introductions.** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing; Gundren's note is his only lead and he's trying to determine the connection. Gar has been assigned to escort the supplies on behalf of his blacksmithing guild.
 
 **#Fail.** Gar discovers ale amongst the wagon's provisions and attempts to imbibe some without being noticed by his companions. The attempt fails with both Asher & Aaden staring at him; Gar persists as if he'd gone unnoticed.
 
