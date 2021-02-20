@@ -1,4 +1,5 @@
-### DUNGEONS & DRAGONS | NOW PLAYING
+### DUNGEONS & DRAGONS 5E
+
 ## Lost Mine of Phandelver
 
 ![Image](dnd-5e-phandelver-carousel.png)
