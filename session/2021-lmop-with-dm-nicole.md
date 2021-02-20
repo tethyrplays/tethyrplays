@@ -10,19 +10,19 @@ _Feb. 18, 2021 @ 12:30 to 2:30 PM_
 
 **Participants:** Gar, Asher, Aarden. **Absent:** Tarkin, Joe.
 
-**Travel.** The party travels from Neverwinter by wagon for approx. 2 days, first south along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin to deliver supplies. Their employer, Gundren Rockseeker, and his protector, Sildar Hallwinter, left earlier on another errand.
+**Travel:** The party travels from Neverwinter by wagon for approx. 2 days, first south along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin to deliver supplies. Their employer, Gundren Rockseeker, and his protector, Sildar Hallwinter, left earlier on another errand.
 
 Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the wagon with the supplies. After brief introductions, Asher & Aarden discuss the escort mission as Gar rummages through the supplies to determine what the group is transporting.
 
-**Introductions.** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing; Gundren's note is his only lead and he's trying to determine the connection. Gar has been assigned to escort the supplies on behalf of his blacksmithing guild.
+**Introductions:** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing; Gundren's note is his only lead and he's trying to determine the connection. Gar has been assigned to escort the supplies on behalf of his blacksmithing guild.
 
-**#Fail.** Gar discovers ale amongst the wagon's provisions and attempts to imbibe some without being noticed by his companions. The attempt fails with both Asher & Aaden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
+**#Fail:** Gar discovers ale amongst the wagon's provisions and attempts to imbibe some without being noticed by his companions. The attempt fails with both Asher & Aaden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
 
-**Investigation.** The party reaches a 3-way intersection. West returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon off to the side of the road and disembark to investigate. Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
+**Investigation:** The party reaches a 3-way intersection. West returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon off to the side of the road and disembark to investigate. Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
 
-**Combat.** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly Sharpshoot from range and misses 3x. Gar breaks into a rage with his greataxe, cleaving both of his attackers; the latter goblin is severed viscerally. Asher vaporizes the third with an Eldritch blast, covering Gar in its remains. Aarden uses hemp rope to restrain the final sleeping goblin for interrogation.
+**Combat Encounter:** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly Sharpshoot from range and misses 3x. Gar breaks into a rage with his greataxe, cleaving both of his attackers; the latter goblin is severed viscerally. Asher vaporizes the third with an Eldritch blast, covering Gar in its remains. Aarden uses hemp rope to restrain the final sleeping goblin for interrogation.
 
-**Interrogation.** Intimidated by Gar, the goblin divulges his name is Krag. Aarden meanwhile is in a fit, abusing his bow, over its dreadful aim throughout the encounter.
+**Interrogation:** Intimidated by Gar, the goblin divulges his name is Krag. Aarden meanwhile is in a fit, abusing his bow, over its dreadful aim throughout the encounter.
 
 Krag says the horses were killed in an earlier ambush by other members of his tribe, the Cragmaws. A dwarf and human were captured and taken to the tribal chief, a bugbear named Klarg.
 
@@ -36,11 +36,15 @@ Aarden's examinination of the dead horses reveals an empty map pouch, corroborat
 
 The party discusses what to do next and decides to locate the nearby Cragmaw lair, rescue the captive and determine if the bugbear chief knows where their employer has been taken.
 
-**Krag's Fate.** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. The main concern is that the surviving goblin will interfere in their rescue attempt. Using his javelin, Gar impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
+**Krag's Fate:** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. The main concern is that the surviving goblin will interfere in their rescue attempt. Using his javelin, Gar impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
 
-**Loot.** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar. (Per DM: Players must keep track of loot distribution and update their own character sheet accordingly.)
+**Encounter Loot:** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar.
 
-**Short Rest.** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots. (Per DM: Players are only permitted 2 short rests in a 24 hour period.)
+`Per DM: Players must keep track of loot distribution and update their own character sheet accordingly.`
+
+**Short Rest:** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
+
+`Per DM: Players are only permitted 2 short rests in a 24 hour period.`
 
 **Next Session:** Thursday, March 4. Payment to DM is due on Wednesday, March 3. See Discord for details.
 
