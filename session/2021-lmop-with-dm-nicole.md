@@ -26,9 +26,11 @@ Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the 
 
 Krag says the horses were killed in an earlier ambush by other members of his tribe, the Cragmaws. The dwarf Gundren Rockseeker and human Sildar Hallwinter were captured and taken to the tribal chief, a bugbear named Klarg.
 
-The goblins have been on the lookout for the dwarf under orders of King Grol, leader of the Cragmaws. The King is allied with a figure known to the goblins only as "the black spider." The black spider wants to to acquire the Rockseekers' map to an old mine.
+The goblins have been on the lookout for the dwarf under orders of King Grol, leader of the Cragmaw Tribe. The King is allied with a figure known to the goblins only as "the black spider." The black spider wants to to acquire the Rockseekers' map to an old mine.
 
-Krag doesn't know the King's location, but points the party to his own lair about 1-2 hours beyond the brook. Asked to lead the way, Krag refuses, stating his fellow goblins would kill him. He tells the party that Sildar is being held there, but Gundren and his map are already underway to King Grol.
+Krag doesn't know the location of King Grol, but points the party to his own lair about 1-2 hours beyond the brook. Asked to lead the way, he refuses, stating his goblin peers would kill him for certain.
+
+Krag tells the party that Sildar is being held at the lair by Klarg, but Gundren and his map are already underway to King Grol, in hopes that his life will be spared.
 
 Aarden's examinination of the dead horses reveals an empty map pouch, corroborating the goblin's claim.
 
