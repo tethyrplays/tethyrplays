@@ -1,6 +1,6 @@
 ### DUNGEONS & DRAGONS 5E
 
-# Lost Mine of Phandelver
+# "Lost Mine of Phandelver"
 
 ![Image](/dnd-5e-phandelver-carousel.png)
 
