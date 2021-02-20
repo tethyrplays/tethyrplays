@@ -25,7 +25,9 @@ Asher and Aarden helm the reins of the oxen pulling the wagon; Gar rides in the 
 
 **#Fail Stealth Check:** Gar discovers ale amongst the wagon's mining and farming supplies and attempts to imbibe some without being noticed by his companions up front. The attempt fails with both Asher & Aaden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
 
-**Investigation:** The party reaches a 3-way intersection. West returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon off to the side of the road and disembark to investigate. Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
+**Investigation:** The party reaches a 3-way intersection. West returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon off to the side of the road and disembark to investigate.
+
+Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
 
 **Combat Encounter:** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly Sharpshoot from range and misses 3x.
 
@@ -47,7 +49,9 @@ Aarden's examinination of the dead horses reveals an empty map pouch, corroborat
 
 The party discusses what to do next and decides to locate the nearby Cragmaw lair, rescue the captive and determine if the bugbear chief knows where their employer has been taken.
 
-**Krag's Fate:** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. Gar and Asher are concerned the goblin will interfere in the rescue attempt. Using his javelin, Gar quickly impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
+**Krag's Fate:** Asher and Aarden decide that Gar, having sustained the most injuries and the most kills, can decide Krag's fate. Aarden suggests leaving him tied up in the brush. Gar and Asher are concerned the goblin will interfere in the rescue attempt.
+
+Using his javelin, Gar quickly impales Krag after much begging and pleading for mercy. Aarden, distraught, reclaims his bloodied rope.
 
 **Encounter Loot:** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar.
 
