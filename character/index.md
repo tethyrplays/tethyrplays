@@ -3,10 +3,10 @@
 # Tethyr's Characters
 
 **Aarden Falknor**
-<br />Standard Human - Ranger - Level 1
+> Standard Human - Ranger - Level 1
 
-Appearances
-> Character Backstory (Not yet available)
-> [LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole)
+**Appearances**
+> LMoP Prologue (Coming sooon)
+> <br />[LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole)
 
 ---
