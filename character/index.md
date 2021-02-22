@@ -4,8 +4,9 @@
 
 **Aarden Falknor**
 <br />Standard Human - Ranger - Level 1
-<br />Appearances:
-- Character Backstory (Not yet available)
-- [LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole)
+
+Appearances
+> Character Backstory (Not yet available)
+> [LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole)
 
 ---
