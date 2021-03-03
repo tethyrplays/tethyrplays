@@ -11,6 +11,7 @@
 <br />&#x27A5; [Dragon+ Magazine](https://dnd.dragonmag.com/)
 
 **D&D Third-Party Content**
+<br />&#x27A5; [Dungeon Masters Guild](https://www.dmsguild.com/)
 <br />&#x27A5; [Donjon's Random Generators](http://donjon.bin.sh/)
 <br />&#x27A5; [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder)
 <br />&#x27A5; [Reddit: Monster A Day](https://www.reddit.com/r/monsteraday/)
