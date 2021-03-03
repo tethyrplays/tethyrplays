@@ -13,7 +13,7 @@ Per Quarter = 3 months
 | Q3 | Jul-Aug-Sep | $15 ($60) | $180 ($720) | $648 |
 | Q4 | Oct-Nov-Dec | $15 ($60) | $180 ($720) | $648 |
 
-### Support the Campaign
+### Support the Campaign / Perks
 
 You have an invisible hand  as a Twitch viewer to assist players in the active campaign.
 
