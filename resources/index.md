@@ -1,6 +1,6 @@
-# Resources
+### RESOURCES
 
-### Dungeons and Dragons 5e
+# Dungeons and Dragons 5e
 
 **Wizards of the Coast**
 <br />&#x27A5; [D&D Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)
