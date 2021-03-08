@@ -1,6 +1,6 @@
 # Resources
 
-### Dungeons and Dragons
+### Dungeons & Dragons 5e
 
 **Wizards of the Coast**
 <br />&#x27A5; [D&D Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)
@@ -17,7 +17,7 @@
 <br />[Ink and Lyre](https://www.inkandlyre.com/)
 <br />[Girls Guts Glory](https://www.girlsgutsgloryrpg.com/)
 
-**D&D Third-Party Content**
+**Third-Party Content**
 <br />&#x27A5; [Dungeon Masters Guild](https://www.dmsguild.com/)
 <br />&#x27A5; [Donjon's Random Generators](http://donjon.bin.sh/)
 <br />&#x27A5; [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder)

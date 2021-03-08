@@ -1,6 +1,7 @@
-### DUNGEONS & DRAGONS 5E
 
 # Tethyr's Characters
+
+### Dungeons & Dragons 5E
 
 **Aarden Falknor**
 <br />Standard Human - Ranger - Level 1
