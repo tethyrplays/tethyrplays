@@ -24,6 +24,8 @@
 <br />&#x27A5; [Reddit: Monster A Day](https://www.reddit.com/r/monsteraday/)
 <br />&#x27A5; [Who The F*ck Is My Character?](https://whothefuckismydndcharacter.com/)
 
+---
+
 # Virtual Tabletops (VTT)
 
 [D&D Beyond](https://www.dndbeyond.com/) Website *Recommended*
