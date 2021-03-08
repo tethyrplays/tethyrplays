@@ -26,10 +26,12 @@
 
 # Virtual Tabletops (VTT)
 
-[D&D Beyond](https://www.dndbeyond.com/) *Recommended*
+[D&D Beyond](https://www.dndbeyond.com/) Website *Recommended*
 
-[Roll20](https://roll20.net/welcome)
+[Roll20](https://roll20.net/welcome) Website
 
-[Let's Role](https://lets-role.com/)
+[Let's Role](https://lets-role.com/) App
 
-[Fantasy Grounds](https://www.fantasygrounds.com/home/home.php)
+[Fantasy Grounds](https://www.fantasygrounds.com/home/home.php) App
+
+[Discord](https://discord.com/) App + [Avrae](https://avrae.io/) Bot
