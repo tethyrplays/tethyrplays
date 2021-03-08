@@ -5,15 +5,30 @@
 
 ---
 
-## Next Session
+## Next: Session 3
 
 _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
+
+---
+
+### Players
+
+- **Gar Rollisk,** Half-Orc, Barbarian
+- **Asher,** Half-Elf, Archfey Warlock
+- **Aarden Falknor,** Human, Ranger
+- **Tarkin Shadowdale,** Stout Halfling, Rogue
+
+### Dungeon Master
+
+- [Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ---
 
 ## Session 2 Recap
 
 _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
+
+**Participants:** Gar, Asher, Aarden, Tarkin
 
 (Coming soon)
 
@@ -23,7 +38,7 @@ _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
 _Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
-**[Participants:](#session-0-recap)** Gar, Asher, Aarden. **Absent:** Tarkin, <del>Joe</del>.
+**Participants:** Gar, Asher, Aarden. **Absent:** Tarkin, <del>Joe</del>.
 
 **Travel:** Level 1. The party travels from Neverwinter escorting a wagon of supplies for approx. two days. First south, along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin. Their employer, Gundren Rockseeker, and his trusted escort Sildar Hallwinter, went ahead on horseback to attend to another task.
 
@@ -88,7 +103,7 @@ Created Lv 1 characters using Roll20's Charactermancer.
 - Asher (Half-Elf, Archfey Warlock)
 - Aarden Falknor (Human, Ranger)
 - Tarkin Shadowdale (Stout Halfling, Rogue)
-- Joe Rockseeker (Hill Dwarf, Forge Domain Cleric)
+- <del>Joe Rockseeker (Hill Dwarf, Forge Domain Cleric)</del>
 
 Players are asked to send DM a character portrait for Roll20 token; choose a token border; and choose 1 Feat for character.
 
