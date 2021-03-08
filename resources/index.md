@@ -3,11 +3,11 @@
 # Dungeons and Dragons 5e
 
 **Wizards of the Coast**
-<br />&#x27A5; [D&D Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)
-<br />&#x27A5; [D&D Basic Rules](https://dnd.wizards.com/articles/features/basicrules)
+<br />&#x27A5; [Basic Rules](https://dnd.wizards.com/articles/features/basicrules)
 <br />&#x27A5; [Player's Guide](https://dnd.wizards.com/products/tabletop/players-basic-rules)
 <br />&#x27A5; [DM's Guide](https://dnd.wizards.com/products/tabletop/dm-basic-rules)
 <br />&#x27A5; [Errata/Corrections/Clarifications](https://thinkdm.org/5e-errata/)
+<br />&#x27A5; [Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)
 <br />&#x27A5; [Dragon+ Magazine](https://dnd.dragonmag.com/)
 
 **Actual Play**
@@ -23,3 +23,13 @@
 <br />&#x27A5; [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder)
 <br />&#x27A5; [Reddit: Monster A Day](https://www.reddit.com/r/monsteraday/)
 <br />&#x27A5; [Who The F*ck Is My Character?](https://whothefuckismydndcharacter.com/)
+
+# Virtual Tabletops (VTT)
+
+[D&D Beyond](https://www.dndbeyond.com/) *Recommended*
+
+[Roll20](https://roll20.net/welcome)
+
+[Let's Role](https://lets-role.com/)
+
+[Fantasy Grounds](https://www.fantasygrounds.com/home/home.php)
