@@ -11,7 +11,7 @@ _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 ---
 
-### Players
+### Player Characters
 
 - **Gar Rollisk,** Half-Orc, Barbarian
 - **Asher,** Half-Elf, Archfey Warlock
