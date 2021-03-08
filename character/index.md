@@ -3,7 +3,8 @@
 
 # Dungeons and Dragons 5e
 
-|  | <h3>Aarden Falknor</h3> |
+## Aarden Falknor
+|  |  |
 | ---: | :--- |
 | **Gender** | Male (he/him) |
 | **Species** | Standard Human |
