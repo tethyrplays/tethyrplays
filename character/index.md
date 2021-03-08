@@ -1,7 +1,7 @@
 
 ### LIST OF CHARACTERS
 
-# Dungeons & Dragons 5E
+# Dungeons and Dragons 5e
 
 **Aarden Falknor**
 <br />Standard Human, Ranger
