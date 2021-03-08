@@ -11,11 +11,11 @@
 <br />&#x27A5; [Dragon+ Magazine](https://dnd.dragonmag.com/)
 
 **Actual Play**
-<br />[Critical Role](https://critrole.com/)
-<br />[The Adventure Zone](https://www.themcelroy.family/theadventurezone)
-<br />[Dimension 20: D&D Meets NYC](https://brennanleemulligan.com/dimension-20-the-unsleeping-city/)
-<br />[Ink and Lyre](https://www.inkandlyre.com/)
-<br />[Girls Guts Glory](https://www.girlsgutsgloryrpg.com/)
+<br />&#x27A5; [Critical Role](https://critrole.com/)
+<br />&#x27A5; [The Adventure Zone](https://www.themcelroy.family/theadventurezone)
+<br />&#x27A5; [Dimension 20: D&D Meets NYC](https://brennanleemulligan.com/dimension-20-the-unsleeping-city/)
+<br />&#x27A5; [Ink and Lyre](https://www.inkandlyre.com/)
+<br />&#x27A5; [Girls Guts Glory](https://www.girlsgutsgloryrpg.com/)
 
 **Third-Party Content**
 <br />&#x27A5; [Dungeon Masters Guild](https://www.dmsguild.com/)
