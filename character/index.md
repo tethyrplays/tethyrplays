@@ -15,5 +15,3 @@
 | **Bonds** | |
 | **Flaws** | |
 | **Appearances** | LMoP Prologue (Coming soon)<br />[LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole) |
-
----
