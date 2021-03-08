@@ -1,9 +1,10 @@
 
-# List of Campaigns
+# LIST OF CAMPAIGNS
 
-## Dungeons & Dragons 5E
+## Dungeons and Dragons 5e
 
-**"Lost Mine of Phandelver"** (Active)
-<br />**[with DM Nicole](/campaign/2021-lmop-with-dm-nicole)** - Playing as [Aarden](/character)
+**Game No. 1**
+<br />**["Lost Mine of Phandelver" with DM Nicole](/campaign/2021-lmop-with-dm-nicole)** - Active - Playing as [Aarden](/character)
+<br />[&#x27A5; More details](/campaign/2021-lmop-with-dm-nicole)
 
 ---
