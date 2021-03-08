@@ -4,7 +4,9 @@
 # Dungeons and Dragons 5e
 
 **Aarden Falknor**
-| --- | --- |
+
+|  |  |
+| ---: | :--- |
 | **Gender** | Male (he/him) |
 | **Species** | Standard Human |
 | **Class** | Ranger |
