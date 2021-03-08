@@ -4,10 +4,10 @@
 
 **Wizards of the Coast**
 <br />&#x27A5; [D&D Character Sheets](https://dnd.wizards.com/articles/features/character_sheets)
-<br />&#x27A5; [D&D Basic Rules](https://dnd.wizards.com/articles/features/basicrules) (PDF)
+<br />&#x27A5; [D&D Basic Rules](https://dnd.wizards.com/articles/features/basicrules)
 <br />&#x27A5; [Player's Guide](https://dnd.wizards.com/products/tabletop/players-basic-rules)
 <br />&#x27A5; [DM's Guide](https://dnd.wizards.com/products/tabletop/dm-basic-rules)
-<br />&#x27A5; [Sage Advice Compendium ](https://media.wizards.com/2019/dnd/downloads/SA-Compendium.pdf) (PDF) errata/clarifications/corrections
+<br />&#x27A5; [Errata/Corrections/Clarifications](https://thinkdm.org/5e-errata/)
 <br />&#x27A5; [Dragon+ Magazine](https://dnd.dragonmag.com/)
 
 **Actual Play**
