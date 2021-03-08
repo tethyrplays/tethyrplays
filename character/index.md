@@ -8,6 +8,7 @@
 | **Gender** | Male (he/him) |
 | **Species** | Standard Human |
 | **Class** | Ranger |
+| **Alignment** | Neutral Good |
 | **Background** | Folk Hero |
 | **Ideals** | |
 | **Bonds** | |
