@@ -9,8 +9,4 @@
 | **Species** | Standard Human |
 | **Class** | Ranger |
 | **Alignment** | Neutral Good |
-| **Background** | Folk Hero |
-| **Ideals** | |
-| **Bonds** | |
-| **Flaws** | |
 | **Appearances** | LMoP Prologue (Coming soon)<br />[LMoP with DM Nicole](/campaign/2021-lmop-with-dm-nicole) |
