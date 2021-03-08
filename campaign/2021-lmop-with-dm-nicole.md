@@ -7,7 +7,15 @@
 
 ## Next Session
 
+_Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
+
+---
+
+## Session 2 Recap
+
 _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
+
+(Coming soon)
 
 ---
 
