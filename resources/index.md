@@ -20,6 +20,7 @@
 | **More Content** <i class="fas fa-link"></i> | [Dungeon Masters Guild](https://www.dmsguild.com/) / DriveThru RPG |
 | | [Donjon's Random Generators](http://donjon.bin.sh/) |
 | | [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder) |
+| | [Rolled and Told](https://www.rolledandtold.com/)
 | | [Reddit: Monster A Day](https://www.reddit.com/r/monsteraday/) |
 | | [Who The F*ck Is My Character?](https://whothefuckismydndcharacter.com/) |
 | | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
