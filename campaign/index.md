@@ -1,5 +1,5 @@
 
-### LIST OF RPG CAMPAIGNS
+### LIST OF CAMPAIGNS
 
 # Dungeons <i class="fab fa-d-and-d"></i> Dragons: Fifth Edition
 

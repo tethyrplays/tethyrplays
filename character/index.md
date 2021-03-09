@@ -1,5 +1,5 @@
 
-### LIST OF RPG CHARACTERS
+### LIST OF CHARACTERS
 
 # Dungeons <i class="fab fa-d-and-d"></i> Dragons: Fifth Edition
 
