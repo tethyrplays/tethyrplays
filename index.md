@@ -1,4 +1,4 @@
-### CURRENTLY PLAYING
+### NOW PLAYING
 
 # "Lost Mine of Phandelver"
 
