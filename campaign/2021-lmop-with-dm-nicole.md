@@ -24,6 +24,8 @@ _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 ---
 
+![Image](/dnd-5e-phandelver-carousel.png)
+
 ## Session 2 Recap
 
 _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_

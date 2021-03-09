@@ -3,6 +3,8 @@
 
 # Dungeons <i class="fab fa-d-and-d"></i> Dragons: Fifth Edition
 
+![Image](/character-aarden.png)
+
 |  | Aarden Falknor |
 | ---: | :--- |
 | **Gender** | Male (he/him) |
