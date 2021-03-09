@@ -30,7 +30,7 @@ _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
-**Participants:** Gar, Asher, Aarden, Tarkin
+**Participants:** Gar, Asher, Aarden, Tarkin.
 
 (Coming soon)
 
@@ -40,7 +40,7 @@ _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
 _Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
-**Participants:** Gar, Asher, Aarden. <br />**Absent:** Tarkin.
+**Participants:** Gar, Asher, Aarden. **Absent:** Tarkin.
 
 **Travel:** Level 1. The party travels from Neverwinter escorting a wagon of supplies for approx. two days. First south, along The High Road, then east on Triboar Trail, headed for Barthon's Provisions in Phandalin. Their employer, Gundren Rockseeker, and his trusted escort Sildar Hallwinter, went ahead on horseback to attend to another task.
 
@@ -82,7 +82,7 @@ Using his javelin, Gar quickly impales Krag after much begging and pleading for 
 
 **Important NPCs Mentioned**
 <br />**Gundren Rockseeker:** Hired the party to escort supplies to Barthon's Provisions. **Sildar Hallwinter:** Member of the Lord's Alliance and Gundren's protector.
-**Krag:** Minor goblin interrogated for information about ambush and captives. **Klarg:** Bugbear leader of local goblins in nearby Cragmaw cavern. 
+**Krag:** Minor goblin interrogated for information about ambush and captives. **Klarg:** Bugbear leader of local goblins in nearby Cragmaw cavern.
 **King Grol:** Leader of the Cragmaw Tribe. Location unknown.
 
 **!!!!!**
