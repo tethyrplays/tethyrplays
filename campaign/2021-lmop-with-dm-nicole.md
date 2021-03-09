@@ -87,7 +87,7 @@ Using his javelin, Gar quickly impales Krag after much begging and pleading for 
 - **Klarg.** Bugbear leader of local goblins in nearby Cragmaw cavern.
 - **King Grol.** Leader of the Cragmaw Tribe. Location unknown.
 
-**!!!!!**
+**Additional Notes**
 - Players must keep track of loot distribution and update their own character sheet accordingly.
 - Players are only permitted 2 short rests in a 24 hour period.
 - XP will be evenly distributed to all players, including absent, to avoid mixed-level characters that will complicate encounters.
