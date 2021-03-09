@@ -4,7 +4,7 @@
 
 | | |
 | ---: | :--- |
-| **Wizards of the Coast** <i class="fas fa-link"></i> | [Basic Rules](https://dnd.wizards.com/articles/features/basicrules) |
+| **Wizards of the Coast** <i class="fas fa-link"></i> | [5E Basic Rules](https://dnd.wizards.com/articles/features/basicrules) |
 | | [Player's Guide](https://dnd.wizards.com/products/tabletop/players-basic-rules) |
 | | [DM's Guide](https://dnd.wizards.com/products/tabletop/dm-basic-rules) |
 | | [Errata/Corrections/Clarifications](https://thinkdm.org/5e-errata/) |
