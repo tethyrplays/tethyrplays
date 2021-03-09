@@ -26,7 +26,7 @@
 
 ---
 
-# Virtual Tabletops (VTT)
+# <i class="fas fa-dice-d20"></i> Virtual Tabletops (VTT)
 
 [D&D Beyond](https://www.dndbeyond.com/) Website *Recommended*
 
