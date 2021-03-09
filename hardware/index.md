@@ -1,5 +1,5 @@
-### INFORMATION
+### HARDWARE
 
-# Hardware
+# Gaming & Streaming Configuration
 
 (Coming soon)
