@@ -1,6 +1,6 @@
 ### RESOURCES
 
-# Dungeons <i class="fab fa-d-and-d"></i> Dragons: Fifth Edition
+# Dungeons <i class="fab fa-d-and-d"></i> Dragons (5E)
 
 | | |
 | ---: | :--- |
