@@ -90,8 +90,8 @@ The party decides to locate the nearby Cragmaw cavern, rescue the captive and de
 - **Gundren Rockseeker.** Captive. Hired the party to escort supplies to Barthon's Provisions. Location unknown.
 - **Sildar Hallwinter.** Captive. Member of the Lord's Alliance and Gundren's protector.
 - **Krag.** Dead. Minor goblin interrogated for information about ambush and captives.
-- **Klarg.** Bugbear chief of the local goblins in nearby Cragmaw cavern.
-- **King Grol.** Leader of the Cragmaw Tribe. Location unknown.
+- **Klarg.** Bugbear chief of the local Cragmaw goblins hiding in nearby cavern.
+- **King Grol.** Leader of the Cragmaws. Location unknown. Allied with "The Black Spider."
 
 **Additional Notes**
 - Players must keep track of loot distribution and update their own character sheet accordingly.
