@@ -5,8 +5,9 @@
 
 ![Image](/dnd-5e-phandelver-carousel.png)
 
-001 / **"Lost Mine of Phandelver" with DM Nicole**
-<br />&#x27A5; Active - Playing as [Aarden](/character)
-<br />&#x27A5; Read the [session recaps](/campaign/2021-lmop-with-dm-nicole)
+001 / **Bi-Weekly Thursdays with DM Nicole**
+<br />Campaign: Lost Mine of Phandelver
+<br />Playing as [Aarden](/character)
+<br />Read the [session recaps](/campaign/2021-lmop-with-dm-nicole)
 
 ---
