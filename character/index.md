@@ -1,7 +1,7 @@
 
 ### LIST OF CHARACTERS
 
-# Dungeons and Dragons 5e
+# Dungeons and Dragons: Fifth Edition <i class="fab fa-d-and-d"></i>
 
 |  | Aarden Falknor |
 | ---: | :--- |
