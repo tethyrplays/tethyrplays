@@ -14,12 +14,10 @@ In recent years, people have resettled the area. Phandalin is now a rough-and-tu
 
 **System:** Dungeons & Dragons: Fifth Edition
 
-**No. of Players:** 4 to 6
-
 **Requirements**
 - [Roll20](https://roll20.net/) and [Discord](https://discord.com/) accounts
 - Optional: [5e Starter Kit](https://www.dndbeyond.com/sources/lmop) or [5e PHB](https://www.dndbeyond.com/sources/phb)
-- 18 years of age or older
+- 4 to 6 Players; 18 years old+
 - Reliable microphone w/o background noise
 
 **More Details:** [Session Recaps](/campaign/2021-lmop-with-dm-nicole)
