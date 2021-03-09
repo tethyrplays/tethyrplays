@@ -1,4 +1,4 @@
-### CONFIGURATION
+### MORE INFORMATION
 
 # Windows 10 Gaming System
 
