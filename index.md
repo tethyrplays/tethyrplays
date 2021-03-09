@@ -18,8 +18,8 @@ In recent years, people have resettled the area. Phandalin is now a rough-and-tu
 
 **Requirements**
 - [Roll20](https://roll20.net/) and [Discord](https://discord.com/) accounts
-- Optional: [D&D 5e Starter Kit](https://www.dndbeyond.com/sources/lmop) or [Player's Handbook](https://www.dndbeyond.com/sources/phb)
+- Optional: [5e Starter Kit](https://www.dndbeyond.com/sources/lmop) or [5e PHB](https://www.dndbeyond.com/sources/phb)
 - 18 years of age or older
 - Reliable microphone w/o background noise
 
-**More Details:** [Roll20 Campaign](https://app.roll20.net/campaigns/details/9698135/lost-mine-of-phandelver-introductory-campaign)
+**More Details:** [Session Recaps](/campaign/2021-lmop-with-dm-nicole)
