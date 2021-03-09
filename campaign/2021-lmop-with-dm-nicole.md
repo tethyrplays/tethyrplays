@@ -5,7 +5,7 @@
 
 ---
 
-## Next: Session 3
+## Next Session
 
 _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
