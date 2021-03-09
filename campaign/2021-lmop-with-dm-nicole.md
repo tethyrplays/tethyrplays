@@ -13,10 +13,10 @@ _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 ### Player Characters
 
-- **Gar Rollisk,** Half-Orc, Barbarian
-- **Asher,** Half-Elf, Archfey Warlock
-- **Aarden Falknor,** Human, Ranger
-- **Tarkin Shadowdale,** Stout Halfling, Rogue
+- **Gar Rollisk,** Half-Orc Barbarian
+- **Asher,** Half-Elf Archfey Warlock
+- **Aarden Falknor,** Human Ranger
+- **Tarkin Shadowdale,** Stout Halfling Rogue
 
 ### Dungeon Master
 
