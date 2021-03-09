@@ -9,7 +9,7 @@
 
 Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 
-<i class="fas fa-money-check-alt"></i> Payment due by Wednesday. See Discord for details.
+<i class="fas fa-money-check-alt"></i> Payment due by Wednesday, March 17. See Discord for details.
 
 ---
 
