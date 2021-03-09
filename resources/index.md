@@ -1,6 +1,6 @@
 ### RESOURCES
 
-# Dungeons & Dragons:<br /><i class="fab fa-d-and-d"></i> Fifth Edition
+# Dungeons <i class="fab fa-d-and-d"></i> Dragons: Fifth Edition
 
 **Wizards of the Coast**
 <br />&#x27A5; [Basic Rules](https://dnd.wizards.com/articles/features/basicrules)
