@@ -1,6 +1,6 @@
 ### MORE INFORMATION
 
-# Gaming Setup
+# Windows 10 Gaming Setup
 
 | | |
 | ---: | :--- |
