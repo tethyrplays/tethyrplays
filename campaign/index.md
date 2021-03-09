@@ -5,8 +5,8 @@
 
 ![Image](/dnd-5e-phandelver-carousel.png)
 
-001 / **Bi-Weekly Thursdays with DM Nicole**
-<br />Campaign: Lost Mine of Phandelver
+001 / **"Lost Mine of Phandelver" with DM Nicole**
+<br />Thursdays, bi-weekly
 <br />Playing as [Aarden](/character)
 <br />Read the [session recaps](/campaign/2021-lmop-with-dm-nicole)
 
