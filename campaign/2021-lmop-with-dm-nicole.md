@@ -83,7 +83,7 @@ Using his javelin, Gar quickly impales Krag after much begging and pleading for 
 **Important NPCs**
 - **Gundren Rockseeker:** Hired the party to escort supplies to Barthon's Provisions.
 - **Sildar Hallwinter:** Member of the Lord's Alliance and Gundren's protector.
-- **Krag:** Minor goblin interrogated for information about ambush and captives.
+- **Krag:** Dead. Minor goblin interrogated for information about ambush and captives.
 - **Klarg:** Bugbear leader of local goblins in nearby Cragmaw cavern.
 - **King Grol:** Leader of the Cragmaw Tribe. Location unknown.
 
