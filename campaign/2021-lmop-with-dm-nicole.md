@@ -106,13 +106,7 @@ Basic tutorial of Roll20 and Discord for virtual tabletop roleplaying.
 
 Created Lv 1 characters using Roll20's Charactermancer.
 
-- Gar Rollisk (Half-Orc, Barbarian)
-- Asher (Half-Elf, Archfey Warlock)
-- Aarden Falknor (Human, Ranger)
-- Tarkin Shadowdale (Stout Halfling, Rogue)
-- <del>Joe Rockseeker (Hill Dwarf, Forge Domain Cleric)</del>
-
-Players are asked to send DM a character portrait for Roll20 token; choose a token border; and choose 1 Feat for character.
+Players instructed to send direct message to DM with character portrait for Roll20 token; to choose a token border; and to choose 1 Feat for character.
 
 ---
 
