@@ -50,7 +50,7 @@ _Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 **Level 1.**
 
-**Travel By Oxen and Wagon:** The party is underway for two days from Neverwinter escorting supplies destined for Barthon's Provisions in Phandalin. First south along The High Road, then east on Triboar Trail. Their employer, Gundren Rockseeker, and his trusted escort went ahead on horseback to attend to another task.
+**Travel By Oxen and Wagon:** The party is underway for two days from Neverwinter escorting supplies destined for Barthon's Provisions in the remote town of Phandalin. Their employer, Gundren Rockseeker, and his trusted escort went ahead on horseback to attend to another task.
 
 Asher and Aarden helm the reins of the oxen; Gar rides in the wagon with the supplies. After brief introductions, Asher & Aarden discuss the escort mission as Gar rummages through the supplies to determine what the group is transporting.
 
