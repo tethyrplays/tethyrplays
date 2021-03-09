@@ -29,8 +29,8 @@
 
 | | |
 | ---: | :--- |
-| **Online** | [D&D Beyond](https://www.dndbeyond.com) |
+| **Websites** | [D&D Beyond](https://www.dndbeyond.com) |
 | | [Roll20](https://roll20.net) |
-| **Software** | [Let's Role](https://lets-role.com)<br />Kickstarter. ETA ~Sept 2021 |
-| | [Fantasy Grounds](https://www.fantasygrounds.com) |
+| **Software** | [Fantasy Grounds](https://www.fantasygrounds.com) |
 | | [Discord](https://discord.com) + [Avrae](https://avrae.io) Bot |
+| | [Let's Role](https://lets-role.com)<br />Kickstarter. ETA ~Sept 2021 |
