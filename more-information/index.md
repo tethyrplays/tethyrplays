@@ -2,6 +2,8 @@
 
 # Windows 10 Gaming Setup
 
+![Image](/hardware-setup.png)
+
 | | |
 | ---: | :--- |
 | | [ASUS ROG Strix B550-E Gaming Motherboard](https://www.amazon.com/gp/product/B088W4933P/) |
