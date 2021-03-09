@@ -2,7 +2,7 @@
 
 # Gaming Setup
 
-| Windows 10 Gaming PC | |
+| | |
 | ---: | :--- |
 | | [ASUS ROG Strix B550-E Gaming Motherboard](https://www.amazon.com/gp/product/B088W4933P/) |
 | | [AMD Ryzen 9 3900XT](https://www.amazon.com/gp/product/B089WD454D/) |
