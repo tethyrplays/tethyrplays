@@ -9,6 +9,8 @@
 
 _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
+<i class="fas fa-money-check-alt"></i> Payment due by Wednesday. See Discord for details.
+
 ---
 
 ### Player Characters
@@ -17,6 +19,8 @@ _Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST_
 - **Asher,** Half-Elf Archfey Warlock
 - **Aarden Falknor,** Human Ranger
 - **Tarkin Shadowdale,** Stout Halfling Rogue
+- Player \#5 (TBA)
+- Player \#6 (TBA)
 
 ### Dungeon Master
 
