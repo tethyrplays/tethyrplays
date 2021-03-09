@@ -1,6 +1,6 @@
-### MORE INFORMATION
+### CONFIGURATION
 
-# Windows 10 Gaming Setup
+# Windows 10 Gaming System
 
 ![Image](/hardware-setup.png)
 
