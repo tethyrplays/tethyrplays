@@ -1,4 +1,4 @@
-### HARDWARE
+### MORE INFORMATION
 
 # Gaming & Streaming Configuration
 
