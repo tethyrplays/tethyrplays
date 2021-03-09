@@ -1,5 +1,5 @@
 ### MORE INFORMATION
 
-# Gaming & Streaming Configuration
+# Gaming & Streaming Setup
 
 (Coming soon)
