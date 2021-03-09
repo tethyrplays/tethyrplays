@@ -80,10 +80,9 @@ Using his javelin, Gar quickly impales Krag after much begging and pleading for 
 
 **Short Rest:** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
 
-**Important NPCs Mentioned**
-<br />**Gundren Rockseeker:** Hired the party to escort supplies to Barthon's Provisions. **Sildar Hallwinter:** Member of the Lord's Alliance and Gundren's protector.
-**Krag:** Minor goblin interrogated for information about ambush and captives. **Klarg:** Bugbear leader of local goblins in nearby Cragmaw cavern.
-**King Grol:** Leader of the Cragmaw Tribe. Location unknown.
+**Important NPCs:** // **Gundren Rockseeker:** Hired the party to escort supplies to Barthon's Provisions. // **Sildar Hallwinter:** Member of the Lord's Alliance and Gundren's protector.
+// **Krag:** Minor goblin interrogated for information about ambush and captives. // **Klarg:** Bugbear leader of local goblins in nearby Cragmaw cavern.
+// **King Grol:** Leader of the Cragmaw Tribe. Location unknown.
 
 **!!!!!**
 - Players must keep track of loot distribution and update their own character sheet accordingly.
