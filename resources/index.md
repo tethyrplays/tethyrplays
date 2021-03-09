@@ -28,12 +28,12 @@
 
 # <i class="fas fa-dice-d20"></i> Virtual Tabletops (VTT)
 
-[D&D Beyond](https://www.dndbeyond.com/) Website *Recommended*
+&#x2023; [D&D Beyond](https://www.dndbeyond.com)
 
-[Roll20](https://roll20.net/welcome) Website
+&#x2023; [Roll20](https://roll20.net)
 
-[Let's Role](https://lets-role.com/) App
+&#x2023; [Let's Role](https://lets-role.com), Kickstarter Release: ~Sept 2021
 
-[Fantasy Grounds](https://www.fantasygrounds.com/home/home.php) App
+&#x2023; [Fantasy Grounds](https://www.fantasygrounds.com)
 
-[Discord](https://discord.com/) App + [Avrae](https://avrae.io/) Bot
+&#x2023; [Discord](https://discord.com) + [Avrae](https://avrae.io) Bot
