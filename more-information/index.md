@@ -6,7 +6,7 @@
 
 | | |
 | ---: | :--- |
-| | [ASUS ROG Strix B550-E Gaming Motherboard](https://www.amazon.com/gp/product/B088W4933P/) |
+| **Components** | [ASUS ROG Strix B550-E Gaming Motherboard](https://www.amazon.com/gp/product/B088W4933P/) |
 | | [AMD Ryzen 9 3900XT](https://www.amazon.com/gp/product/B089WD454D/) |
 | | [Gigabyte RTX 2070 Super](https://www.amazon.com/gp/product/B07TV9CLL5) |
 | | [Crucial Ballistix DDR4 32GB x4](https://www.amazon.com/gp/product/B083VNMP87/) |
