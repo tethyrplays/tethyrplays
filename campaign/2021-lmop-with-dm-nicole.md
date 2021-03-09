@@ -78,7 +78,7 @@ Using his javelin, Gar quickly impales Krag after much begging and pleading for 
 
 **Encounter Loot:** The party distributes the loot from the goblins. 15 gold, 8 silver b/t Asher, Aarden & Gar.
 
-**Short Rest:** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
+**Short Rest (1 of 2):** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
 
 **Important NPCs**
 - **Gundren Rockseeker.** Captive. Hired the party to escort supplies to Barthon's Provisions. Location unknown.
