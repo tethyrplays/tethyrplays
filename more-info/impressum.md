@@ -14,3 +14,10 @@ This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS]
 * [DM Serif Text](https://fonts.google.com/specimen/DM+Serif+Text)
 * [Archivo](https://fonts.google.com/specimen/Archivo)
 * [FontAwesome](https://fontawesome.com/)
+
+# Streaming to Twitch / Publishing to YouTube
+
+**Recommended Software**
+* [Open Broadcasting Software Studio](https://obsproject.com/)
+* and [StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/)
+* [Adobe Premiere](https://www.adobe.com/products/premiere.html)
