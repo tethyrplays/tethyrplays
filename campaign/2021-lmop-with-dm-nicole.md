@@ -36,9 +36,9 @@ _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
 **Participants:** Gar, Asher, Aarden, Tarkin.
 
-**Level 1.**
+**Level 1 continued.**
 
-(Coming soon)
+(Details coming soon.)
 
 ---
 
