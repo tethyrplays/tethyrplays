@@ -26,7 +26,7 @@
 | | [Who The F*ck Is My Character?](https://whothefuckismydndcharacter.com/) |
 | | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
 
-# <i class="fas fa-dice-d20"></i> Virtual Tabletops (VTT)
+# Virtual <i class="fas fa-dice-d20"></i> Tabletops (VTT)
 
 | | |
 | ---: | :--- |
