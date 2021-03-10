@@ -1,4 +1,4 @@
-### LIST OF CAMPAIGNS
+### LIST OF RPG CAMPAIGNS
 
 # Dungeons <i class="fab fa-d-and-d"></i> Dragons (5E)
 
