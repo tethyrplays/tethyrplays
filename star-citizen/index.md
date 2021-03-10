@@ -22,7 +22,7 @@ Soar through the stars. Fight. Trade. Unite. Explore. With the freedom [to choos
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/xWikpyIU_RQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></p>
 
-<i class="fas fa-play"></i> [Watch gameplay on Twitch](https://www.twitch.tv/directory/game/Star%20Citizen)
+<i class="fas fa-play"></i> [Watch gameplay on Twitch](https://www.twitch.tv/directory/game/Star%20Citizen) &nbsp;&nbsp; <i class="fas fa-play"></i> [Watch BoredGamer's game updates](https://www.youtube.com/channel/UC7W5LTUy7DJYpx0cpVKJe0g)
 
 ---
 
