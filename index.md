@@ -4,12 +4,12 @@
 
 <a class="featured" href="/campaign">![Image](/dnd-5e-phandelver-carousel.png)</a>
 
-<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Read the Session Recaps](/campaign/2021-lmop-with-dm-nicole)
+<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Learn more](/campaign)
 
 ---
 
-# Star Citizen
+# Star Citizen: Fight. Trade. Unite. Explore.
 
 <a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>
 
-<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Fight. Trade. Explore. Learn more](/star-citizen)
+<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Learn more](/star-citizen)
