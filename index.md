@@ -12,4 +12,4 @@
 
 <a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>
 
-<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Fight. Trade. Explore.](/star-citizen)
+<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Fight. Trade. Explore. Learn more](/star-citizen)
