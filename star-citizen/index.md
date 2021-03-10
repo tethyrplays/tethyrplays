@@ -1,4 +1,4 @@
-### JOIN THE VERSE
+### EXPLORE THE VERSE
 
 # Star Citizen
 
