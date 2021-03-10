@@ -1,6 +1,6 @@
 ### LIST OF RPG CAMPAIGNS
 
-# Dungeons <i class="fab fa-d-and-d"></i> Dragons (5E)
+# Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
 
 ![Image](/dnd-5e-phandelver-carousel.png)
 

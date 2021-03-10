@@ -1,7 +1,7 @@
 
 ### LIST OF RPG CHARACTERS
 
-# Dungeons <i class="fab fa-d-and-d"></i> Dragons (5E)
+# Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
 
 ![Image](/character-aarden.png)
 
