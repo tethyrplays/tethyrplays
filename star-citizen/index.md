@@ -19,7 +19,7 @@ While Star Citizen is currently in the Alpha stage of development, it is playabl
 [See Actual Play on Twitch.](https://www.twitch.tv/directory/game/Star%20Citizen)
 
 **PC Requirements**
-* Access to the game servers requires a one-time pledge to the base game, except during Fly Free events held throughout the year.
+* Access to the game servers requires a one-time purchase of the base game, except during Fly Free events held throughout the year.
 * Windows 8 (64bit), Windows 10 - Anniversary Update (64bit)
 * DirectX 11 Graphics Card with 3GB RAM (4GB strongly recommended)
 * Quad Core CPU with AVX instructions (Intel’s Sandy Bridge processor and AMD’s Bulldozer processor or newer)
