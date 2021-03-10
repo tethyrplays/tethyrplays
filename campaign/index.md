@@ -12,3 +12,7 @@
 <br />The Rockseeker brothers — a trio of dwarves — have recruited adventurers to the rough-and-tumble frontier town of Phandalin to locate the lost, wondrous and magical Wave Echo Cave mine.
 
 ---
+
+# What's Next?
+
+(Coming soon)
