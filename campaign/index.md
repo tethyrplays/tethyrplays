@@ -1,3 +1,7 @@
+---
+layout: post
+title: List of Campaigns
+---
 
 ### LIST OF CAMPAIGNS
 
