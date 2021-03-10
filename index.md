@@ -12,4 +12,4 @@ For centuries, rumors of buried riches have attracted treasure seekers and oppor
 
 In recent years, people have resettled the area. Phandalin is now a rough-and-tumble frontier town and the Rockseeker brothers — a trio of dwarves — believe they have discovered the entrance to Wave Echo Cave.
 
-<i class="fas fa-book-open"></i> [Read the Session Recaps](/campaign/2021-lmop-with-dm-nicole)
+<i class="fas fa-book-open"></i>&nbsp;&nbsp;[Read the Session Recaps](/campaign/2021-lmop-with-dm-nicole)
