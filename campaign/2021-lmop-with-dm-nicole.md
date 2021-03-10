@@ -50,23 +50,23 @@ _Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST_
 
 **Level 1.**
 
-**Travel By Oxen and Wagon:** The party is underway for two days from Neverwinter escorting supplies destined for Barthon's Provisions in the remote town of Phandalin. Their employer, Gundren Rockseeker, and his trusted escort went ahead on horseback to attend to another task.
+**Travel By Oxen and Wagon.** The party is underway for two days from Neverwinter escorting supplies destined for Barthon's Provisions in the remote town of Phandalin. Their employer, Gundren Rockseeker, and his trusted escort went ahead on horseback to attend to another task.
 
 Asher and Aarden helm the reins of the oxen; Gar rides in the wagon with the supplies. After brief introductions, Asher & Aarden discuss the escort mission as Gar rummages through the supplies to determine what the group is transporting.
 
-**Introductions:** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing, with Gundren's note as his only lead. Gar has been tasked on behalf of his blacksmithing guild.
+**Introductions.** Asher is a researcher engrossed in the study of Fey magic. Aarden is tracking down a trio of tribes-people that have gone missing, with Gundren's note as his only lead. Gar has been tasked on behalf of his blacksmithing guild.
 
-**Fail Stealth Check:** Gar discovers ale amongst the wagon's mining and farming supplies and attempts to imbibe some without being noticed. The attempt fails with both Asher & Aarden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
+**Fail Stealth Check.** Gar discovers ale amongst the wagon's mining and farming supplies and attempts to imbibe some without being noticed. The attempt fails with both Asher & Aarden staring at him in disbelief; Gar persists as if he'd gone unnoticed.
 
-**Investigation:** The party reaches a 3-way intersection connecting to Triboar Trail. North returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon to the side of the road and disembark to investigate.
+**Investigation.** The party reaches a 3-way intersection connecting to Triboar Trail. North returns to the city-state of Neverwinter; east continues to Phandalin; and south to Leilon. Two dead horses block the path to Phandalin. The party maneuvers the wagon to the side of the road and disembark to investigate.
 
 Several feet before the horses, splintered planks serve as a makeshift bridge for a tiny brook that passes by the intersection. Trees line both sides of the bridge, obscuring any sign of the impending goblin ambush.
 
-**Combat Encounter:** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly sharpshoot his targets from range and misses.
+**Combat Encounter.** Four goblins ambush the party with surprise. Gar is flanked by two goblins and takes 3/4 damage from both. Asher moves out of melee range and manages to cast Sleep on the other two. Aarden tries to repeatedly sharpshoot his targets from range and misses.
 
 Gar breaks into a rage with his greataxe, cleaving both of his attackers to death; the latter goblin is severed brutally. Asher vaporizes the third with an Eldritch blast. Gar's proximity to the blast covers him in goblin remains. Aarden uses hemp rope to restrain the final sleeping goblin for interrogation.
 
-**Interrogation:** Intimidated by Gar, the goblin divulges his name is Krag. Aarden meanwhile is in a fit, abusing his bow, over its dreadful aim throughout the encounter.
+**Interrogation.** Intimidated by Gar, the goblin divulges his name is Krag. Aarden meanwhile is in a fit, abusing his bow, over its dreadful aim throughout the encounter.
 
 Krag says the horses were killed in an earlier ambush by other members of his tribe, the Cragmaws. A dwarf and human were captured and taken to their tribal chief, a bugbear named Klarg.
 
@@ -80,11 +80,11 @@ Aarden's examination of the dead horses reveals an empty map pouch, corroboratin
 
 The party decides to locate the nearby Cragmaw cavern, rescue the captive and determine if the bugbear knows where their employer has been taken.
 
-**Krag's Fate:** Asher and Aarden decide that Gar, having sustained the most injuries and kills, can decide Krag's fate. Aarden suggests leaving him tied in the brush. Gar and Asher are more concerned the goblin will interfere in the rescue attempt. Gar impales Krag quickly with a javelin after much begging and pleading for mercy. A distraught Aarden reclaims his bloodied rope.
+**Krag's Fate.** Asher and Aarden decide that Gar, having sustained the most injuries and kills, can decide Krag's fate. Aarden suggests leaving him tied in the brush. Gar and Asher are more concerned the goblin will interfere in the rescue attempt. Gar impales Krag quickly with a javelin after much begging and pleading for mercy. A distraught Aarden reclaims his bloodied rope.
 
-**Encounter Loot:** The party distributes the loot from the goblins. 15 gold, 8 silver total.
+**Encounter Loot.** The party distributes the loot from the goblins. 15 gold, 8 silver total.
 
-**Short Rest (1 of 2):** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
+**Short Rest (1 of 2).** The party takes a short rest for Gar to recover from his injuries and Asher to regain his spell slots.
 
 **Important NPCs**
 - **Gundren Rockseeker.** Captive. Hired the party to escort supplies to Barthon's Provisions. Location unknown.
