@@ -6,6 +6,6 @@
 
 ---
 
-# Star Citizen: Fight. Trade. Explore.
+# Star Citizen &alpha;: Fight. Trade. Explore.
 
 <a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>

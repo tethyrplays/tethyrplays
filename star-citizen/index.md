@@ -1,6 +1,6 @@
 ### EXPLORE THE VERSE
 
-# Star Citizen
+# Star Citizen &alpha;
 
 <a href="https://robertsspaceindustries.com/enlist?referral=STAR-MMRX-W7S9"><i class="fas fa-sign-in-alt"></i></a> [ENLIST NOW: STAR-MMRX-W7S9](https://robertsspaceindustries.com/enlist?referral=STAR-MMRX-W7S9)
 
