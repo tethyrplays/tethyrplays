@@ -17,14 +17,14 @@ Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 
 - **Gar Rollisk,** Half-Orc Barbarian
 - **Asher,** Half-Elf Archfey Warlock
-- [**Aarden Falknor,**](/character) Human Ranger
+- **[Aarden Falknor](/character)** Human Ranger
 - **Tarkin Shadowdale,** Stout Halfling Rogue
 - Player No.5
 - Player No.6
 
 ### Dungeon Master
 
-- [**Nicole**](https://startplaying.games/game-master/loremasternicole)
+- **[Nicole](https://startplaying.games/game-master/loremasternicole)**
 
 ---
 
