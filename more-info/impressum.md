@@ -15,7 +15,7 @@ This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS]
 * [Archivo](https://fonts.google.com/specimen/Archivo)
 * [FontAwesome](https://fontawesome.com/)
 
-# Streaming to Twitch / Publishing to YouTube
+# Streaming to Twitch or<br />Publishing to YouTube
 
 **Recommended Software**
 * [Open Broadcasting Software Studio](https://obsproject.com/)
