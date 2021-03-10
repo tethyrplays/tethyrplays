@@ -21,10 +21,13 @@
 | **More Content** | [Dungeon Masters Guild](https://www.dmsguild.com/) / DriveThru RPG |
 | | [Donjon's Random Generators](http://donjon.bin.sh/) |
 | | [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder) |
-| | [Rolled and Told: Monthly Magazine](https://www.rolledandtold.com/)
+| | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
+| | [Rolled and Told: Monthly Magazine](https://www.rolledandtold.com/) |
+| | [The Monsters Know What They're Doing](https://www.themonstersknow.com/) |
 | | [Reddit: Monster A Day](https://www.reddit.com/r/monsteraday/) |
 | | [Who The F*ck Is My Character?](https://whothefuckismydndcharacter.com/) |
-| | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
+| | [Luke Hart's The DM Lair](https://www.thedmlair.com/) |
+
 
 # Virtual <i class="fas fa-dice-d20"></i> Tabletops (VTT)
 
