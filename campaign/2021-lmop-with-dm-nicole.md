@@ -13,9 +13,11 @@
 
 <i class="fas fa-money-check-alt"></i> Payment due Wednesday, March 17. See Discord for details.
 
+Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
+
 ---
 
-### Player Characters
+## Player Characters
 
 - **Gar Rollisk,** Half-Orc Barbarian
 - **Asher,** Half-Elf Archfey Warlock
@@ -23,10 +25,6 @@
 - **Tarkin Shadowdale,** Stout Halfling Rogue
 - Player No.5
 - Player No.6
-
-### Dungeon Master
-
-- **[Nicole](https://startplaying.games/game-master/loremasternicole)**
 
 ---
 
