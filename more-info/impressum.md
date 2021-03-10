@@ -1,5 +1,7 @@
 ### IMPRESSUM
 
-# Building A Website
+# Building The Website
 
-(Coming soon)
+This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/CSS), [SASS](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and [Markdown](https://en.wikipedia.org/wiki/Markdown) alongside GitHub Pages' [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software)) and Liquid support.
+
+Coding was done using the [Atom](https://atom.io/) editor and [GitHub Desktop](https://desktop.github.com/) file transfer app.
