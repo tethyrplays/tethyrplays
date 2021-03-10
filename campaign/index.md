@@ -7,7 +7,7 @@
 001 / **"Lost Mine of Phandelver" with DM Nicole**
 <br />Dungeons & Dragons (5E)
 <br />Thursdays, bi-weekly via Roll20 & Discord
-<br />Playing as [Aarden](/character)
-<br />[Read the session recaps](/campaign/2021-lmop-with-dm-nicole)
+<br />Playing as [Aarden Falknor](/character)
+<br /><i class="fas fa-book-open"></i> [Read the session recaps](/campaign/2021-lmop-with-dm-nicole)
 
 ---
