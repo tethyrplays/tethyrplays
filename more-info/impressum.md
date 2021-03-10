@@ -19,5 +19,5 @@ This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS]
 
 **Recommended Software**
 * [Open Broadcasting Software Studio](https://obsproject.com/)
-* and [StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/)
+* and [StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/) for OBS
 * [Adobe Premiere](https://www.adobe.com/products/premiere.html)
