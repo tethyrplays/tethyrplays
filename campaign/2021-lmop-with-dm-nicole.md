@@ -24,7 +24,7 @@ Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 
 ### Dungeon Master
 
-- [Nicole](https://startplaying.games/game-master/loremasternicole)
+- [**Nicole**](https://startplaying.games/game-master/loremasternicole)
 
 ---
 
