@@ -16,6 +16,7 @@ Sign-up for a free Star Citizen account with the referral code to earn a bonus 5
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/xWikpyIU_RQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+
 **PC Requirements**
 * Windows 8 (64bit), Windows 10 - Anniversary Update (64bit)
 * DirectX 11 Graphics Card with 3GB RAM (4GB strongly recommended)
