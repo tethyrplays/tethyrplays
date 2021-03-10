@@ -3,6 +3,8 @@
 
 # "Lost Mine of Phandelver"<br />with DM Nicole
 
+![Image](/dnd-5e-phandelver-carousel.png)
+
 ---
 
 ## Next Session
@@ -27,8 +29,6 @@ Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 - **[Nicole](https://startplaying.games/game-master/loremasternicole)**
 
 ---
-
-![Image](/dnd-5e-phandelver-carousel.png)
 
 ## Session 2 Recap
 
