@@ -9,9 +9,9 @@
 
 ## Next Session
 
-Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
+<i class="fas fa-calendar-alt"></i> Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 
-<i class="fas fa-money-check-alt"></i> Payment due by Wednesday, March 17. See Discord for details.
+<i class="fas fa-money-check-alt"></i> Payment due Wednesday, March 17. See Discord for details.
 
 ---
 
@@ -32,7 +32,7 @@ Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 
 ## Session 2 Recap
 
-_Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
+<i class="fas fa-calendar-alt"></i> Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST
 
 **Participants:** Gar, Asher, Aarden, Tarkin.
 
@@ -44,7 +44,7 @@ _Thursday, March 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
 ## Session 1 Recap
 
-_Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST_
+<i class="fas fa-calendar-alt"></i> Thursday, February 18, 2021 @ 12:30 to 2:30 p.m. PST
 
 **Participants:** Gar, Asher, Aarden. **Absent:** Tarkin.
 
@@ -102,7 +102,7 @@ The party decides to locate the nearby Cragmaw cavern, rescue the captive and de
 
 ## Session 0 Recap
 
-_Thursday, February 4, 2021 @ 12:30 to 2:30 p.m. PST_
+<i class="fas fa-calendar-alt"></i> Thursday, February 4, 2021 @ 12:30 to 2:30 p.m. PST
 
 Hosted by **[Dungeon Master Nicole](https://startplaying.games/game-master/loremasternicole)**.
 
