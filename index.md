@@ -8,7 +8,7 @@
 
 ---
 
-# Star Citizen: Fight. Trade. Unite. Explore.
+# Star Citizen: Fight. Trade. Explore.
 
 <a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>
 
