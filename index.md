@@ -1,4 +1,4 @@
-### NOW PLAYING | D<i class="fab fa-d-and-d"></i>D
+### NOW PLAYING | D<i class="fab fa-d-and-d" alt="&"></i>D
 
 # "Lost Mine of Phandelver"
 
