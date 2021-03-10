@@ -1,5 +1,5 @@
 
-### DUNGEONS & DRAGONS (5E)
+### DUNGEONS & DRAGONS 5E
 
 # "Lost Mine of Phandelver"<br />with DM Nicole
 
