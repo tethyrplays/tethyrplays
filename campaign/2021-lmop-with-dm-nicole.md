@@ -17,7 +17,7 @@ Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 
 - **Gar Rollisk,** Half-Orc Barbarian
 - **Asher,** Half-Elf Archfey Warlock
-- **[Aarden Falknor](/character)** Human Ranger
+- **[Aarden Falknor](/character),** Human Ranger
 - **Tarkin Shadowdale,** Stout Halfling Rogue
 - Player No.5
 - Player No.6
@@ -104,7 +104,7 @@ The party decides to locate the nearby Cragmaw cavern, rescue the captive and de
 
 _Thursday, February 4, 2021 @ 12:30 to 2:30 p.m. PST_
 
-Hosted by [Dungeon Master Nicole](https://startplaying.games/game-master/loremasternicole).
+Hosted by **[Dungeon Master Nicole](https://startplaying.games/game-master/loremasternicole)**.
 
 Overview of game rules, ettiquette and payment.
 
