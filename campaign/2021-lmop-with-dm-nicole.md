@@ -19,8 +19,8 @@ Thursday, March 18, 2021 @ 12:30 to 2:30 p.m. PST
 - **Asher,** Half-Elf Archfey Warlock
 - **Aarden Falknor,** Human Ranger
 - **Tarkin Shadowdale,** Stout Halfling Rogue
-- Player \#5 (TBA)
-- Player \#6 (TBA)
+- Player \#5
+- Player \#6
 
 ### Dungeon Master
 
