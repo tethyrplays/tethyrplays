@@ -6,7 +6,7 @@
 
 <i class="fas fa-sign-in-alt"></i> **Referral:** [STAR-MMRX-W7S9](https://robertsspaceindustries.com/enlist?referral=STAR-MMRX-W7S9)
 
-<i class="far fa-arrow-alt-circle-up"></i> While Star Citizen is currently in the Alpha stage of development, it is playable now. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC in-game currency.
+<i class="far fa-arrow-alt-circle-up"></i> While Star Citizen is currently in the Alpha stage of development, it is playable now. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC currency. Starter packages begin at $45.
 
 ---
 
@@ -27,7 +27,7 @@ Soar through the stars. Fight. Trade. Unite. Explore. With the freedom [to choos
 ---
 
 **PC Requirements**
-* Access to the game servers requires a one-time purchase of a Starter Pledge, except during Fly Free events held throughout the year
+* Access to the game servers requires a one-time purchase of a Starter Package, except during Fly Free events held throughout the year
 * Windows 8 (64bit), Windows 10 - Anniversary Update (64bit)
 * DirectX 11 Graphics Card with 3GB RAM (4GB strongly recommended)
 * Quad Core CPU with AVX instructions (Intel’s Sandy Bridge processor and AMD’s Bulldozer processor or newer)
