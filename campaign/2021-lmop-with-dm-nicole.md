@@ -118,6 +118,8 @@ Players instructed to send direct message to DM with character portrait for Roll
 
 ## Campaign Plot
 
+<i class="fas fa-shopping-cart"></i> [D&D Starter Set: Lost Mine of Phandelver](https://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_starterset)
+
 More than five hundred years ago, clans of dwarves and gnomes made an agreement known as the Phandelver’s Pact, by which they would share a rich mine in a wondrous cavern known as Wave Echo Cave. In addition to its mineral wealth, the mine contained great magical power.
 
 Then disaster struck when orcs swept through the North and laid waste to all in their path and the location of Wave Echo Cave was lost.
