@@ -30,19 +30,17 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ## Session 2 Recap
 
-<i class="fas fa-calendar-alt"></i> Thursday, March 4, 2021 \| 12:30 to 2:30 p.m. PST
-
 **Participants:** Gar, Asher, Aarden, Tarkin.
 
 **Level 1 continued.**
 
 (Details coming soon.)
 
+<i class="fas fa-calendar-alt"></i> <small>Thursday, March 4, 2021 \| 12:30 to 2:30 p.m. PST</small>
+
 ---
 
 ## Session 1 Recap
-
-<i class="fas fa-calendar-alt"></i> Thursday, February 18, 2021 \| 12:30 to 2:30 p.m. PST
 
 **Participants:** Gar, Asher, Aarden. **Absent:** Tarkin.
 
@@ -96,13 +94,11 @@ The party decides to locate the nearby Cragmaw cavern, rescue the captive and de
 - Players are only permitted 2 short rests in a 24 hour period.
 - XP will be evenly distributed to all players, including absent, to avoid mixed-level characters that will complicate encounters.
 
+<i class="fas fa-calendar-alt"></i> <small>Thursday, February 18, 2021 \| 12:30 to 2:30 p.m. PST</small>
+
 ---
 
 ## Session 0 Recap
-
-<i class="fas fa-calendar-alt"></i> Thursday, February 4, 2021 \| 12:30 to 2:30 p.m. PST
-
-Hosted by **[Dungeon Master Nicole](https://startplaying.games/game-master/loremasternicole)**.
 
 Overview of game rules, ettiquette and payment.
 
@@ -111,6 +107,8 @@ Basic tutorial of Roll20 and Discord for virtual tabletop roleplaying.
 Created Lv 1 characters using Roll20's Charactermancer.
 
 Players instructed to send direct message to DM with character portrait for Roll20 token; to choose a token border; and to choose 1 Feat for character.
+
+<i class="fas fa-calendar-alt"></i> <small>Thursday, February 4, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
 ---
 
