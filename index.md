@@ -1,6 +1,6 @@
-### NOW PLAYING \| D<i class="fab fa-d-and-d"></i>D
+### NOW PLAYING
 
-# "Lost Mine of Phandelver"
+# D<i class="fab fa-d-and-d"></i>D: "Lost Mine of Phandelver"
 
 <a href="/campaign">![Image](/dnd-5e-phandelver-carousel.png)</a>
 
