@@ -6,7 +6,7 @@
 
 <i class="fas fa-sign-in-alt"></i> **Referral:** [STAR-MMRX-W7S9](https://robertsspaceindustries.com/enlist?referral=STAR-MMRX-W7S9)
 
-<i class="far fa-arrow-alt-circle-up"></i> While Star Citizen is currently in the Alpha stage of development, it is playable now. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC currency. Starter packages begin at $45.
+<i class="far fa-arrow-alt-circle-up"></i> While Star Citizen is currently in the Alpha stage of development, it is playable now. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC currency. Starter packages are $45 and upgradeable.
 
 ---
 
