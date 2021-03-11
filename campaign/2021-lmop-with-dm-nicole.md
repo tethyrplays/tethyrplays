@@ -88,7 +88,9 @@ Gar attempts to feed a ration to the satiated wolves, but they appear uninterest
 
 Gar brags that women love the scars he has accrued thus far, appearing eager to add more, and moves to scout 30 feet ahead of the group.
 
-There's a path to the west, but Gar continues to push forward, following the path of the stream. As he gets further, he passes under a wooden bridge about 20 ft above him, and continues on into a chamber where he's immediately attacked by another goblin. 15 ATK for 4 piercing DMG. The goblin yells, "Be gone intruder! We heard you!"
+There's a path to the west, but Gar continues to push forward, following the path of the stream. As he gets further, he passes under a wooden bridge about 20 ft above him, and continues on into a chamber where he's immediately attacked by another goblin. 15 ATK for 4 piercing DMG.
+
+The goblin yells, "Be gone intruder! We heard you!"
 
 **Combat Encounter.** [Goblin x4.]
 
