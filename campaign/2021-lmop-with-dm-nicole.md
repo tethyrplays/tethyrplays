@@ -74,7 +74,7 @@ Gar runs to the entrance and readies a defensive posture. Tarkin bemoans his inj
 
 The two dead goblins, if not intercepted, appear to have been heading to unleash the wolves.
 
-Asher inquires if the wolves are secure to prevent the wolves from attacking and receives an affirmative. Gar observes that the stream is elevated slightly more than outside, covering his ankles. Tarkin stands as a lookout from within the cavern, noting that all is quiet except the wolves; Asher checks the sentry outpost for any supplies, but finds none.
+Asher appears relieved upon confirmation that the wolves are securely chained and out of reach. Gar observes that the stream is elevated slightly more than outside, covering his ankles. Tarkin stands as a lookout from within the cavern, noting that all is quiet except the wolves. Asher quickly checks the sentry outpost for any supplies, but finds none.
 
 **Loot Goblins.** Aarden inspects the dead goblins and finds 7 arrows. [3 for Aarden; 4 for Tarkin.]
 
