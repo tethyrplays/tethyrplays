@@ -60,11 +60,13 @@ As Tarkin moves forward closer to the entrance, the tree goblin calls out, "Hey,
 
 > [Initiative: Tarkin, Asher, Goblin 1 (tree), Goblin 2, Aarden, Gar.]
 
-Tarkin fires his shortbow at the tree goblin, 17 ATK for 6 piercing DMG, then moves for cover into the thicket to hide. The tree goblin cries out in pain. Asher moves into the thicket and readies an Eldritch Blast, but misses (13 ATK) as the goblin hops out of the way. The tree goblin spots Tarkin, fires its shortbow, 20 ATK for 4 piercing DMG, then starts to flee to the cavern entrance.
+Tarkin fires his shortbow at the tree goblin, that cries out in pain, 17 ATK for 6 piercing DMG, then moves to hide in the thicket. Asher moves into the thicket too and readies an Eldritch Blast, but misses (13 ATK). The goblin hops out of the way, taunting Asher, then fires its shortbow at Tarkin (20 ATK for 4 piercing DMG) before fleeing into the cavern.
 
-Aarden moves into the shallow stream, and fires his longbow. The tree goblin has +2 AC behind partial cover. 17 ATK for 4 piercing DMG kills the tree goblin. The remaining goblin moves toward the entrance and fires a _Critical Hit_ at Asher, 20 ATK for 9 piercing damage, then continues into the cavern.
+Aarden moves into the shallow stream and fires his longbow. The tree goblin has +2 AC behind the partial cover of the cavern. 17 ATK for 4 piercing DMG. The arrow kills the tree goblin.
 
-Gar runs to the cavern entrance and readies a defensive posture. Tarkin bemoans the arrow that hit him, then moves toward the remaining goblin and fires a fatal headshot. 19 ATK for 9 piercing DMG.
+The lone goblin moves toward the entrance and fires a _Critical Hit_ at Asher in the thicket (20 ATK for 9 piercing damage), then also flees into the cavern.
+
+Gar runs to the entrance and readies a defensive posture. Tarkin bemoans his injury, then moves toward the goblin and fires a fatal headshot. (19 ATK for 9 piercing DMG)
 
 **Mage Hand??** Possibly due to a magical flub caused by his injuries, a mage hand briefly appears near Asher, then vanishes, as he casts Healing Word(6).
 
