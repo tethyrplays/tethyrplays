@@ -52,9 +52,9 @@ Aarden continues to lead the group and comes across another poorly hidden trap. 
 
 Gar insists on taking the lead against any goblinoids inside, preferring to soak damage while the party engages in a ranged assault; Asher recommends investigating the area first.
 
-Tarkin, with stealth, moves to scout the surrounding area near the entrance. Toward the eastern side, two goblins pay little attention to their duties from a makeshift lookout post; one on the ground, inattentively picking his nose and flicking it, the other hanging from a tree.
+Tarkin stealthily moves to scout the surrounding area near the entrance. Toward the eastern side, two goblins pay little attention to their duties from a makeshift lookout post; one on ground-level, inattentively picking his nose and flicking it; the other hanging from a tree.
 
-As Tarkin moves forward to the entrance, the tree goblin notices and calls out, "Hey, I see something! There's a human there!" The goblin drops from the tree, and both rush to attack.
+As Tarkin moves forward closer to the entrance, the tree goblin calls out, "Hey, I see something! There's a human there!" The goblin then drops from the tree, and both rush to attack.
 
 **Combat Encounter.** [Goblin x2]
 
