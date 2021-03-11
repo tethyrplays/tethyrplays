@@ -99,35 +99,35 @@ The goblin yells, "Be gone intruder! We heard you!"
 
 Goblin-3 is closest to the party and moves into view on the bridge above.
 
-Gar moves a bit eastward to engage the nearest goblin. Gar lands a killing blow to  Goblin-1 with his greataxe- 15 ATK for 9 slashing DMG- then moves adjacent to Goblin-2, while calling out to his companions, "Watch for the bridge!"
+Gar moves a bit eastward to engage the nearest goblin. Gar lands a killing blow to  Goblin-1 with his greataxe- 15 ATK for 9 slashing DMG -then moves adjacent to Goblin-2, while calling out to his companions, "Watch for the bridge!"
 
 [Goblin-1 Dead.]
 
-Asher moves up through the ankle-deep stream and attempts to Eldritch blast Goblin-3 on the bridge, but misses (12 ATK), and moves back closer to the wolf chamber.
+Asher moves up through the ankle-deep stream and attempts to Eldritch blast Goblin-3 on the bridge, but misses- 12 ATK -and moves back closer to the wolf chamber.
 
-Goblin-4 moves onto the bridge, also from out of view, and nimbly hops down a scimitar in hand. Aarden backs up closer to the entrance, fires his longbow and misses (12 ATK), then takes half-cover beyond the entrance.
+Goblin-4 moves onto the bridge, also from out of view, and nimbly hops down a scimitar in hand. Aarden backs up closer to the entrance, fires his longbow and misses- 12 ATK -then takes half-cover beyond the entrance.
 
 Goblin-2 takes a double-attack on Gar with his scimitar. One hit, one miss. 21 ATK for 3 slashing DMG.
 
-Tarkin fires his shortbow, 18 ATK for 4 piercing DMG, and bloodies the Goblin-4, then  moves to Hide (12+7 Stealth).
+Tarkin fires his shortbow- 18 ATK for 4 piercing DMG -and bloodies the Goblin-4, then  moves to Hide. [12+7 Stealth]
 
-Goblin-3 jumps down and slashes Asher. (15 ATK for 5 slashing DMG.)
+Goblin-3 jumps down and slashes Asher. 15 ATK for 5 slashing DMG.
 
-Gar rages and kills Goblin-2 with his greataxe. (23 ATK for 13 slashing DMG.) Gar, moving swiftly back to the bridge, jumps down and tumbles into a roll. (6 Acrobatics: takes 2 DMG)
+Gar rages and kills Goblin-2 with his greataxe- 23 ATK for 13 slashing DMG. Gar moves swiftly back to the bridge, jumps down and tumbles into a roll. [6 Acrobatics: takes 2 DMG]
 
 [Goblin-2 Dead.]
 
 Asher disengages from Goblin-3 and exits the cavern, avoiding an opportunity attack.
 
-Goblin-4 turns back to attack Gar, slashing him with the scimitar. (18 ATK for 8 slashing DMG. Gar takes half DMG: 4)
+Goblin-4 turns back to attack Gar, slashing him with the scimitar- 18 ATK for 8 slashing DMG. Gar takes half DMG: 4.
 
-Aarden bloodies Goblin-3 with a piercing arrow from his longbow, then repositions to draw the goblin's attention. (Used Initiative to re-roll. 23 ATK for 5 piercing DMG.)
+Aarden bloodies Goblin-3 with a piercing arrow from his longbow, then repositions to draw the goblin's attention- 23 ATK for 5 piercing DMG. (Used Initiative to re-roll.)
 
-Tarkin drops his shortbow and sneak attacks Goblin-3, missing with his shortsword (11 ATK), but pierces the goblin's neck with his dagger, killing it. (19 ATK for 7 piercing DMG + 5 Sneak)
+Tarkin drops his shortbow and sneak attacks Goblin-3, missing with his shortsword- 11 ATK -but pierces the goblin's neck with his dagger, killing it. 19 ATK for 7 piercing DMG + 5 Sneak.
 
 [Goblin-3 Dead.]
 
-Gar decapitates Goblin-4 and victoriously showcases his kill to the party. (21 ATK for 9 slashing DMG)
+Gar decapitates Goblin-4 and victoriously showcases his kill to the party- 21 ATK for 9 slashing DMG.
 
 [Goblin-4 Dead.]
 
