@@ -97,7 +97,7 @@ The goblin yells, "Be gone intruder! We heard you!"
 > [Initiative: Tarkin, Goblin 1, Gar, Goblin 2, Asher, Goblin 3, Aarden]
 > Tarkin used Lucky trait to re-roll.
 
-The first goblin closest to the party moves out onto the bridge.
+Goblin-3 is closest to the party and moves into view on the bridge above.
 
 Gar moves a bit eastward to engage the nearest goblin. Gar lands a killing blow to  Goblin-1 with his greataxe- 15 ATK for 9 slashing DMG- then moves adjacent to Goblin-2, while calling out to his companions, "Watch for the bridge!"
 
