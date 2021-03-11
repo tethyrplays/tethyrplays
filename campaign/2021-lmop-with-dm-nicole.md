@@ -70,7 +70,7 @@ Gar runs to the entrance and readies a defensive posture. Tarkin bemoans his inj
 
 **What the Mage Hand??** Possibly due to a magical flub caused by his injuries, a mage hand briefly appears near Asher, then vanishes, as he casts Healing Word for +6 HP.
 
-**Here There Be Wolves.** Entering the cavern, Aarden walks over the two goblin corpses to find an adjoining chamber. From within the chamber is the sound of snarling and the clatter of chains. Two wolves are chained with iron rods to stalagmites. The wolves are snarling and barking but no one appears to be responding to the noise.
+**Here There Be Wolves.** Entering the cavern, Aarden walks over the two goblin corpses to find an adjoining chamber. From within the chamber is the sound of snarling and the clatter of chains. Two wolves, and another out of sight, are chained with iron rods to stalagmites. The wolves are snarling and barking but no one appears to be responding to the noise.
 
 The two dead goblins, if not intercepted, appear to have been heading to unleash the wolves.
 
