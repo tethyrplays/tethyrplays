@@ -48,9 +48,11 @@ Along the way Aarden uncovers what appears to be a hidden trap. Investigation(13
 
 Aarden continues to lead the group and comes across another poorly hidden trap. Tarkin's Perception(15) allows him to warn the wagon clear of the pit trap.
 
-**Outside the Cragmaw Lair.** (Map change: Outside Cragmaw cavern.) Tracking the goblin's trail for about 5 miles, the party arrives outside a cavern. A shallow stream flows from its mouth and briar thickets dot both sides. Gar insists on taking the lead against any goblinoids inside, preferring to soak damage while the party engages in a ranged assault; Asher recommends investigating the area first.
+**Outside the Cragmaw Lair.** (Map change: Outside Cragmaw cavern.) Tracking the goblin's trail for about 5 miles, the party arrives outside a cavern. A shallow stream flows from its mouth and briar thickets dot both sides.
 
-Tarkin, with stealth, moves first to investigate the area surrounding the entrance. Toward the eastern side, two goblins pay little attention to their duties from a makeshift lookout post; one on the ground, inattentively picking his nose and flicking it, the other hanging from a tree.
+Gar insists on taking the lead against any goblinoids inside, preferring to soak damage while the party engages in a ranged assault; Asher recommends investigating the area first.
+
+Tarkin, with stealth, moves to scout the surrounding area near the entrance. Toward the eastern side, two goblins pay little attention to their duties from a makeshift lookout post; one on the ground, inattentively picking his nose and flicking it, the other hanging from a tree.
 
 As Tarkin moves forward to the entrance, the tree goblin notices and calls out, "Hey, I see something! There's a human there!" The goblin drops from the tree, and both rush to attack.
 
