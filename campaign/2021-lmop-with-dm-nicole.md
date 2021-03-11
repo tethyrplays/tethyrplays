@@ -78,11 +78,15 @@ Asher appears relieved upon confirmation that the wolves are securely chained an
 
 **Loot Goblins.** Aarden inspects the dead goblins and finds 7 arrows. [3 for Aarden; 4 for Tarkin.]
 
-**Calming the Wolves.** [Wolf x3] Aarden cautiously enters the adjoining chamber and wants to calm the emaciated wolves, so he decides to feed one of the goblin corpses to them. [12+4 Animal Handling] 10 minutes later the wolves are satisfied and allow the party to walk around the chamber. [12+4 Perception] In the back area is a fissure through which Aarden can hear goblins talking, but no one is able to determine what they're saying. [No one speaks Goblin.] Tarkin notes that the voice beyond the fissure sounds aggressive compared to the typical goblins encountered thus far.
+**Calming the Wolves.** [Wolf x3] Aarden cautiously enters the adjoining chamber and wants to calm the emaciated wolves, so he decides to feed one of the goblin corpses to them. [12+4 Animal Handling] 10 minutes later the wolves are satisfied and allow the party to walk around the chamber.
+
+[12+4 Perception] In the back area is a fissure through which Aarden can hear goblins talking, but no one is able to determine what they're saying. [No one speaks Goblin.] Tarkin notes that the voice beyond the fissure sounds aggressive compared to the typical goblins encountered thus far.
 
 Gar attempts to feed a ration to the satiated wolves, but they appear uninterested in the gesture. Asher encourages everyone that its time to move on, but defensively stays behind the group.
 
-**Exploring the Cavern.** [Darkvision check. Yes: Gar & Asher] Tarkin notes that the cavern is too dark beyond the entry way and has concerns that lighting a torch might draw attention. Asher is clear that he won't lead, but offers to cast a spell of illumination on another party member. Gar brags that women love the scars he has accrued, appearing eager for more, and moves to scout 30 feet ahead of the group.
+**Exploring the Cavern.** [Darkvision check. Yes: Gar & Asher] Tarkin notes that the cavern is too dark beyond the entry way and has concerns that lighting a torch might draw attention. Asher is clear that he won't lead, but offers to cast a spell of illumination on another party member.
+
+Gar brags that women love the scars he has accrued thus far, appearing eager to add more, and moves to scout 30 feet ahead of the group.
 
 There's a path to the west, but Gar continues to push forward, following the path of the stream. As he gets further, he passes under a wooden bridge about 20 ft above him, and continues on into a chamber where he's immediately attacked by another goblin. 15 ATK for 4 piercing DMG. The goblin yells, "Be gone intruder! We heard you!"
 
