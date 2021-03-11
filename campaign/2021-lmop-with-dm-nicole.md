@@ -19,11 +19,11 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ## Player Characters
 
-- **Gar Rollisk,** Half-Orc Barbarian
-- **Asher,** Half-Elf Archfey Warlock
-- **[Aarden Falknor](/character),** Human Ranger
-- **Tarkin Shadowdale,** Stout Halfling Rogue
-- Player No.5
+- **Gar Rollisk,** Half-Orc / Barbarian
+- **Asher,** Half-Elf / Archfey Warlock
+- **[Aarden Falknor](/character),** Human / Ranger
+- **Tarkin Shadowdale,** Stout Halfling / Rogue
+- **Gesgrim Gildedquill,** Hill Dwarf / Peace Domain Cleric
 - Player No.6
 
 ---
