@@ -105,7 +105,7 @@ Gar moves a bit eastward to engage the nearest goblin. Gar lands a killing blow 
 
 Asher moves up through the ankle-deep stream and attempts to Eldritch blast Goblin-3 on the bridge, but misses (12 ATK), and moves back closer to the wolf chamber.
 
-Goblin-4 moves onto the bridge from out of sight, and nimbly hops down with scimitar in hand. Aarden backs up closer to the entrance, fires his longbow and misses (12 ATK), then takes half-cover beyond the entrance.
+Goblin-4 moves onto the bridge, also from out of view, and nimbly hops down a scimitar in hand. Aarden backs up closer to the entrance, fires his longbow and misses (12 ATK), then takes half-cover beyond the entrance.
 
 Goblin-2 takes a double-attack on Gar with his scimitar. One hit, one miss. 21 ATK for 3 slashing DMG.
 
