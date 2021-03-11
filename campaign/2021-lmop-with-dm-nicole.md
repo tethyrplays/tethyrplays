@@ -38,7 +38,9 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Tarkin Awakens.** Tarkin, a Halfling Rogue, regains consciousness, hears voices beyond the thicket of brush, and stumbles out. After brief defensive posturing, a roughed up Tarkin explains that he was onset by goblins - the very goblins that are now dead. Gar invites Tarkin to join the group if he's willing to lend his skillset to their cause.
 
-**Hexcrawl to Cragmaw.** (Map change: Neverwinter coastal region.) The party collects the wagon of supplies and continues on to locate the Cragmaw's cavern lair, crossing the flat-lands in a south-easterly direction; with Neverwinter Wood in the background. Aarden leads the wagon, Gar and Ashen drive the oxen, with Tarkin at the rear.
+**Hexcrawl to Cragmaw.** (Map change: Neverwinter coastal region.) The party collects the wagon of supplies and continues on to locate the Cragmaw's cavern lair, crossing the flat-lands in a south-easterly direction, with the Neverwinter Wood in the background.
+
+Aarden leads the wagon, Gar and Asher drive the oxen, with Tarkin at the rear.
 
 [DM asks players to go into the Roll20 settings to change their Display Name to match their characters.]
 
