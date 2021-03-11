@@ -34,7 +34,98 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Level 1 continued.**
 
-(Details coming soon.)
+**Inspiration.** 1 point of inspiration to Aarden. Inspiration allows a player to re-roll a dice, as long as its done before a result is called.
+
+**Tarkin Awakens.** Tarkin, a Halfling Rogue, regains consciousness, overhears people talking, and stumbles into the adventurers' camp from beyond a thicket of brush. After brief defensive posturing, a roughed up Tarkin explains that he was onset by goblins - the very goblins that are now dead. Gar invites Tarkin to join the group if he's willing to lend his skillset to their cause.
+
+**Hexcrawl to Cragmaw.** (Map change: Neverwinter coastal region.) The party collects the wagon of supplies and continues on to locate the Cragmaw's cavern lair, crossing the flat-lands in a south-easterly direction; with Neverwinter Wood in the background. Aarden leads the wagon, Gar and Ashen drive the oxen, with Tarkin at the rear.
+
+[DM asks players to go into the Roll20 settings to change their Display Name to match their characters.]
+
+Along the way Aarden uncovers what appears to be a hidden trap; with Investigation(13), he discovers leaves crudely concealing a snare. Tarkin comes around, noting that the rope snare would have grabbed the front-runner, and disarms it with his weapon, stating "EZ-peezy, lemon-squeezy."
+
+Aarden continues to lead the group and comes across another poorly hidden trap. Tarkin's Perception(15) allows him to warn the wagon clear of the pit trap.
+
+**Outside the Cragmaw Lair.** (Map change: Outside Cragmaw cavern.) Tracking the goblin's trail for about 5 miles, the party arrives outside a cavern. A shallow stream flows from its mouth and briar thickets dot both sides. Gar insists on taking the lead against any goblinoids inside, preferring to soak damage while the party engages in a ranged assault; Asher recommends investigating the area first.
+
+Tarkin, with stealth, moves first to investigate the area surrounding the entrance. Toward the eastern side, two goblins pay little attention to their duties from a makeshift lookout post; one on the ground, inattentively picking his nose and flicking it, the other hanging from a tree.
+
+As Tarkin moves forward to the entrance, the tree goblin notices and calls out, "Hey, I see something! There's a human there!" The goblin drops from the tree, and both rush to attack.
+
+**Combat Encounter.** [Goblin x2]
+
+> [Initiative: Tarkin, Asher, Goblin 1 (tree), Goblin 2, Aarden, Gar.]
+
+Tarkin fires his shortbow at the tree goblin, 17 ATK for 6 piercing DMG, then moves for cover into the thicket to hide. The tree goblin cries out in pain. Asher moves into the thicket and readies an Eldritch Blast, but misses (13 ATK) as the goblin hops out of the way. The tree goblin spots Tarkin, fires its shortbow, 20 ATK for 4 piercing DMG, then starts to flee to the cavern entrance.
+
+Aarden moves into the shallow stream, and fires his longbow. The tree goblin has +2 AC behind partial cover. 17 ATK for 4 piercing DMG kills the tree goblin. The remaining goblin moves toward the entrance and fires a _Critical Hit_ at Asher, 20 ATK for 9 piercing damage, then continues into the cavern.
+
+Gar runs to the cavern entrance and readies a defensive posture. Tarkin bemoans the arrow that hit him, then moves toward the remaining goblin and fires a fatal headshot. 19 ATK for 9 piercing DMG.
+
+**Mage Hand??** Possibly due to a magical flub caused by his injuries, a mage hand briefly appears near Asher, then vanishes, as he casts Healing Word(6).
+
+**Here There Be Wolves.** Entering the cavern, Aarden walks over the two goblins, to find an adjoining chamber and can hear snarling and the clatter of chains. Two wolves are chained with iron rods to stalagmites. The wolves are barking but no one appears to be responding to the noise. The two dead goblins appear to have been heading for the wolves, as if to unleash them.
+
+Asher inquires if the wolves are secure to prevent the wolves from attacking and receives an affirmative. Gar observes that the stream is elevated slightly more than outside, covering his ankles. Tarkin stands as a lookout from within the cavern, noting that all is quiet except the wolves; Asher checks the sentry outpost for any supplies, but finds none.
+
+**Loot Goblins.** Aarden inspects the dead goblins and finds 7 arrows. [3 for Aarden; 4 for Tarkin.]
+
+**Calming the Wolves.** [Wolf x3] Aarden cautiously enters the adjoining chamber and wants to calm the emaciated wolves, so he decides to feed one of the goblin corpses to them. [12+4 Animal Handling] 10 minutes later the wolves are satisfied and allow the party to walk around the chamber. [12+4 Perception] In the back area is a fissure through which Aarden can hear goblins talking, but no one is able to determine what they're saying. [No one speaks Goblin.] Tarkin notes that the voice beyond the fissure sounds aggressive compared to the typical goblins encountered thus far.
+
+Gar attempts to feed a ration to the satiated wolves, but they appear uninterested in the gesture. Asher encourages everyone that its time to move on, but defensively stays behind the group.
+
+**Exploring the Cavern.** [Darkvision check. Yes: Gar & Asher] Tarkin notes that the cavern is too dark beyond the entry way and has concerns that lighting a torch might draw attention. Asher is clear that he won't lead, but offers to cast a spell of illumination on another party member. Gar brags that women love the scars he has accrued, appearing eager for more, and moves to scout 30 feet ahead of the group.
+
+There's a path to the west, but Gar continues to push forward, following the path of the stream. As he gets further, he passes under a wooden bridge about 20 ft above him, and continues on into a chamber where he's immediately attacked by another goblin. 15 ATK for 4 piercing DMG. The goblin yells, "Be gone intruder! We heard you!"
+
+**Combat Encounter.** [Goblin x4.]
+
+> [Initiative: Tarkin, Goblin 1, Gar, Goblin 2, Asher, Goblin 3, Aarden]
+> Tarkin used Lucky trait to re-roll.
+
+The first goblin closest to the party moves out onto the bridge.
+
+Gar moves a bit eastward to engage the nearest goblin. Gar lands a killing blow to  Goblin-1 with his greataxe- 15 ATK for 9 slashing DMG- then moves adjacent to Goblin-2, while calling out to his companions, "Watch for the bridge!"
+
+[Goblin-1 Dead.]
+
+Asher moves up through the ankle-deep stream and attempts to Eldritch blast Goblin-3 on the bridge, but misses (12 ATK), and moves back closer to the wolf chamber.
+
+Goblin-4 moves onto the bridge from out of sight, and nimbly hops down with scimitar in hand. Aarden backs up closer to the entrance, fires his longbow and misses (12 ATK), then takes half-cover beyond the entrance.
+
+Goblin-2 takes a double-attack on Gar with his scimitar. One hit, one miss. 21 ATK for 3 slashing DMG.
+
+Tarkin fires his shortbow, 18 ATK for 4 piercing DMG, and bloodies the Goblin-4, then  moves to Hide (12+7 Stealth).
+
+Goblin-3 jumps down and slashes Asher. (15 ATK for 5 slashing DMG.)
+
+Gar rages and kills Goblin-2 with his greataxe. (23 ATK for 13 slashing DMG.) Gar, moving swiftly back to the bridge, jumps down and tumbles into a roll. (6 Acrobatics: takes 2 DMG)
+
+[Goblin-2 Dead.]
+
+Asher disengages from Goblin-3 and exits the cavern, avoiding an opportunity attack.
+
+Goblin-4 turns back to attack Gar, slashing him with the scimitar. (18 ATK for 8 slashing DMG. Gar takes half DMG: 4)
+
+Aarden bloodies Goblin-3 with a piercing arrow from his longbow, then repositions to draw the goblin's attention. (Used Initiative to re-roll. 23 ATK for 5 piercing DMG.)
+
+Tarkin drops his shortbow and sneak attacks Goblin-3, missing with his shortsword (11 ATK), but pierces the goblin's neck with his dagger, killing it. (19 ATK for 7 piercing DMG + 5 Sneak)
+
+[Goblin-3 Dead.]
+
+Gar decapitates Goblin-4 and victoriously showcases his kill to the party. (21 ATK for 9 slashing DMG)
+
+[Goblin-4 Dead.]
+
+Tarkin -- don't forget to pick up your shortbow next session.
+
+**Pro DM Tip**
+* Next Session: Asher could use a short rest to recover from his injuries, as he only has 2 HP left.
+
+**Additional Notes**
+* Remember to click on Character Token in Roll20 before rolling for Initiative; to automatically be added to Turn Order list.
+* Mention any Resistances your character has during combat as you sustain injuries, as the DM may not be aware.
+* Tarkin/Rogue: There's a Feat called "Dual Wielder" that allows adding Proficiency bonus to second attack, for future reference.
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, March 4, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
@@ -91,7 +182,7 @@ The party decides to locate the nearby Cragmaw cavern, rescue the captive and de
 
 **Additional Notes**
 - Players must keep track of loot distribution and update their own character sheet accordingly.
-- Players are only permitted 2 short rests in a 24 hour period.
+- Players are only permitted 2 short rests per 24 hour period / long rest.
 - XP will be evenly distributed to all players, including absent, to avoid mixed-level characters that will complicate encounters.
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, February 18, 2021 \| 12:30 to 2:30 p.m. PST</small>
