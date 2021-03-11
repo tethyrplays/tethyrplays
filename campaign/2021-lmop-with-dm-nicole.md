@@ -36,7 +36,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Inspiration.** 1 point of inspiration to Aarden. Inspiration allows a player to re-roll a dice, as long as its done before a result is called.
 
-**Tarkin Awakens.** Tarkin, a Halfling Rogue, regains consciousness, overhears people talking, and stumbles into the adventurers' camp from beyond a thicket of brush. After brief defensive posturing, a roughed up Tarkin explains that he was onset by goblins - the very goblins that are now dead. Gar invites Tarkin to join the group if he's willing to lend his skillset to their cause.
+**Tarkin Awakens.** Tarkin, a Halfling Rogue, regains consciousness, hears voices beyond the thicket of brush, and stumbles out. After brief defensive posturing, a roughed up Tarkin explains that he was onset by goblins - the very goblins that are now dead. Gar invites Tarkin to join the group if he's willing to lend his skillset to their cause.
 
 **Hexcrawl to Cragmaw.** (Map change: Neverwinter coastal region.) The party collects the wagon of supplies and continues on to locate the Cragmaw's cavern lair, crossing the flat-lands in a south-easterly direction; with Neverwinter Wood in the background. Aarden leads the wagon, Gar and Ashen drive the oxen, with Tarkin at the rear.
 
