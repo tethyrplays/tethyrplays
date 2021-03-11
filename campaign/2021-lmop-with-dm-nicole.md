@@ -44,7 +44,7 @@ Aarden leads the wagon, Gar and Asher drive the oxen, with Tarkin at the rear.
 
 [DM asks players to go into the Roll20 settings to change their Display Name to match their characters.]
 
-Along the way Aarden uncovers what appears to be a hidden trap; with Investigation(13), he discovers leaves crudely concealing a snare. Tarkin comes around, noting that the rope snare would have grabbed the front-runner, and disarms it with his weapon, stating "EZ-peezy, lemon-squeezy."
+Along the way Aarden uncovers what appears to be a hidden trap. Investigation(13) reveals leaves crudely concealing a snare. Tarkin comes around, noting that the rope snare would have grabbed Aarden, the front-runner, and disarms it with his weapon. "EZ-peezy, lemon-squeezy," he quips.
 
 Aarden continues to lead the group and comes across another poorly hidden trap. Tarkin's Perception(15) allows him to warn the wagon clear of the pit trap.
 
