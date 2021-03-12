@@ -17,6 +17,12 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ---
 
+## The Story So Far (or TL;DR)
+
+The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of goblins, to rescue Sildar Hallwinter of the Lord's Alliance, and confront the tribal chief bugbear Klarg in hopes of learning where the captured dwarf Gundren Rockseeker has been taken. Asher, having sustained critical injuries in the most recent melee, must rest before the party can move further into the cavern.
+
+---
+
 ## Player Characters
 
 - **Gar Rollisk,** Half-Orc / Barbarian
@@ -25,12 +31,6 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 - **Tarkin Shadowdale,** Stout Halfling / Rogue
 - **Gesgrim Gildedquill,** Hill Dwarf / Peace Domain Cleric
 - Player No.6
-
----
-
-## The Story So Far (or TL;DR)
-
-The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of goblins, to rescue Sildar Hallwinter of the Lord's Alliance, and confront the tribal chief bugbear Klarg in hopes of learning where the captured dwarf Gundren Rockseeker has been taken. Asher, having sustained critical injuries in the most recent melee, must rest before the party can move further into the cavern.
 
 ---
 
