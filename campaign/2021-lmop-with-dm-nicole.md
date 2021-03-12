@@ -28,6 +28,12 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ---
 
+## The Story So Far (or TL;DR)
+
+(Coming soon.)
+
+---
+
 ## Session 2 Recap
 
 **Participants:** Gar, Asher, Aarden, Tarkin.
@@ -60,13 +66,13 @@ As Tarkin moves forward closer to the entrance, the tree goblin calls out, "Hey,
 
 > [Initiative: Tarkin, Asher, Goblin 1 (tree), Goblin 2, Aarden, Gar.]
 
-Tarkin fires his shortbow at the tree goblin, that cries out in pain, 17 ATK for 6 piercing DMG, then moves to hide in the thicket. Asher moves into the thicket too and readies an Eldritch Blast, but misses (13 ATK). The goblin hops out of the way, taunting Asher, then fires its shortbow at Tarkin (20 ATK for 4 piercing DMG) before fleeing into the cavern.
+Tarkin fires an arrow with the shortbow at the tree goblin- 17 ATK for 6 piercing DMG -then moves to Hide in the thicket. Asher moves into the thicket too and readies an Eldritch Blast, but misses- 13 ATK. The goblin hops out of the way, taunting Asher, then fires an arrow at Tarkin- 20 ATK for 4 piercing DMG -before fleeing into the cavern.
 
-Aarden moves into the shallow stream and fires his longbow. The tree goblin has +2 AC behind the partial cover of the cavern. 17 ATK for 4 piercing DMG. The arrow kills the tree goblin.
+Aarden moves into the shallow stream and fires an arrow with the longbow. The tree goblin has +2 AC within partial cover of the cavern- 17 ATK for 4 piercing DMG. The arrow kills the goblin.
 
-The lone goblin moves toward the entrance and fires a _Critical Hit_ at Asher in the thicket (20 ATK for 9 piercing damage), then also flees into the cavern.
+The ground goblin moves toward the entrance and fires an arrow for a _Critical Hit_ at Asher in the thicket- 20 ATK for 9 piercing damage -then also flees into the cavern.
 
-Gar runs to the entrance and readies a defensive posture. Tarkin bemoans his injury, then moves toward the goblin and fires a fatal headshot. (19 ATK for 9 piercing DMG)
+Gar runs to the entrance and readies a defensive posture. Tarkin bemoans his injury, moves toward the goblin, and fires an arrow for a fatal headshot - 19 ATK for 9 piercing DMG.
 
 **What the Mage Hand??** Possibly due to a magical flub caused by his injuries, a mage hand briefly appears near Asher, then vanishes, as he casts Healing Word for +6 HP.
 
