@@ -64,7 +64,7 @@ As Tarkin moves forward closer to the entrance, the tree goblin calls out, "Hey,
 
 **Combat Encounter.** [Goblin x2]
 
-> [Initiative: Tarkin, Asher, Goblin 1 (tree), Goblin 2, Aarden, Gar.]
+> Initiative: Tarkin, Asher, Goblin 1 (tree), Goblin 2, Aarden, Gar
 
 Tarkin fires an arrow with the shortbow at the tree goblin- 17 ATK for 6 piercing DMG -then moves to Hide in the thicket. Asher moves into the thicket too and readies an Eldritch Blast, but misses- 13 ATK. The goblin hops out of the way, taunting Asher, then fires an arrow at Tarkin- 20 ATK for 4 piercing DMG -before fleeing into the cavern.
 
@@ -104,7 +104,7 @@ The goblin yells, "Be gone intruder! We heard you!"
 
 **Combat Encounter.** [Goblin x4.]
 
-> [Initiative: Tarkin, Goblin 1, Gar, Goblin 2, Asher, Goblin 3, Aarden]
+> Initiative: Tarkin, Goblin-1, Gar, Goblin-2, Asher, Goblin-3, Aarden, Goblin-4
 > Tarkin used Lucky trait to re-roll.
 
 Goblin-3 is closest to the party and moves into view on the bridge above.
