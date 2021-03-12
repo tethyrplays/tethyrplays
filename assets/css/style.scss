@@ -31,7 +31,9 @@ a:hover.featured img {
 }
 
 .notation {
+  display: block;
   padding-left: 12px;
+  margin-block-end: 1em;
 }
 
 .notation .quote {
