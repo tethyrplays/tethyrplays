@@ -70,11 +70,15 @@ Tarkin fires an arrow with the shortbow at the tree goblin- 17 ATK for 6 piercin
 
 Aarden moves into the shallow stream and fires an arrow with the longbow. The tree goblin has +2 AC within partial cover of the cavern- 17 ATK for 4 piercing DMG. The arrow kills the goblin.
 
+[Goblin-1 Dead.]
+
 The ground goblin moves toward the entrance and fires an arrow for a _Critical Hit_ at Asher in the thicket- 20 ATK for 9 piercing damage -then also flees into the cavern.
 
 Gar runs to the entrance and readies a defensive posture. Tarkin bemoans his injury, moves toward the goblin, and fires an arrow for a fatal headshot - 19 ATK for 9 piercing DMG.
 
-**What the Mage Hand??** Possibly due to a magical flub caused by his injuries, a mage hand briefly appears near Asher, then vanishes, as he casts Healing Word for +6 HP.
+[Goblin-2 Dead.]
+
+**What the Mage Hand of Healing?!** Possibly due to a magical flub caused by his injuries, a mage hand briefly appears near Asher, then vanishes, as he casts Healing Word for +6 HP.
 
 **Here There Be Wolves.** Entering the cavern, Aarden walks over the two goblin corpses to find an adjoining chamber. From within the chamber is the sound of snarling and the clatter of chains. Two wolves, and another out of sight, are chained with iron rods to stalagmites. The wolves are snarling and barking but no one appears to be responding to the noise.
 
