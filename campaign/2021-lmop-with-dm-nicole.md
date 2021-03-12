@@ -64,7 +64,7 @@ As Tarkin moves forward closer to the entrance, the tree goblin calls out, "Hey,
 
 **Combat Encounter.** [Goblin x2]
 
-> Initiative: Tarkin, Asher, Goblin 1 (tree), Goblin 2, Aarden, Gar
+> Initiative: Tarkin, Asher, Goblin-1 (tree), Goblin-2 (ground), Aarden, Gar
 
 Tarkin fires an arrow with the shortbow at the tree goblin- 17 ATK for 6 piercing DMG -then moves to Hide in the thicket. Asher moves into the thicket too and readies an Eldritch Blast, but misses- 13 ATK. The goblin hops out of the way, taunting Asher, then fires an arrow at Tarkin- 20 ATK for 4 piercing DMG -before fleeing into the cavern.
 
