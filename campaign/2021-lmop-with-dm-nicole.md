@@ -30,7 +30,7 @@ The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of gobl
 - **[Aarden Falknor](/character),** Human / Ranger
 - **Tarkin Shadowdale,** Stout Halfling / Rogue
 - **Gesgrim Gildedquill,** Hill Dwarf / Peace Domain Cleric
-- Player No.6
+- **Andral**, Scourge Aasimar / Paladin
 
 ---
 
