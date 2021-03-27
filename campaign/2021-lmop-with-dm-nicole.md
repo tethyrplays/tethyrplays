@@ -21,6 +21,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of goblins, to rescue Sildar Hallwinter of the Lord's Alliance, and confront the tribal chief bugbear Klarg in hopes of learning where the captured dwarf Gundren Rockseeker has been taken. Asher, having sustained critical injuries in the most recent melee, must rest before the party can move further into the cavern.
 
+
 ---
 
 ## Player Characters
@@ -31,6 +32,14 @@ The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of gobl
 - **Tarkin Shadowdale,** Stout Halfling / Rogue
 - **Gesgrim Gildedquill,** Hill Dwarf / Peace Domain Cleric
 - **Andral**, Scourge Aasimar / Paladin
+
+---
+
+## Session 3 Recap
+
+**Participants:** Gar, Asher, Aarden, Tarkin, Gesgrim, Andral.
+
+(To be posted ~Mon, Mar. 29 - delayed due to trip.)
 
 ---
 
