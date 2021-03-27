@@ -9,9 +9,9 @@
 
 ## Next Session
 
-<i class="fas fa-calendar-alt"></i> Thursday, March 18, 2021 \| 12:30 to 2:30 p.m. PST
+<i class="fas fa-calendar-alt"></i> Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST
 
-<i class="fas fa-money-check-alt"></i> Payment due Wednesday, March 17. See Discord for details.
+<i class="fas fa-money-check-alt"></i> Payment due Wednesday, March 31. See Discord for details.
 
 Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
 
