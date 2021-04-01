@@ -40,7 +40,15 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 
 ## Session 4 Recap
 
+**Participants:** Gar, Asher, Aarden, Tarkin, Gesgrim, Andral.
+
+**Level 1 continued.**
+
 (Coming soon.)
+
+**Additional Notes**
+
+- Advance to **Level 2** next session.
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
