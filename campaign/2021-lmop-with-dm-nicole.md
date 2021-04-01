@@ -49,7 +49,7 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 **Loot**
 
 - Asher: Jade statue of a Frog w/Gold Orb Eyes, worth 40 gp
-- Currency: 50 gp, 110 sp, 600 cp (100 cp apiece; 18sp apiece; 8 gp apeice)
+- Currency: 50 gp, 110 sp, 600 cp (Distributed: 8 gp; 18sp; 100 cp each)
 - Tarkin: 1 Potion of Healing; Aarden: 1 Potion of Healing
 - Stolen Provisions
 
