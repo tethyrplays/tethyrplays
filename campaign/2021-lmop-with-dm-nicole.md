@@ -39,7 +39,103 @@ The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of gobl
 
 **Participants:** Gar, Asher, Aarden, Tarkin, Gesgrim, Andral.
 
-(To be posted ~Mon, Mar. 29 - delayed due to trip.)
+**Inspiration.** 1 point of inspiration to Asher for recap.
+
+**Perception check.** Tarkin: 22. Aarden: 19. Gar: 11. Asher: 4. The party hears the distant sound of more goblins coming from an eastern shaft of the lair, but they aren't an immediate threat.
+
+**Short Rest.** Gar requests a moment to gather his strength. Tarkin drags the bodies of dead goblins into the wolves' den. The wolves pant happily.
+
+`!short-rest` command: Informs players of damage received and remaining hit dice for recovery. Tarkin: -4 HP. Rest +4 HP. Gar: -10 HP. No Hit Dice. Aarden: Full HP. Asher: -8 HP. Rest +9 HP.
+
+**Tarkin successfully scouts the eastern passage.** Tarkin- Stealth: 18. Navigating slowly through the passage, Tarkin gets a glimpse of a goblin ahead, and can hear a few more of them beyond, then doubles back to inform the others.
+
+**Aarden befriends the wolves.** Aarden- Animal handling: 18. Aarden un-anchors the three wolves and leads them to the eastern passage. Tarkin realizes that his bow is missing and quickly retrieves it from outside the cavern.
+
+With the wolves leading, the party makes it way into a large chamber that's divided in half by a 10ft escarpment. The goblins occupy the upper section and a natural stairway descends into the lower section, where the captives are tied up: a human, an aasimar and a dwarf.
+
+The air is hazy with the smoke of a cooking fire in the corner and the pungent smell of poorly cured hides and unwashed goblins. A pile of belongings rests all along the side of the wall.
+
+ The goblins appear surprised by the intruders, and the captives see an opportunity to break free.
+
+**Combat Encounter.** Initiative- Aarden: 23. Tarkin: 17. Gesgrim: 15. Asher: 10. Andral: 4. Gar: 3. (The captives are able to use a Str check during each turn to try to break free of their ropes, or a party member may cut them free.)
+
+Aarden- Nature: 19. Reminded that the goblin Krag was able to speak common, Aarden takes the chance that the goblins are able to understand him. He demands their surrender and the release of a human captive. The goblin leader feigns there are lots of human prisoners in their possession and refuses to release any.
+
+Aarden fires his longbow at the nearest goblin and misses. An arrow from Tarkin's shortbow follows (24 ATK), piercing the goblin's neck (9 DMG) and killing him.
+
+Gesgrim attempts to break free of his bonds (Athletics: 1), but they tighten instead. In furstration, Gesgrim unleashes a telekinetic burst that pushes the leader back; he looks around confused by what just happened, as do his peers.
+
+Two more goblins are mauled by the wolves, killing them. Asher enters the chamber and Eldritch blasts a goblin (15 ATK), who glares back at him (2 DMG). Andral tries to break free (Athletics: 8) but isn't able to; he notices that the roughed-up human appears in no condition to free himself either.
+
+Gar, spotting the captives in the lower section, yells "Focus on the enemies and give me cover!" and dashes to reach them.
+
+**[==Session Break==]**
+
+Aarden warns the goblin leader, visibly sweating, that this is his last opportunity to surrender; he grumbles in response. Aarden fires another arrow at a nearby goblin (7 ATK) and misses.
+
+"How dare you use our creatures against us!" one of the goblins cries, slashing at one of the wolves (3 DMG). Tarkin, seeing the wolf engaged with the goblin (+Sneak), fires his shortbow and also misses (9 ATK).
+
+The goblin leader, sensing the fight isn't going his way, moves toward the human captive. In range, Gar attacks with opportunity, but fails to land a blow with his greataxe (8 ATK), as the leader slides behind the human and places a knife to man's throat.
+
+Goblin leader: "Do what I ask or I will kill this man!"
+
+Gesgrim, though restrained, forges an emboldening bond to Gar and Andral. (Two creatures w/in 30 ft; can target self. Add 1d4 to an attack roll, an ability check, or a saving throw.)
+
+The wolves flank and kill the two remaining goblins; then one wolf moves to Andral and chews through his bindings, releasing him.
+
+Asher, moving into range: "What are you asking of us?"
+
+Goblin leader: "I want you to kill our leader, the bugbear, and I will let you all go. I will all three of the prisoners and all of you go. If you kill the bugbear, Klarg. Kill Klarg." He's very frantic.
+
+Aarden, pointing at all the dead goblins, says "By my math, I don't really think we we need your permission for anything anymore."
+
+Goblin leader, holding up a whistle: "I have plenty more I can call."
+
+Asher: "We're here to kill Klarg anyway, so work with us - help us."
+
+Andral, freed from his bond, tackles the goblin leader (Athletics: 20), knocking him down and snatching the whistle. In the scuffle, Asher raises his hand (23 ATK) and the force of an Eldritch blast hits the goblin leader (7 DMG).
+
+Gar moves to Gesgrim and lashes through the binding rope with his greataxe.
+
+Aarden realizes he's had no success in appealing to the goblin leader to surrender and fires another longbow shot, missing (11 ATK). Tarkin also fails to land a hit with his shortbow (10 ATK).
+
+Goblin leader: "Now you've done it! I'll kill him! I will!" (20 ATK. Critical.)
+
+Gesgrim, watching the goblin leader slit the man's throat, dashes to grab his foci. The wolves, pacing menacingly, can't get in reach of the goblin leader, but stand ready to attack if he does. Asher's Eldritch blast misses (6 ATK).
+
+Andral casts Lay on Hands on Gar (+5 HP) before retreating to recover his gear in the upper chamber.
+
+Gar, emboldened (15 ATK), slams his greataxe into the goblin leader's head, then pushes him off.
+
+**The Dead Human.** The fight over, the group introduces themselves to each other, before turning toward the dead human. "Poor bastard," Aarden sighs, appearing guilty about possibly having provoked the man's death. Kneeling next to the wolves, Aarden pets each in turn with affection for their help.
+
+[The wolves are now members of the party.]
+
+Gar thanks Andral for restoring his health, then asks the two strangers: "I'm curious to know about our fallen comrade. Did you know him?"
+
+Gesgrim: "The last I remember was being hit on the head and then tied here with these other two." Gar: "You had not known him before? This is the first time you'd met him?" Gesgrim: "Yes, first time meeting everyone."
+
+**Information.** Gar- Investigation: 19.
+
+There is a **ring** and **a scroll** on the dead human that identifies him as Sildar Hallwinter, a member of the Lord's Alliance. Everyone knows that they are an alliance of political powers in the region that are concerned with the mutual security and prosperity of the Sword Coast region. [Like NATO.]
+
+Gar also finds **a note** that indicates that Sildar was traveling with Gundren Rockseeker and a pouch with 50 gold.
+
+Tarkin finds 22 gold + 12 silver among all the goblin corpses, and a small pouch with 3 gold teeth on the leader.
+
+**Gar invites Gesgrim and Andral to the party.**
+
+**Loot**
+- Currency distribution: 12 gold + 2 silver each
+- Gar: Pouch with 3 gold teeth
+- Gar: Lord's Alliance ring and scroll
+
+**Additional Notes**
+
+- Question: Can a player give their hit dice to another player?
+- If **Prone**: melee attacks have advantage, ranged attacks have disadvantage.
+- Meta knowledge: Wolves can pull a sled.
+
 
 ---
 
