@@ -58,6 +58,7 @@ Session ended with a Long Rest.
 **Additional Notes**
 
 - In Roll20 chat: `!long-rest` and `!short-rest` to automatically rest.
+- Can a player give their Inspiration to another player for a re-roll? Yes.
 - Two wolf companions alive; 1 dead.
 - Advance to **Level 2** at start of next session.
 
@@ -164,7 +165,7 @@ Tarkin finds 22 gold + 12 silver among all the goblin corpses, and a small pouch
 
 **Additional Notes**
 
-- Question: Can a player give their hit dice to another player?
+- Can a player give their hit dice to another player? No.
 - If **Prone**: melee attacks have advantage, ranged attacks have disadvantage.
 - Meta knowledge: Wolves can pull a sled.
 - Alternate non-combat tactic: Intimidation. Persuasion.
