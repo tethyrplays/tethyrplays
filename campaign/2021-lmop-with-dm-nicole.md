@@ -21,7 +21,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 A band of goblins attempt and fail to waylay the adventurers' transport to Phandalin. The sole goblin survivor, Krag, divulges information about captives taken by his tribe, the Cragmaws, before being slain. The adventurers decide to rescue the human captive and determine where the dwarf has been taken.
 
-Uncovering and avoiding traps along the way, the adventurers track the goblins to a nearby cavern and fight through waves of goblins. In the first major skirmish, Sildar Hallwinter is slain by a goblin. The party must now find the bugbear Klarg in hopes of finding the dwarf Gundren Rockseeker.
+Uncovering and avoiding traps along the way, the adventurers track the goblins to a nearby cavern and fight through waves of goblins. In the first major skirmish, Sildar Hallwinter is slain by a goblin. The party must now find the bugbear Klarg in hopes of locating the dwarf Gundren Rockseeker.
 
 
 ---
