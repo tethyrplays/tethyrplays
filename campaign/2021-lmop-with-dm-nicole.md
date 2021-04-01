@@ -19,7 +19,9 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ## The Story So Far (or TL;DR)
 
-The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of goblins, to rescue Sildar Hallwinter of the Lord's Alliance, and confront the tribal chief bugbear Klarg in hopes of learning where the captured dwarf Gundren Rockseeker has been taken. Asher, having sustained critical injuries in the most recent melee, must rest before the party can move further into the cavern.
+A band of goblins attempt and fail to waylay the adventurers' transport to Phandalin. The sole goblin survivor, Krag, divulges information about captives taken by his tribe, the Cragmaws, before being slain. The adventurers decide to rescue the human captive and determine where the dwarf has been taken.
+
+Uncovering and avoiding traps along the way, the adventurers track the goblins to a nearby cavern and fight through waves of goblins. In the first major skirmish, Sildar Hallwinter is slain by a goblin. The party must now find the bugbear Klarg in hopes of finding the dwarf Gundren Rockseeker.
 
 
 ---
@@ -38,6 +40,8 @@ The adventurers infiltrate a nearby Cragmaw lair, fighting through waves of gobl
 ## Session 3 Recap
 
 **Participants:** Gar, Asher, Aarden, Tarkin, Gesgrim, Andral.
+
+**Level 1 continued.**
 
 **Inspiration.** 1 point of inspiration to Asher for recap.
 
