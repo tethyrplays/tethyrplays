@@ -9,9 +9,9 @@
 
 ## Next Session
 
-<i class="fas fa-calendar-alt"></i> Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST
+<i class="fas fa-calendar-alt"></i> Thursday, April 8, 2021 \| 12:30 to 2:30 p.m. PST
 
-<i class="fas fa-money-check-alt"></i> Payment due Wednesday, March 31. See Discord for details.
+<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 7. See Discord for details.
 
 Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
 
@@ -34,6 +34,14 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 - **Tarkin Shadowdale,** Stout Halfling / Rogue
 - **Gesgrim Gildedquill,** Hill Dwarf / Peace Domain Cleric
 - **Andral**, Scourge Aasimar / Paladin
+
+---
+
+## Session 4 Recap
+
+(Coming soon.)
+
+<i class="fas fa-calendar-alt"></i> <small>Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
 ---
 
@@ -141,6 +149,7 @@ Tarkin finds 22 gold + 12 silver among all the goblin corpses, and a small pouch
 - Meta knowledge: Wolves can pull a sled.
 - Alternate non-combat tactic: Intimidation. Persuasion.
 
+<i class="fas fa-calendar-alt"></i> <small>Thursday, March 18, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
 ---
 
