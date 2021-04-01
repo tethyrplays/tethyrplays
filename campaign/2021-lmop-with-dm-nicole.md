@@ -23,6 +23,7 @@ A band of goblins attempt and fail to waylay the adventurers' transport to Phand
 
 Uncovering and avoiding traps along the way, the adventurers track the goblins to a nearby cavern and fight through waves of goblins. In the first major skirmish, Sildar Hallwinter is slain by a goblin. The party must now find the bugbear Klarg in hopes of locating the dwarf Gundren Rockseeker.
 
+<i class="fas fa-calendar-alt"></i> <small>As of Session 3</small>
 
 ---
 
