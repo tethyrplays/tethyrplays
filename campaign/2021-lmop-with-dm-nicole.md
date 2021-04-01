@@ -51,10 +51,11 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 - Asher: Jade statue of a Frog w/Gold Orb Eyes, worth 40 gp
 - Currency: 50 gp, 110 sp, 600 cp (Distributed: 8 gp; 18sp; 100 cp each)
 - Tarkin: 1 Potion of Healing; Aarden: 1 Potion of Healing
-- Stolen Provisions
+- Stolen Provisions + Body of Sildar Hallwinter
 
 **Additional Notes**
 
+- Two wolf companions alive; 1 dead.
 - Advance to **Level 2** at start of next session.
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST</small>
