@@ -135,6 +135,7 @@ Tarkin finds 22 gold + 12 silver among all the goblin corpses, and a small pouch
 - Question: Can a player give their hit dice to another player?
 - If **Prone**: melee attacks have advantage, ranged attacks have disadvantage.
 - Meta knowledge: Wolves can pull a sled.
+- Alternate non-combat tactic: Intimidation. Persuasion.
 
 
 ---
