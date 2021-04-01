@@ -46,6 +46,8 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 
 (Coming soon.)
 
+Session ended with a Long Rest.
+
 **Loot**
 
 - Asher: Jade statue of a Frog w/Gold Orb Eyes, worth 40 gp
@@ -55,6 +57,7 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 
 **Additional Notes**
 
+- In Roll20 chat: `!long-rest` and `!short-rest` to automatically rest.
 - Two wolf companions alive; 1 dead.
 - Advance to **Level 2** at start of next session.
 
