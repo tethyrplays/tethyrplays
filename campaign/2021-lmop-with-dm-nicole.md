@@ -61,6 +61,7 @@ Session ended with a Long Rest.
 - Can a player give their Inspiration to another player for a re-roll? Yes.
 - Two wolf companions alive; 1 dead.
 - Advance to **Level 2** at start of next session.
+- Gar wants to have Jade statue inspected by guild's jeweler
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
