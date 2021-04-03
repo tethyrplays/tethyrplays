@@ -48,3 +48,8 @@ Tier 1: Access to Members-only Discord server
 Tier 2: 2x Dice for interventions every 10 minutes of watching
 Tier 3: Access to D&D Beyond Compendium
 Tier 4: Priority seating at games
+
+### D&D Beyond Notes
+
+Master Tier: $54.99/year - Save 25%
+Share Unlocked content with up to 60 players (5 campaigns, 12 players each)
