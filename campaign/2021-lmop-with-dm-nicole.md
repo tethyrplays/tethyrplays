@@ -13,6 +13,8 @@
 
 <i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 7. See Discord for details.
 
+- Advancing to **Level 2** at start of session.
+
 Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
 
 ---
@@ -23,18 +25,20 @@ A band of goblins attempt and fail to waylay the adventurers' transport to Phand
 
 Uncovering and avoiding traps along the way, the adventurers track the goblins to a nearby cavern and fight through waves of goblins. In the first major skirmish, Sildar Hallwinter is slain by a goblin. The party must now find the bugbear Klarg in hopes of locating the dwarf Gundren Rockseeker.
 
-<i class="fas fa-calendar-alt"></i> <small>As of Session 3</small>
+
+
+<i class="fas fa-calendar-alt"></i> <small>As of Session 4</small>
 
 ---
 
 ## Player Characters
 
-- **Gar Rollisk,** Half-Orc / Barbarian
-- **Asher,** Half-Elf / Archfey Warlock
-- **[Aarden Falknor](/character),** Human / Ranger
-- **Tarkin Shadowdale,** Stout Halfling / Rogue
-- **Gesgrim Gildedquill,** Hill Dwarf / Peace Domain Cleric
-- **Andral**, Scourge Aasimar / Paladin
+- **Gar Rollisk,** Half-Orc, Barbarian
+- **Asher,** Half-Elf, Archfey Warlock
+- **[Aarden Falknor](/character),** Human, Ranger
+- **Tarkin Shadowdale,** Stout Halfling, Rogue
+- **Gesgrim Gildedquill,** Hill Dwarf, Peace Domain Cleric
+- **Andral**, Scourge Aasimar, Paladin
 
 ---
 
@@ -44,24 +48,103 @@ Uncovering and avoiding traps along the way, the adventurers track the goblins t
 
 **Level 1 continued.**
 
-(Coming soon.)
+**Inspiration.** 1 point of inspiration to Gar for recap.
 
-Session ended with a Long Rest.
+The group discuss transporting Sildar Hallwinter's body back to Phandalin. At first, Gar shows no interest as he isn't the sentimental type; Asher "is out" if the corpse begins to stink; Gesgrim thinks that any kin of Hallwinter may hold the party in regard for the gesture.
+
+Hallwinter + Lord's Alliance. Who's from the Sword Coast? No: Aarden, Tarkin, Gesgrim. ???: Asher, Gar. [DM Nicole recommends the "Sword Coast Adventurer's Guide"](https://www.dndbeyond.com/marketplace/sourcebooks/sword-coast-adventurers-guide). Yes: Andral is from Neverwinter.
+
+Andral: History check- 14. Sildar isn't anyone of importance to the Lord's Alliance, but the LA would be willing to pay for the recovery of their agents. The Lord's Alliance is a group of allied political powers that are concerned with mutual security and prosperity; members of the order ensure the safety of the cities and other settlements, by eliminating threats by any means while bringing honor and glory to their leaders and lands. Phandalin is not allied with the Lord's Alliance.
+
+Gar's attitude completely changes at the mention of coin, and immediately hefts the body and places it near the entrance.
+
+Andral wants to know why the Gar, Asher, Tarkin and Andral are in the cavern. Gar recounts to Gesgrim and Andral that their group was ambushed by goblins on the road and learned through interrogation that their financier (Gundren Rockseeker) had been captured, and they are there to find him before continuing to Phandalin. Andral asks if Gundren is in the cave. Aarden clarifies that they already know that Gundren has been moved to a different location, but the bugbear leader may have information on where.
+
+[DM rules 'Favored Enemy: Beasts' will allow beasts to understand basic commands from the Ranger. Group quickly goes over the highlights of each of their class abilities.]
+
+**Deeper into the cavern.** Andral suggests Tarkin stealthily scout 30 ft ahead. Tarkin: Stealth- 21. Andral volunteers to lead the rest of the group from a safe distance. Tarkin delves deeper into the cavern, crosses a bridge and happens upon a chamber with a waterfall that fills two large pools. The overflow drains out into the western end. Low field stone walls serve as damns, holding the water in. The noise of the waterfall echoes in the cavern, making it difficult to hear.
+
+Loud, indistinguishable talking is coming from the southern end of the chamber, then the sound of footsteps can be heard approaching. A large bugbear having noticed the light, with hands on hips, says in Common, "Who dares defy Klarg?!" Andral asks to know if Klarg has their friend, but Klarg feigns ignorance. Aarden clarifies, "The dwarf." "Klarg won't tell you about the Castle, fools!"
+
+Tarkin is visibly concerned about his own safety at such close quarters with the bugbear; Andral moves in menacingly  at Klarg.
+
+**[==Session Break==]**
+
+**Combat Encounter.** [Gesgrim reminds Andral and Gar that "Peace Domain: Emboldening Bond" is still active for another 5 minutes, allowing  1d4 per turn for any check.]
+
+Initiative- Asher: 21, Gar: 21, Tarkin: 9, Aarden: 8, Andral: 7, Gesgrim: 4.
+
+Asher unleashes an Eldritch Blast that misses (ATK 12), striking the wall behind him. Gar dashes 30ft. into range from the rear of the chamber. Ripper, Klarg's wolf, moves in and bites Andral, but fails, leaving only scratch marks. Tarkin tries to stab at Klarg, but misses (ATK 13). Aarden fires an arrow at Klarg from his shortbow and it barely misses (ATK 15). Andral slashes at Ripper, missing (ATK 12), as his longsword scrapes against the wall.
+
+Aarden's wolves move in closer. Only one wolf manages to get in melee range (ATK 21, DMG 9), bloodying Ripper and knocking him prone (STR Save: Fails).
+
+Both goblins with melee swords retreat into the back of the adjoining chamber, taunting the group to follow.
+
+Klarg slams his morningstar over Andral's head (DMG 11), then bellows in laughter. Gesgrim casts a guiding bolt and misses (ATK 13); he also fails to push Klarg with his telekinesis (STR Save: 21). Asher fails again to Eldritch blast Klarg (ATK 12), then moves back. Gar, emboldened, slashes into Klarg with his greataxe (ATK 18, DMG 11).
+
+Both goblins continue to hang back in the cavern.
+
+Ripper bites into Gar (DMG 5), but unable to knock him prone (STR Save: 11). Tarkin's swordsword pierces and bloodies Klarg (ATK 16, DMG 8, Sneak 1). "You will NOT defile Klarg!" the bugbear roars. A piercing arrow from Aarden's longbow slams Ripper into the wall, killing the wolf (ATK 23, DMG 9), as he turns to Klarg, "Surrender."
+
+Klarg: Defiantly responds "I will NOT surrender my throne to you."
+
+Aarden: "We're not interested in your throne, we just want our friend, the dwarf."
+
+Klarg grumbles: "You will not let Klarg live, even if I told you where the dwarf went. Is this not true? I fight to the death. Klarg takes this information to the grave."
+
+Andral slashes his longsword at Klarg (ATK 18, DMG 3), hitting him. Klarg, holding his stomach where he was sliced, and starts to limp. Klarg manages to evade each of the wolves' attacks (ATK 6, 6 & 7). The goblins rush forward, attacking the wolves. One wolf dies instantly from a critical hit.
+
+"Don't like the stealthy ones!" Klarg yells, striking Tarkin unconcious. (CRIT. DMG 23. 0 HP) [DM overrides insta-death due to difficulty of early levels.]
+
+At the sound of bones crunching, Gesgrim swiftly turns and casts Healing Word to revive Tarkin (+6 HP).
+
+[DM rules that Goodberries are allowed for +1 HP after 3 successful death throws. Andral mentions he failed to use the 'Lucky' feature to trigger a re-roll for a previous round. Gesgrim and Andral totally don't discuss meta-gaming their tanks.]
+
+Asher moves into range and casts Sleep, putting Klarg and the remaining goblins to sleep.
+
+**Party interrogates Klarg and goblins.** After tying up and moving their attackers, Asher charms Klarg and one of the goblins with his Fey Presence. The uncharmed goblin squirms in his bonds and cries out, "How dare you?! How dare you tie me up?! Rude!"
+
+"Klarg is sorry he threatened to make you into throne from your bones. What Klarg do for you?"
+
+"I forgive you," Asher prods, "but tell us what happened to that dwarf, Gundren. We really need to find him."
+
+"Klarg knows what happened to dwarf. Dwarf was taken away by the chief of Cragmaw castle. Don't know what he wants with him."
+
+Asher: "Does the chief have a name?" Klarg: "Chief has a name. Grol." Asher: "Where is his castle?" Klarg: "Castle. Don't know where castle is." Klarg shakes his head. Asher: "What can you tell us about the Black Spider?"
+
+Klarg: "Black Spider pay us to watchout for Gundren, the dwarf, and send him back to Grol. Klarg follow orders."
+
+Asher: "If you sent him back, you must know where he is." Aarden: "If not you, then who?" Klarg: "The people who take him, of course." Aarden: "Do they come here regularly?" Klarg: "Mmm, sometimes. They leave few days ago. No come back since."
+
+Asher: "What kind of creature is the black spider?" Klarg: "Klarg don't know. Klarg think bugbear? Klarg think hobgoblin? Hobgoblin. Big goblin. Ugly goblin. Goblin ugly; but hobgoblin really ugly."
+
+Asher: "Klarg, you've been so helpful, but I just don't know if it's been helpful enough. What else could you tell us that would be helpful? That maybe we'd let you live. Anything? Do you have any treasure here, hidden in this cave?"
+
+Andral recommends the party investigate the room.
+
+Klarg squirms: "Klarg no able to reach pocket. Reach in Klarg pocket; take what Klarg have. Let Klarg go. Klarg no harm big people anymore."
+
+Asher reaches into Klarg's pocket and finds a Frog Jade Statue with Gold Orb Eyes. Klarg: "Best possesion of Klarg," he beams in pride. "No kill Klarg. Stolen supplies: take back to Phandalin. Money in treasure chest. Let Klarg live."
+
+Asher: "That's very helpful. We're just going to leave you tied up while we look around, but we'll let you live."
+
+The party rummages through the goblin's stash, distribute loot, and haul the stolen provisions and Sildar's body to the wagon for transport to Phandalin. It's decided that the cavern is a safe place to take a (long) rest, as it is late and Phandalin is another day away and Gesgrim needs to recoup. Klarg and the goblins are sent on their way after (Aarden: Insight- 15) discerning that they won't cause further trouble for the group.
 
 **Loot**
 
-- Asher: Jade statue of a Frog w/Gold Orb Eyes, worth 40 gp
+- Gar: Jade statue of a Frog w/Gold Orb Eyes, worth 40 gp
 - Currency: 50 gp, 110 sp, 600 cp (Distributed: 8 gp; 18sp; 100 cp each)
-- Tarkin: 1 Potion of Healing; Aarden: 1 Potion of Healing
-- Stolen Provisions + Body of Sildar Hallwinter
+- Tarkin: 1 Potion of Healing
+- Aarden: 1 Potion of Healing
+- Wagon: Stolen Provisions + Body of Sildar Hallwinter
 
 **Additional Notes**
 
 - In Roll20 chat: `!long-rest` and `!short-rest` to automatically rest.
 - Can a player give their Inspiration to another player for a re-roll? Yes.
 - Two wolf companions alive; 1 dead.
-- Advance to **Level 2** at start of next session.
-- Gar wants to have Jade statue inspected by guild's jeweler
+- Advance to **Level 2** at start of session.
+- Gar wants to have Jade statue inspected by the blacksmith guild.
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, April 1, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
