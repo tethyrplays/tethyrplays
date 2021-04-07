@@ -41,7 +41,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 The group discuss transporting Sildar Hallwinter's body back to Phandalin. At first, Gar shows no interest as he isn't the sentimental type; Asher "is out" if the corpse begins to stink; Gesgrim thinks that any kin of Hallwinter may hold the party in regard for the gesture.
 
-Hallwinter + Lord's Alliance. Who's from the Sword Coast? No: Aarden, Tarkin, Gesgrim. ???: Asher, Gar. [DM Nicole recommends the "Sword Coast Adventurer's Guide"](https://www.dndbeyond.com/marketplace/sourcebooks/sword-coast-adventurers-guide). Yes: Andral is from Neverwinter.
+**History: Hallwinter + Lord's Alliance.** Who's from the Sword Coast? No: Aarden, Tarkin, Gesgrim. ???: Asher, Gar. [DM Nicole recommends the "Sword Coast Adventurer's Guide"](https://www.dndbeyond.com/marketplace/sourcebooks/sword-coast-adventurers-guide). Yes: Andral is from Neverwinter.
 
 Andral: History check- 14. Sildar isn't anyone of importance to the Lord's Alliance, but the LA would be willing to pay for the recovery of their agents. The Lord's Alliance is a group of allied political powers that are concerned with mutual security and prosperity; members of the order ensure the safety of the cities and other settlements, by eliminating threats by any means while bringing honor and glory to their leaders and lands. Phandalin is not allied with the Lord's Alliance.
 
