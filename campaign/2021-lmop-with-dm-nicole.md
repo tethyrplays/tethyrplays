@@ -75,11 +75,11 @@ Both goblins continue to hang back in the cavern.
 
 Ripper bites into Gar (DMG 5), but is unable to knock him prone (STR Save: 11). Tarkin's shortsword pierces and bloodies Klarg (ATK 16, DMG 8, Sneak 1). "You will NOT defile Klarg!" the bugbear roars. A piercing arrow from Aarden's longbow slams Ripper into the wall, killing the wolf (ATK 23, DMG 9), as he turns to Klarg, imploring him to  "Surrender."
 
-Klarg defiantly responds: "I will NOT surrender my throne to you."
+Klarg defiantly responds: "Klarg will NOT surrender throne to you."
 
 Aarden: "We're not interested in your throne, we just want our friend, the dwarf."
 
-Klarg grumbles: "You will not let Klarg live, even if I told you where the dwarf went. Is this not true? I fight to the death. Klarg takes this information to the grave."
+Klarg grumbles: "You will not let Klarg live, even if Klarg told you where dwarf went. Is this not true? Klarg fight to the death. Klarg takes this information to the grave."
 
 Andral slashes his longsword at Klarg (ATK 18, DMG 3), hitting him. Klarg, holding his stomach where he was sliced, starts to limp. Klarg manages to evade each of the wolves' attacks (ATK 6, 6 & 7); then the goblins rush forward, attacking the wolves. One wolf dies instantly from a critical hit.
 
