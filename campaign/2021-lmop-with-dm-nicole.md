@@ -9,11 +9,11 @@
 
 ## Next Session
 
-<i class="fas fa-calendar-alt"></i> Thursday, April 8, 2021 \| 12:30 to 2:30 p.m. PST
+<i class="fas fa-calendar-alt"></i> Thursday, April 15, 2021 \| 12:30 to 2:30 p.m. PST
 
-<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 7. See Discord for details.
+- Notes: Gar and Andral need to advance to Level 2, add 350 XP to character sheet and add 10 gold for Barthan's delivery; then consider any additional supplies you want to purchase.
 
-- Advancing to **Level 2** at start of session.
+<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 14. See Discord for details.
 
 Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
 
@@ -28,6 +28,26 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 - **Tarkin Shadowdale,** Stout Halfling, Rogue
 - **Gesgrim Gildedquill,** Hill Dwarf, Peace Domain Cleric
 - **Andral**, Scourge Aasimar, Paladin
+
+---
+
+## Session 5 Recap
+
+**Participants:** Asher, Aarden, Tarkin, Gesgrim. **Absent:** Gar, Andral.
+
+(Coming soon.)
+
+**Important NPCs and Locations**
+
+- **Townmaster Harbin Wester** at the Townhall - requested assistance from the party to resolve the town's troubles with the Redbrand Ruffians.
+- **Female citizen (name??)** - overheard in the Townhall asking the Townmaster for assistance with her property being damaged.
+- **Barthan's Provisions** - shop for supplies.
+- **Townhall** - has a board in front with job requests; location of Townmaster Harbin Wester.
+- **Sleeping Giant Inn** - dirty & rundown; known gathering place of the Redbrand Ruffians; provides food and drinks.
+
+**Additional Notes**
+
+- Don't drink and tail bad guys. xD
 
 ---
 
