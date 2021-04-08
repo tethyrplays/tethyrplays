@@ -63,27 +63,27 @@ Tarkin is visibly concerned about his own safety at such close quarters with the
 
 Initiative- Asher: 21, Gar: 21, Tarkin: 9, Aarden: 8, Andral: 7, Gesgrim: 4.
 
-Asher unleashes an Eldritch Blast that misses (ATK 12), striking the wall behind him. Gar dashes 30ft. into range from the rear of the chamber. Ripper, Klarg's wolf, moves in and bites Andral, but fails, leaving only scratch marks. Tarkin tries to stab at Klarg, but misses (ATK 13). Aarden fires an arrow at Klarg from his shortbow and it barely misses (ATK 15). Andral slashes at Ripper, missing (ATK 12), as his longsword scrapes against the wall.
+Asher unleashes an Eldritch Blast (ATK 12) that misses Klarg, striking the wall behind him. Gar dashes 30 ft into melee range from the rear of the chamber. Ripper, Klarg's wolf, moves in and fails to bite Andral, leaving only scratch marks. Tarkin tries to stab Klarg, but misses (ATK 13). Aarden fires an arrow at Klarg from his shortbow and it barely misses (ATK 15). Andral slashes at Ripper, missing (ATK 12), as his longsword scrapes against the wall.
 
-Aarden's wolves move in closer. Only one wolf manages to get in melee range (ATK 21, DMG 9), bloodying Ripper and knocking him prone (STR Save: Fails).
+Aarden's wolves move in closer. Only one wolf manages to get in melee range, biting (ATK 21, DMG 9), bloodying and knocking Ripper prone (STR Save: Fail).
 
-Both goblins with melee swords retreat into the back of the adjoining chamber, taunting the group to follow.
+Both goblins with swords retreat into the back of the adjoining chamber, taunting the group to follow.
 
-Klarg slams his morningstar over Andral's head (DMG 11), then bellows in laughter. Gesgrim casts a guiding bolt and misses (ATK 13); he also fails to push Klarg with his telekinesis (STR Save: 21). Asher fails again to Eldritch blast Klarg (ATK 12), then moves back. Gar, emboldened, slashes into Klarg with his greataxe (ATK 18, DMG 11).
+Klarg slams his morningstar over Andral (DMG 11), then bellows in laughter. Gesgrim casts a guiding bolt and misses (ATK 13); he also fails to push Klarg with his telekinesis (STR Save: 21). Asher fails again to Eldritch blast Klarg (ATK 12), then repositions. Gar, emboldened, slashes into Klarg with his greataxe (ATK 18, DMG 11).
 
 Both goblins continue to hang back in the cavern.
 
-Ripper bites into Gar (DMG 5), but unable to knock him prone (STR Save: 11). Tarkin's swordsword pierces and bloodies Klarg (ATK 16, DMG 8, Sneak 1). "You will NOT defile Klarg!" the bugbear roars. A piercing arrow from Aarden's longbow slams Ripper into the wall, killing the wolf (ATK 23, DMG 9), as he turns to Klarg, "Surrender."
+Ripper bites into Gar (DMG 5), but is unable to knock him prone (STR Save: 11). Tarkin's shortsword pierces and bloodies Klarg (ATK 16, DMG 8, Sneak 1). "You will NOT defile Klarg!" the bugbear roars. A piercing arrow from Aarden's longbow slams Ripper into the wall, killing the wolf (ATK 23, DMG 9), as he turns to Klarg, imploring him to  "Surrender."
 
-Klarg: Defiantly responds "I will NOT surrender my throne to you."
+Klarg defiantly responds: "I will NOT surrender my throne to you."
 
 Aarden: "We're not interested in your throne, we just want our friend, the dwarf."
 
 Klarg grumbles: "You will not let Klarg live, even if I told you where the dwarf went. Is this not true? I fight to the death. Klarg takes this information to the grave."
 
-Andral slashes his longsword at Klarg (ATK 18, DMG 3), hitting him. Klarg, holding his stomach where he was sliced, and starts to limp. Klarg manages to evade each of the wolves' attacks (ATK 6, 6 & 7). The goblins rush forward, attacking the wolves. One wolf dies instantly from a critical hit.
+Andral slashes his longsword at Klarg (ATK 18, DMG 3), hitting him. Klarg, holding his stomach where he was sliced, starts to limp. Klarg manages to evade each of the wolves' attacks (ATK 6, 6 & 7); then the goblins rush forward, attacking the wolves. One wolf dies instantly from a critical hit.
 
-"Don't like the stealthy ones!" Klarg yells, striking Tarkin unconcious. (CRIT. DMG 23. 0 HP) [DM overrides insta-death due to difficulty of early levels.]
+"Don't like the stealthy ones!" Klarg yells as he strikes Tarkin unconcious. (CRIT. DMG 23. 0 HP) [DM overrides insta-death rule due to difficulty of early levels.]
 
 At the sound of bones crunching, Gesgrim swiftly turns and casts Healing Word to revive Tarkin (+6 HP).
 
