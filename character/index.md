@@ -1,5 +1,5 @@
 
-### LIST OF RPG CHARACTERS
+### LIST OF TTRPG CHARACTERS
 
 # Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
 
