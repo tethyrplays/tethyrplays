@@ -29,7 +29,7 @@
 | | [Luke Hart's The DM Lair](https://www.thedmlair.com/) |
 
 
-# Virtual <i class="fas fa-dice-d20"></i> Tabletops (VTT)
+# Virtual <i class="fas fa-dice-d20"></i> Tabletops & Software
 
 | | |
 | ---: | :--- |
