@@ -35,6 +35,7 @@
 | ---: | :--- |
 | **Websites** | [D&D Beyond](https://www.dndbeyond.com) |
 | | [Roll20](https://roll20.net) |
-| **Software** | [Fantasy Grounds](https://www.fantasygrounds.com) |
+| **Software** | [Foundry](https://foundryvtt.com/) |
 | | [Discord](https://discord.com) + [Avrae](https://avrae.io) Bot |
-| | [Let's Role](https://lets-role.com)<br />Kickstarter. ETA ~Sept 2021 |
+| | [Let's Role](https://lets-role.com) (Kickstarter) |
+| | [Fantasy Grounds](https://www.fantasygrounds.com) |
