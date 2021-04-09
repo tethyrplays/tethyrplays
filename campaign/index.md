@@ -1,4 +1,4 @@
-### LIST OF RPG CAMPAIGNS
+### LIST OF TTRPG CAMPAIGNS
 
 # Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
 
@@ -16,7 +16,3 @@
 </div>
 
 ---
-
-# What's Next?
-
-(Coming soon)
