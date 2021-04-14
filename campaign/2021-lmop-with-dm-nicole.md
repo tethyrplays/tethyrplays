@@ -48,7 +48,7 @@ The shopkeeper recommends speaking to the townmaster at the Townhall regarding t
 
 **Shopping.** PHB p150. Adventuring gear. The Party purchases 3 tents (capacity: 2 ppl per tent). Gar is holding items for the party to be examined next session.
 
-Additional Notes
+**A few notes...**
 - Healer's Kit. PHB p151. 10 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check. Does not require proficiency. (See Healer feat to use the kit for healing too. PHB p167.)
 - Ammunition. PHB p146. At the end of battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 - Encumberance. PHB p176. The carrying capacity of a character in lbs is Strength score multiplied by 15. Push, drag & lift is Strength score multiplied by 30 (twice the carrying capacity); speed drops to 5ft in excess of carrying capacity.
