@@ -100,7 +100,7 @@ DM: Due to interest in sidequests, the game will switch to the use of XP instead
 - **Female citizen (name??)**: Is overheard by the party in the Townhall asking the Wester for assistance with her property being damaged.
 - **Barthan's Provisions**: Shop for supplies. PHB p150. Prices subject to change.
 - **Townmaster's Hall**: Has a job board in front with requests. Location of Townmaster Harbin Wester.
-- **Sleeping Giant Inn**: Dirty & rundown, provides food and drinks. Known gathering place of the Redbrand Ruffians.
+- **Sleeping Giant Inn**: Dirty & rundown tavern. Provides food and drinks. Known gathering place of the Redbrand Ruffians.
 
 **Additional Notes**
 
