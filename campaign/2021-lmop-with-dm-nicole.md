@@ -99,6 +99,7 @@ Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterat
 - **Harbin Wester**: Phandalin's townmaster, located at the Townhall. Requested assistance from the party to resolve the town's troubles with the Redbrand Ruffians.
 - **Female citizen (name??)**: Is overheard by the party in the Townhall asking the Wester for assistance with her property being damaged.
 - **Barthan's Provisions**: Shop for supplies. PHB p150. Prices subject to change.
+- **Stonehill Inn**: Operated by Toblin Stonehill. May have info about the goblin's castle.
 - **Townmaster's Hall**: Has a job board in front with requests. Location of Townmaster Harbin Wester.
 - **Sleeping Giant Inn**: Dirty & rundown tavern. Provides food and drinks. Known gathering place of the Redbrand Ruffians.
 
