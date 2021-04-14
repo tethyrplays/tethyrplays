@@ -108,6 +108,8 @@ Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterat
 - Don't drink and tail bad guys. xD
 - Gar is holding items for the party to be examined next session.
 
+<i class="fas fa-calendar-alt"></i> <small>Thursday, April 8, 2021 \| 12:30 to 2:30 p.m. PST</small>
+
 ---
 
 ## Session 4 Recap
