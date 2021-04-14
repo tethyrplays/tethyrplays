@@ -71,27 +71,27 @@ DM: Due to interest in sidequests, the game will switch to the use of XP instead
 
 **[===Session Break===]**
 
+The Party decides to head down to the **Sleeping Giant Inn** for a bite to eat and try to locate the ruffians.
 
+The taphouse is rundown and dangerous looking, a watering hole and the end of Phandalin's main street. Those coming in and out looking rather thuggish, so it may be hard to tell the regular crowd apart from the Redbrand. Aarden ties the wolves up outside the tavern.
 
+Inside the tavern there's a surely, attractive female dwarf behind the counter that calls out a greeting and tells the party to take a seat. The bar is dreary and rundown; the tables look like they've barely been cleaned. Crumbs cover the table that the Party sits at. A worker comes up, smiles and hands everyone a menu. The special is rabbit with leeks and potatoes, and a small side soup, for 3 silver. For drinks she suggests ale (2s), wine (3s) and coffee (1s).
 
+Aarden strikes a finger across the table, holding up crumbs, and hesitantly asks, "You guys really want to eat here?" Gesgrim notes that the "appetizers" are already on the table -- and free. Each Party member orders. Aarden asks for coffee and notices she doesn't write down the request. Asher cleans the table using a Prestidigitation cantrip.
 
+Tarkin looks around for any ruffians (Investigation: 24) and notices a table of four men that are wearing red scarves. The ruffians are acting generally thuggish at their table: leaning against barrels and tapping them; cat-calling women, and so on. The Party converses over what to do, and concludes they'll wait for the men to leave and follow them. Tarkin agrees to tail the ruffians should they leave, while the Party follows at a safe 30ft distance.
 
+(Asher notes that a direct confrontation is likely to result in a bar fight and damage the party's standing in town.)
 
+Gesgrim slides the waitress a gold piece and asks what she knows about the Redbrands. She looks toward the table that Tarkin hinted at and says that the Redbrand come in a lot. "They're always hanging around. Seems like we just leave them alone, they leave us alone. We provide them food and drink. Nothing more. There's plenty more of them. They have a base of operations in town somewhere, but that's just a rumor and might not be true." Gesgrim asks if there's a leader, but the waitress doesn't know of any. Aarden asks how long they've been here, and she says a few months. Aarden clarifies he wants to know how long the four have been inside the inn; she says they arrived about an hour ago.
 
+The Party hangs around to eat and drink, while waiting for the ruffians to leave. The Redbrand stick around for quite a while, then decide to leave in a few hours. Tarkin follows them out a moment later, and the Party follows. Gesgrim [CON: 5], Asher [CON: 7] and Tarkin [CON: 11] are drunk: disadvantage on DEX checks, advantage on CHA checks. Tarkin becomes immediately reticent.
 
+Gesgrim casts Guidance on Tarkin (add 1d4 to any skill check), who then tries to stealthily follow the Redbrand through town. [Stealth Disadvantage: 27 | 9 + Guidance: 1] Aarden realizes that the Redbrand weren't drunk as they go. [Perception: 20]. As they reach an alleyway between some of the houses, one of the Ruffians spits on the ground and turns to Tarkin, "Well, well, look at this - little stray puppy. Have you come to bark at us?!"
 
+Tarkin tries to slyly deceive the Ruffian, in a drunkinly manner saying that he's looking for nice stuff to steal. [Deception Advantage: 13 | 17]. The Ruffian says there isn't any "nice stuff" in Phandalin, as another Ruffian approaches to see what's going on. The Ruffian gives Tarkin the option to leave or fight.
 
-
-
-
-
-
-
-
-
-
-
-
+Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterates that he'd rather find a place to sleep than fight to the death. The party heads for Stonehill Inn (cost: 2s per night); Aarden opts to make arrangements with the woman that sought out the Townmaster earlier; and Gesgrim will take up lodge in a building that recognizes his guild affiliation.
 
 
 **Important NPCs and Locations**
