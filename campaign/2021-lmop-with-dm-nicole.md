@@ -46,7 +46,7 @@ After accepting their payment, the Party mentions additional supplies recovered 
 
 The shopkeeper recommends speaking to Harbin Wester at the **Townmaster's Hall** regarding the body; and Toblin Stonehill at the **Stonehill Inn** if he knows of any castles.
 
-**Shopping.** PHB p150. Adventuring gear. The Party purchases 3 tents (capacity: 2 ppl per tent). Gar is holding items for the party to be examined next session.
+**Shopping.** PHB p150. Adventuring gear. The Party purchases 3 tents (capacity: 2 ppl per tent).
 
 **A few notes...**
 - Healer's Kit. PHB p151. 10 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check. Does not require proficiency. (See Healer feat to use the kit for healing too. PHB p167.)
@@ -105,6 +105,7 @@ Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterat
 **Additional Notes**
 
 - Don't drink and tail bad guys. xD
+- Gar is holding items for the party to be examined next session.
 
 ---
 
