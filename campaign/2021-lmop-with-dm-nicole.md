@@ -97,8 +97,8 @@ DM: Due to interest in sidequests, the game will switch to XP instead of using m
 - **Harbin Wester**: Phandalin's townmaster, located at the Townhall. Requested assistance from the party to resolve the town's troubles with the Redbrand Ruffians.
 - **Female citizen (name??)**: Is overheard by the party in the Townhall asking the Wester for assistance with her property being damaged.
 - **Barthan's Provisions**: Shop for supplies.
-- **Townhall** - has a board in front with job requests; location of Townmaster Harbin Wester.
-- **Sleeping Giant Inn** - dirty & rundown; known gathering place of the Redbrand Ruffians; provides food and drinks.
+- **Townmaster's Hall**: has a board in front with job requests; location of Townmaster Harbin Wester.
+- **Sleeping Giant Inn**: dirty & rundown; known gathering place of the Redbrand Ruffians; provides food and drinks.
 
 **Additional Notes**
 
