@@ -67,7 +67,7 @@ The party introduces themselves, then reveal the corpse for Wester to identify. 
 Tarkin asks where the Redbrand come from, and Wester indicates that they are residents, but he doesn't know specifically who they are. Wester doesn't have a preference on what the Party does, just that he wants the menacing to stop or the Redbrand to be forced to leave. **Wester offers to pay 20g each once the Ruffians are dealt with.** He tells Tarkin that the Ruffians hang around the Sleeping Giant Inn.
 
 **[===Session Break===]**
-DM: Due to interest in sidequests, the game will switch to the use of XP instead of milestones.
+DM: Due to interest in sidequests, the game will switch to XP instead of using milestones.
 
 
 
