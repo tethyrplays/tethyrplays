@@ -87,9 +87,9 @@ Gesgrim slides the waitress a gold piece and asks what she knows about the Redbr
 
 The Party hangs around to eat and drink, while waiting for the ruffians to leave. The Redbrand stick around for quite a while, then decide to leave in a few hours. Tarkin follows them out a moment later, and the Party follows. Gesgrim [CON: 5], Asher [CON: 7] and Tarkin [CON: 11] are drunk: disadvantage on DEX checks, advantage on CHA checks. Tarkin becomes immediately reticent.
 
-Gesgrim casts Guidance on Tarkin (add 1d4 to any skill check), who then tries to stealthily follow the Redbrand through town. [Stealth Disadvantage: 27 | 9 + Guidance: 1] Aarden realizes that the Redbrand weren't drunk as they go. [Perception: 20]. As they reach an alleyway between some of the houses, one of the Ruffians spits on the ground and turns to Tarkin, "Well, well, look at this - little stray puppy. Have you come to bark at us?!"
+Gesgrim casts Guidance on Tarkin (add 1d4 to any skill check), who then tries to stealthily follow the Redbrand through town. [Stealth Disadvantage: 27:9 + Guidance: 1] Aarden realizes that the Redbrand weren't drunk as they go. [Perception: 20]. As they reach an alleyway between some of the houses, one of the Ruffians spits on the ground and turns to Tarkin, "Well, well, look at this - little stray puppy. Have you come to bark at us?!"
 
-Tarkin tries to slyly deceive the Ruffian, in a drunkinly manner saying that he's looking for nice stuff to steal. [Deception Advantage: 13 | 17]. The Ruffian says there isn't any "nice stuff" in Phandalin, as another Ruffian approaches to see what's going on. The Ruffian gives Tarkin the option to leave or fight.
+Tarkin tries to slyly deceive the Ruffian, in a drunkinly manner saying that he's looking for nice stuff to steal. [Deception Advantage: 13:17]. The Ruffian says there isn't any "nice stuff" in Phandalin, as another Ruffian approaches to see what's going on. The Ruffian gives Tarkin the option to leave or fight.
 
 Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterates that he'd rather find a place to sleep than fight to the death. The party heads for Stonehill Inn (cost: 2s per night); Aarden opts to make arrangements with the woman that sought out the Townmaster earlier; and Gesgrim will take up lodge in a building that recognizes his guild affiliation.
 
