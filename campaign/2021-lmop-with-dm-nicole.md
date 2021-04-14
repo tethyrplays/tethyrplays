@@ -30,7 +30,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 | **Gesgrim Gildedquill** | Hill Dwarf | Peace Domain Cleric |
 | **Andral** | Scourge Aasimar | Paladin |
 
----
+
 
 ## Session 5 Recap
 
