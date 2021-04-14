@@ -11,7 +11,7 @@
 
 <i class="fas fa-calendar-alt"></i> Thursday, April 15, 2021 \| 12:30 to 2:30 p.m. PST
 
-- Notes: Gar and Andral need to advance to Level 2, add 350 XP to character sheet and add 10 gold for Barthan's delivery; then consider any additional supplies you want to purchase.
+- Notes: Gar and Andral advance to Level 2 at start of session. Add 350 XP to character sheet and add 10 gold for Barthan's delivery. Consider any additional supplies you want to purchase.
 
 <i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 14. See Discord for details.
 
@@ -21,13 +21,13 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 ---
 
 ## Player Characters
-
-- **Gar Rollisk,** Half-Orc, Barbarian
-- **Asher,** Half-Elf, Archfey Warlock
-- **[Aarden Falknor](/character),** Human, Ranger
-- **Tarkin Shadowdale,** Stout Halfling, Rogue
-- **Gesgrim Gildedquill,** Hill Dwarf, Peace Domain Cleric
-- **Andral**, Scourge Aasimar, Paladin
+| ---: |  |  |
+| **Gar Rollisk** | Half-Orc | Barbarian |
+| **Asher** | Half-Elf | Archfey Warlock |
+| **[Aarden Falknor](/character)** | Human | Ranger |
+| **Tarkin Shadowdale** | Stout Halfling | Rogue |
+| **Gesgrim Gildedquill** | Hill Dwarf | Peace Domain Cleric |
+| **Andral** | Scourge Aasimar | Paladin |
 
 ---
 
@@ -35,13 +35,67 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Participants:** Asher, Aarden, Tarkin, Gesgrim. **Absent:** Gar, Andral.
 
-(Coming soon.)
+**Inspiration.** 1 point to Aarden for recap.
+
+The Party finishes a long rest at the Cragmaw cavern (to level up) before setting off to **Phandalin**. After a day of travel, they emerge from a wooded hillside, to a town of ~50 simple log buildings; some are built on old field-stone foundations while others rest near crumbling ruins. Crumbling stone walls covered in ivy and briars surround the newer houses and shops, showing how it must have been a much larger town in centuries past.
+
+Townsfolk tend to chores and errands, while children play in the open grass areas. Many take notice of the newcomers, but immediately return to their own affairs. After gathering their bearings, the Party stops in at **Barthan's Provisions**, the largest trading post in town. A lean, balding human man introduces himself as the shopkeeper, and accepts delivery of the Party's supplies. **[Loot: 10g each.]**
+
+After accepting their payment, the Party mentions additional supplies recovered from the goblins. Inspecting the supplies, the shopkeeper says that he was expecting those a day prior from Gundren himself. Aarden uncovers the body of Sildar for the shopkeeper to inspect, but he isn't able to identify the corpse. The Party explains they weren't able to locate Gundren and were hoping to get leads in town, asking about a castle that Klarg mentioned. The shopkeeper doesn't know of any. **[The shopkeeper indicates he'll pay Gundren for those supplies.]**
+
+The shopkeeper recommends speaking to the townmaster at the Townhall regarding the body; and to the barkeep at the Inn if s/he knows anything about any castles.
+
+**Shopping.** PHB p150. Adventuring gear. The Party purchases 3 tents (capacity: 2 ppl per tent). Gar is holding items for the party to be examined next session.
+
+Additional Notes
+- Healer's Kit. PHB p151. 10 uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check. Does not require proficiency. (See Healer feat to use the kit for healing too. PHB p167.)
+- Ammunition. PHB p146. At the end of battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+- Encumberance. PHB p176. The carrying capacity of a character in lbs is Strength score multiplied by 15. Push, drag & lift is Strength score multiplied by 30 (twice the carrying capacity); speed drops to 5ft in excess of carrying capacity.
+
+The shopkeeper takes the wagon-- Gar carries the tarped corpse-- as the Party continues on to the Townmaster's Hall. There's a graffiti'd notice board out front. Inside is clean and looks like a city hall. A heavy set, middle aged man, **Harbin Wester**, is seated a table, writing on parchment paper, as a woman complains about her property being defaced. He apologizes and indicates he'll have someone look into it, as well as send over someone to fix the damage.
+
+**Townmaster's Hall.** Wester acknowledges the Party after the woman departs, introducing himself and asking what he can do for the adventurers. The party mentions their presence at the behest of Gundren. Wester indicates he hasn't seen Gundren in a few weeks and asks of his well being. The Party recaps the goblin encounters, then asks Wester if he's aware of any castles in the region.
+
+**Wester says he'll ask around and offer the party any information he retrieves in 1 day.**
+
+The party introduces themselves, then reveal the corpse for Wester to identify. After a moment he recognizes Sildar, offers his apologies over the man's death, and to take the corpse for the Lord's Alliance to claim. He arranges to pay the party using funds provided to the town by the Lord's Alliance.
+
+(Gar drops the body in a very Orcish way.)
+
+**Redbrand Ruffians.** Gesgrim notes that with the Party's duties fulfilled and Westin's request for a day to gather information, he'd like to find the nearest place of worship. Wester acknowledges that there is one; then interjects that he could use the Party's help for another matter. He asks the Party to investigate why a band of thugs - the Redbrand Ruffians - are harassing the townspeople and committing acts of thievery and graffiti.
+
+Tarkin asks where the Redbrand come from, and Wester indicates that they are residents, but he doesn't know specifically who they are. Wester doesn't have a preference on what the Party does, just that he wants the menacing to stop or the Redbrand to be forced to leave. **Wester offers to pay 20g each once the Ruffians are dealt with.** He tells Tarkin that the Ruffians hang around the Sleeping Giant Inn.
+
+**[===Session Break===]**
+DM: Due to interest in sidequests, the game will switch to the use of XP instead of milestones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Important NPCs and Locations**
 
-- **Townmaster Harbin Wester** at the Townhall - requested assistance from the party to resolve the town's troubles with the Redbrand Ruffians.
-- **Female citizen (name??)** - overheard in the Townhall asking the Townmaster for assistance with her property being damaged.
-- **Barthan's Provisions** - shop for supplies.
+- **Harbin Wester**: Phandalin's townmaster, located at the Townhall. Requested assistance from the party to resolve the town's troubles with the Redbrand Ruffians.
+- **Female citizen (name??)**: Is overheard by the party in the Townhall asking the Wester for assistance with her property being damaged.
+- **Barthan's Provisions**: Shop for supplies.
 - **Townhall** - has a board in front with job requests; location of Townmaster Harbin Wester.
 - **Sleeping Giant Inn** - dirty & rundown; known gathering place of the Redbrand Ruffians; provides food and drinks.
 
@@ -57,7 +111,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Level 1 continued.**
 
-**Inspiration.** 1 point of inspiration to Gar for recap.
+**Inspiration.** 1 point to Gar for recap.
 
 The group discuss transporting Sildar Hallwinter's body back to Phandalin. At first, Gar shows no interest as he isn't the sentimental type; Asher "is out" if the corpse begins to stink; Gesgrim thinks that any kin of Hallwinter may hold the party in regard for the gesture.
 
@@ -165,7 +219,7 @@ The party rummages through the goblin's stash, distribute loot, and haul the sto
 
 **Level 1 continued.**
 
-**Inspiration.** 1 point of inspiration to Asher for recap.
+**Inspiration.** 1 point to Asher for recap.
 
 **Perception check.** Tarkin: 22. Aarden: 19. Gar: 11. Asher: 4. The party hears the distant sound of more goblins coming from an eastern shaft of the lair, but they aren't an immediate threat.
 
@@ -273,7 +327,7 @@ Tarkin finds 22 gold + 12 silver among all the goblin corpses, and a small pouch
 
 **Level 1 continued.**
 
-**Inspiration.** 1 point of inspiration to Aarden. Inspiration allows a player to re-roll a dice, as long as its done before a result is called.
+**Inspiration.** 1 point to Aarden for recap. [Inspiration allows a player to re-roll a dice, as long as it's done before a result is called.]
 
 **Tarkin Awakens.** Tarkin, a Halfling Rogue, regains consciousness, hears voices beyond the thicket of brush, and stumbles out. After brief defensive posturing, a roughed up Tarkin explains that he was onset by goblins - the very goblins that are now dead. Gar invites Tarkin to join the group if he's willing to lend his skillset to their cause.
 
