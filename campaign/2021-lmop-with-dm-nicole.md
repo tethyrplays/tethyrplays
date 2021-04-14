@@ -44,7 +44,7 @@ Townsfolk tend to chores and errands, while children play in the open grass area
 
 After accepting their payment, the Party mentions additional supplies recovered from the goblins. Inspecting the supplies, the shopkeeper says that he was expecting those a day prior from Gundren himself. Aarden uncovers the body of Sildar for the shopkeeper to inspect, but he isn't able to identify the corpse. The Party explains they weren't able to locate Gundren and were hoping to get leads in town, asking about a castle that Klarg mentioned. The shopkeeper doesn't know of any. **[The shopkeeper indicates he'll pay Gundren for those supplies.]**
 
-The shopkeeper recommends speaking to the townmaster at the Townhall regarding the body; and to the barkeep at the Inn if s/he knows anything about any castles.
+The shopkeeper recommends speaking to Harbin Wester at the **Townmaster's Hall** regarding the body; and Toblin Stonehill at the **Stonehill Inn** if he knows of any castles.
 
 **Shopping.** PHB p150. Adventuring gear. The Party purchases 3 tents (capacity: 2 ppl per tent). Gar is holding items for the party to be examined next session.
 
