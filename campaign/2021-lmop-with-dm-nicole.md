@@ -91,7 +91,7 @@ Gesgrim casts Guidance on Tarkin (add 1d4 to any skill check), who then tries to
 
 Tarkin tries to slyly deceive the Ruffian, in a drunkinly manner saying that he's looking for nice stuff to steal. [Deception Advantage: 13:17]. The Ruffian says there isn't any "nice stuff" in Phandalin, as another Ruffian approaches to see what's going on. The Ruffian gives Tarkin the option to leave or fight.
 
-Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterates that he'd rather find a place to sleep than fight to the death. The party heads for Stonehill Inn (cost: 2s per night); Aarden opts to make arrangements with the woman that sought out the Townmaster earlier; and Gesgrim will take up lodge in a building that recognizes his guild affiliation.
+Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterates that he'd rather find a place to sleep than fight to the death. The party heads for **Stonehill Inn** (cost: 2s per night); Aarden opts to make arrangements with the woman that sought out the Townmaster earlier; and Gesgrim will take up lodge in a building that recognizes his guild affiliation.
 
 
 **Important NPCs and Locations**
