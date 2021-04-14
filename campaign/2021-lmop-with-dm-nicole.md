@@ -21,6 +21,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 ---
 
 ## Player Characters
+
 | ---: |  |  |
 | **Gar Rollisk** | Half-Orc | Barbarian |
 | **Asher** | Half-Elf | Archfey Warlock |
