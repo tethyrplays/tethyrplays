@@ -51,6 +51,8 @@ Discovered, Tarkin barely manages to avert a fight, and the party concludes it's
 
 **Participants:** Asher, Aarden, Tarkin, Gesgrim. **Absent:** Gar, Andral.
 
+**Level 2.**
+
 **Inspiration.** 1 point to Aarden for recap.
 
 The Party finishes a long rest at the Cragmaw cavern (to level up) before setting off to **Phandalin**. After a day of travel, they emerge from a wooded hillside, to a town of ~50 simple log buildings; some are built on old field-stone foundations while others rest near crumbling ruins. Crumbling stone walls covered in ivy and briars surround the newer houses and shops, showing how it must have been a much larger town in centuries past.
