@@ -39,9 +39,9 @@ The adventurers arrive in Phandalin, after a day on the road, to offload their s
 
 At the Townmaster's Hall, arrangements are made for Sildar's remains to be returned to the Lord's Alliance. The townmaster, troubled by current events, pleads for help in uncovering why a band of local misfits are causing unrest.
 
-The Sleeping Giant Inn, a run-down watering hole for food, alcohol and a gathering place for all manner of brutes, is their next stop. There, Tarkin spots the Redbrand as Gesgrim pays a waitress for intel. Too much alcohol later, the party drunkinly stumbles through the streets of Phandalin in pursuit of the ruffians.
+The Sleeping Giant Inn is their next stop; a run-down watering hole for food, alcohol and a gathering place for all manner of brutes. Tarkin spots the Redbrand; Gesgrim pays a waitress for intel. Too much alcohol later, the party tails the ruffians through the streets of Phandalin.
 
-Discovered, Tarkin barely manages to avert a fight, and the party concludes it's time to sober up, rest and weigh their next actions.
+Discovered, Tarkin barely manages to avert a fight with the Redbrand, and the party concludes that it is time to sober up, rest and weigh their next actions.
 
 <small>As of Session 5</small>
 
