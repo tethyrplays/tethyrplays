@@ -9,7 +9,7 @@
 
 ## Next Session
 
-<i class="fas fa-calendar-alt"></i> Thursday, April 15, 2021 \| 12:30 to 2:30 p.m. PST
+<i class="fas fa-calendar-alt"></i> Thursday, April 22, 2021 \| 12:30 to 2:30 p.m. PST
 
 - Notes: Gar and Andral advance to Level 2 at start of session. Add 350 XP to character sheet and add 10 gold for Barthan's delivery. Consider any additional supplies you want to purchase.
 
@@ -31,6 +31,21 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 | **Andral** | Scourge Aasimar | Paladin |
 
 
+
+
+## TL;DR
+
+The adventurers spend a day on the road to finally arrive in Phandalin. After offloading their supplies at Barthen's Provisions, and those reclaimed from the goblins, the shopkeeper recommends checking with the local inn and the townmaster for information about the Cragmaw.
+
+At the Townmaster's Hall, arrangements are made for Sildar's remains to be returned to the Lord's Alliance. The townmaster, troubled by current events, pleads for help in uncovering why a band of local misfits are causing unrest.
+
+The Sleeping Giant Inn, a run-down watering hole for food, alcohol and a gathering place for all manner of brutes, is their next stop. There, Tarkin spots the Redbrand as Gesgrim pays a waitress for intel. Too much alcohol later, the party drunkinly stumbles through the streets of Phandalin in pursuit of the ruffians.
+
+Discovered, Tarkin barely manages to avert a fight, and the party concludes it's time to sober up, rest and weigh their next actions.
+
+<small>As of Session 5</small>
+
+---
 
 ## Session 5 Recap
 
