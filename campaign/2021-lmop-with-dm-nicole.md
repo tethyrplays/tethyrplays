@@ -35,7 +35,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 ## TL;DR
 
-The adventurers spend a day on the road to finally arrive in Phandalin. After offloading their supplies at Barthen's Provisions, and those reclaimed from the goblins, the shopkeeper recommends checking with the local inn and the townmaster for information about the Cragmaw.
+The adventurers arrive in Phandalin, after a day on the road, to offload their supplies and those reclaimed from the goblins at Barthen's Provisions. The shopkeeper recommends checking with the local inn and the townmaster for information about the Cragmaw.
 
 At the Townmaster's Hall, arrangements are made for Sildar's remains to be returned to the Lord's Alliance. The townmaster, troubled by current events, pleads for help in uncovering why a band of local misfits are causing unrest.
 
