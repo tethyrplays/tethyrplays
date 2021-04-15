@@ -13,7 +13,7 @@
 
 - Notes: Gar and Andral advance to Level 2 at start of session. Add 350 XP to character sheet and add 10 gold for Barthan's delivery. Consider any additional supplies you want to purchase.
 
-<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 14. See Discord for details.
+<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 21. See Discord for details.
 
 Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
 
