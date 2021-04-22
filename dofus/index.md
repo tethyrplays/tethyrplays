@@ -8,11 +8,23 @@
 
 ---
 
-Step into the World of Twelve and its vast, lush landscapes, its gloomy moors, and its many treasures.
+**Step into the World of Twelve** and its vast, lush landscapes, its gloomy moors, and its many treasures.
 
 The streets of its cities are bustling with commercial (and criminal) activity... The wildlife is magnificent, the water is pure, the air is fresh and clean, and the earth is the most fertile you've ever seen... But underneath this idyllic surface, beware of traps...
 
 Its edges are still uncharted... Especially since the Divine Dimensions, the worlds of the gods, opened up to the bravest adventurers.
+
+**There are 18 classes to choose from.** Some are more suited to close combat, some prefer to attack from afar, and others focus on healing and protecting.
+
+---
+
+### Temporis V | April 20-June 22, 2021
+
+## Ecaflip City
+
+The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance, is taking over the Temporis servers. So get ready for a whirlwind of paws, claws and poker hands! Sharpen your keyboard and pounce on your mouse like a hungry bow meow: Temporis is back.
+
+- [More details](https://www.dofus.com/en/mmorpg/news/temporis-server)
 
 ---
 
@@ -27,9 +39,9 @@ Its edges are still uncharted... Especially since the Divine Dimensions, the wor
 **FAQ. Dofus vs Wakfu.** [Dofus](http://www.dofus.com/en/play/tethyrplays) is the first game from French developer Ankama, set 1,000 years before the events of Wakfu. Ankama used Kickstarter to fund a Wakfu animated series. 3 Seasons are available on Netflix; a fourth is on the way. Both games are Flash-based and remain extremely popular in France.
 
 **FAQ. Dofus. What server should I pick for English-speaking players?**
-Single-Account: Ilyzaelle
-Multiple-Accounts: Echo
-Temporis Event: Temporis X (*subject to change yearly; as of 2021)
+- Single-Account: Ilyzaelle
+- Multiple-Accounts: Echo \((How to Use Multiple Accounts)[https://www.youtube.com/watch?v=A-RJV9uGbko]\(
+- Temporis Event: Temporis X (*subject to change yearly; as of 2021)
 
 **FAQ. What Discord can I join for English-speaking players?**
 - [Dofus Discord](https://discord.me/dofus)
