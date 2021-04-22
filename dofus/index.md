@@ -2,7 +2,9 @@
 
 # Dofus: The World of Twelve
 
-![Image](/assets/img/dofus-carousel.png)
+<p><div class="video-container">
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/eBuwY51iB80?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></p>
 
 <i class="fas fa-sign-in-alt"></i> **Dofus:** [Friend Invite + Create an Account + Download Game](http://www.dofus.com/en/play/tethyrplays)
 
@@ -16,9 +18,7 @@ Its edges are still uncharted... Especially since the Divine Dimensions, the wor
 
 **There are 18 classes to choose from.** Some are more suited to close combat, some prefer to attack from afar, and others focus on healing and protecting.
 
-<p><div class="video-container">
-<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/eBuwY51iB80?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></p>
+![Image](/assets/img/dofus-carousel.png)
 
 <i class="fas fa-play"></i> [Gameplay on Twitch](https://www.twitch.tv/directory/game/Dofus) &nbsp;&nbsp; <i class="fas fa-play"></i> [Benjamight on YouTube](https://www.youtube.com/channel/UC1oMaFw3aQeg3p2swpGggCg) &nbsp;&nbsp; <i class="fas fa-play"></i> [Wakfu Series on Netflix](https://www.netflix.com/title/80003196)
 
