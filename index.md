@@ -6,7 +6,7 @@
 
 ---
 
-# <a href="/star-citizen">Dofus: The World of Twelve RPG</a>
+# <a href="/star-citizen">Dofus: The World of Twelve</a>
 
 <a class="featured" href="/dofus">![Image](/assets/img/dofus-carousel.png)</a>
 
