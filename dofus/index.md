@@ -18,6 +18,8 @@ Its edges are still uncharted... Especially since the Divine Dimensions, the wor
 
 **There are 18 classes to choose from.** Some are more suited to close combat, some prefer to attack from afar, and others focus on healing and protecting.
 
+![Image](/assets/img/dofus-carousel.png)
+
 <i class="fas fa-play"></i> [Gameplay on Twitch](https://www.twitch.tv/directory/game/Dofus) &nbsp;&nbsp; <i class="fas fa-play"></i> [Benjamight on YouTube](https://www.youtube.com/channel/UC1oMaFw3aQeg3p2swpGggCg) &nbsp;&nbsp; <i class="fas fa-play"></i> [Wakfu Series on Netflix](https://www.netflix.com/title/80003196)
 
 ---
@@ -25,17 +27,15 @@ Its edges are still uncharted... Especially since the Divine Dimensions, the wor
 ### Temporis V | April 20-June 22, 2021
 ## Ecaflip City
 
-<p><div class="video-container">
-<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/53ayTAha9J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></p>
-
 The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance, is taking over the Temporis servers. So get ready for a whirlwind of paws, claws and poker hands! Sharpen your keyboard and pounce on your mouse like a hungry bow meow: Temporis is back.
 
 - [More details](https://www.dofus.com/en/mmorpg/news/temporis-server)
 
----
+<p><div class="video-container">
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/53ayTAha9J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></p>
 
-![Image](/assets/img/dofus-carousel.png)
+---
 
 ## FAQ
 
