@@ -20,7 +20,7 @@ Its edges are still uncharted... Especially since the Divine Dimensions, the wor
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/eBuwY51iB80?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></p>
 
-<i class="fas fa-play"></i> [Watch gameplay on Twitch](https://www.twitch.tv/directory/game/Dofus) &nbsp;&nbsp; <i class="fas fa-play"></i> [Watch Benjamight on YouTube](https://www.youtube.com/channel/UC1oMaFw3aQeg3p2swpGggCg)
+<i class="fas fa-play"></i> [Gameplay on Twitch](https://www.twitch.tv/directory/game/Dofus) &nbsp;&nbsp; <i class="fas fa-play"></i> [Benjamight on YouTube](https://www.youtube.com/channel/UC1oMaFw3aQeg3p2swpGggCg) &nbsp;&nbsp; <i class="fas fa-play"></i> [Wakfu Series on Netflix](https://www.netflix.com/title/80003196)
 
 ---
 
