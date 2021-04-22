@@ -16,22 +16,6 @@ Its edges are still uncharted... Especially since the Divine Dimensions, the wor
 
 **There are 18 classes to choose from.** Some are more suited to close combat, some prefer to attack from afar, and others focus on healing and protecting.
 
----
-
-### Temporis V | April 20-June 22, 2021
-
-<p><div class="video-container">
-<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/53ayTAha9J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div></p>
-
-## Ecaflip City
-
-The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance, is taking over the Temporis servers. So get ready for a whirlwind of paws, claws and poker hands! Sharpen your keyboard and pounce on your mouse like a hungry bow meow: Temporis is back.
-
-- [More details](https://www.dofus.com/en/mmorpg/news/temporis-server)
-
----
-
 <p><div class="video-container">
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/eBuwY51iB80?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></p>
@@ -40,14 +24,29 @@ The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance
 
 ---
 
-**FAQ. Dofus vs Wakfu.** [Dofus](http://www.dofus.com/en/play/tethyrplays) is the first game from French developer Ankama, set 1,000 years before the events of Wakfu. Ankama used Kickstarter to fund a Wakfu animated series. 3 Seasons are available on Netflix; a fourth is on the way. Both games are Flash-based and remain extremely popular in France.
+### Temporis V | April 20-June 22, 2021
+## Ecaflip City
 
-**FAQ. Dofus. What server should I pick for English-speaking players?**
+The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance, is taking over the Temporis servers. So get ready for a whirlwind of paws, claws and poker hands! Sharpen your keyboard and pounce on your mouse like a hungry bow meow: Temporis is back.
+
+- [More details](https://www.dofus.com/en/mmorpg/news/temporis-server)
+
+<p><div class="video-container">
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/53ayTAha9J8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></p>
+
+---
+
+## FAQ
+
+**Dofus vs Wakfu.** [Dofus](http://www.dofus.com/en/play/tethyrplays) is the first game from French developer Ankama, set 1,000 years before the events of Wakfu. Ankama used Kickstarter to fund a Wakfu animated series. 3 Seasons are available on Netflix; a fourth is on the way. Both games are Flash-based and remain extremely popular in France.
+
+**What DOFUS server should I pick for English-speaking players?**
 - Single-Account: Ilyzaelle
 - Multiple-Accounts: Echo \([How to Use Multiple Accounts](https://www.youtube.com/watch?v=A-RJV9uGbko)\)
 - Temporis Event: Temporis X (*subject to change yearly; as of 2021)
 
-**FAQ. What Discord can I join for English-speaking players?**
+**What Discords are available to join for English-speaking players?**
 - [Dofus Discord](https://discord.me/dofus)
 - [Wakfu Discord](https://discord.gg/pGJKNzG)
 - [Dofus Touch (Mobile)](https://discord.gg/dofustouch)
