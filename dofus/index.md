@@ -39,7 +39,7 @@ The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance
 
 ## FAQ
 
-**Dofus vs Wakfu.** [Dofus](http://www.dofus.com/en/play/tethyrplays) is the first game from French developer Ankama, set 1,000 years before the events of Wakfu. Ankama used Kickstarter to fund a Wakfu animated series. 3 Seasons are available on Netflix; a fourth is on the way. Both games are Flash-based and remain extremely popular in France.
+**Dofus vs Wakfu.** [Dofus](http://www.dofus.com/en/play/tethyrplays) is the first game from French developer Ankama, set 1,000 years before the events of Wakfu. Ankama used Kickstarter to fund a Wakfu animated series. 3 Seasons are available on Netflix; a fourth is on the way. Both games are Flash-based and remain extremely popular in France. Ankama has indicated that a Unity version (instead of Flash-based) is in development.
 
 **What DOFUS server should I pick for English-speaking players?**
 - Single-Account: Ilyzaelle
