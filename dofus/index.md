@@ -43,7 +43,7 @@ The wheel of fortune has turned, and now Ecaflip, the god of gambling and chance
 
 **What DOFUS server should I pick for English-speaking players?**
 - Single-Account: Ilyzaelle
-- Multiple-Accounts: Echo \([How to Use Multiple Accounts](https://www.youtube.com/watch?v=A-RJV9uGbko)\)
+- Multi-Account: Echo \([How to Use Multiple Accounts](https://www.youtube.com/watch?v=A-RJV9uGbko)\)
 - Temporis Event: Temporis X (*subject to change yearly; as of 2021)
 
 **What Discords are available to join for English-speaking players?**
