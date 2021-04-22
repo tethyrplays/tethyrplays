@@ -9,14 +9,11 @@
 
 ## Next Session
 
-<i class="fas fa-calendar-alt"></i> Thursday, April 22, 2021 \| 12:30 to 2:30 p.m. PST
+<i class="fas fa-calendar-alt"></i> Thursday, April 29, 2021 \| 12:30 to 2:30 p.m. PST
 
-- Notes: Gar and Andral advance to Level 2 at start of session. Add 350 XP to character sheet and add 10 gold for Barthan's delivery. Consider any additional supplies you want to purchase.
-
-<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 21. See Discord for details.
+<i class="fas fa-money-check-alt"></i> Payment due Wednesday, April 28. See Discord for details.
 
 Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)**
-
 
 ---
 
@@ -44,6 +41,14 @@ The Sleeping Giant Inn is their next stop; a run-down watering hole for food, al
 Discovered, Tarkin barely manages to avert a fight with the Redbrand, and the party concludes that it is time to sober up, rest and weigh their next actions.
 
 <small>As of Session 5</small>
+
+---
+
+## Session 6 Recap
+
+(Details coming soon.)
+
+<i class="fas fa-calendar-alt"></i> <small>Thursday, April 22, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
 ---
 

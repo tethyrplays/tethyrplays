@@ -6,6 +6,12 @@
 
 ---
 
+# <a href="/star-citizen">Dofus: The Tactical RPG</a>
+
+<a class="featured" href="/dofus">![Image](/assets/img/dofus-carousel.png)</a>
+
+---
+
 # <a href="/star-citizen">Star Citizen &alpha;: Fight. Trade. Explore.</a>
 
 <a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>
