@@ -49,7 +49,7 @@ Gar then asks about Tresendar Manor. The smith recounts that the manor was aband
 
 **Tresendar Manor.** The party travels through town to reach the manor. As Tarkin checks the surroundings [Survival: 7], Andral tries the manor's front door. Although it's blocked by rubble, Andral spots a broken wall with a staircase. The stone stairs lead to a cellar room lined with barrels and a cistern filled with fresh water.
 
-Tarkin finds a hidden passage. [Investigation: 20] Andral is the first to go in and immediately falls 20 ft. into a pit trap. [Athletics: 4. Damage: 10] Andral is pulled out with rope; then Gar spends ten minutes creating a platform for everyone to cross the gap with rope and polearms.
+Tarkin finds a hidden passage. [Investigation: 20] Andral is the first to go in and immediately falls 20 ft. into a pit trap. [Athletics: 4. Damage: 10] Using rope, Andral is pulled out of the pit. Gar then improvises a platform with rope and poles for everyone to cross the gap. [Requires 10 minutes.]
 
 Aarden checks the other door in the room while waiting for Gar, but is unable to hear anything more than rats scurrying about. [Perception: 15.] Gesgrim inspects the barrels and notices that the contents are recent, confirming that the old manor is in use. Gar hears that the containers have salted meat and asks Gesgrim to gather some for the group. Gesgrim then inspects the cistern and finds a hidden satchel in the water. [History: 20.] Tarkin checks for any indications that the supplies are stolen, like markings for Barthen's, but finds none.
 
