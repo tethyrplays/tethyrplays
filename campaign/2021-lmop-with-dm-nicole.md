@@ -41,7 +41,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Smithy & Barthen's.** Lodging his knife into the smith's counter, Gar greets the man working there. The man disapprovingly removes the weapon and asks what he can do for him. The smith doesn't recognize the craftmanship of the jade statue in Gar's possession and recommends checking with Barthan's.
 
-Gar then asks about Tresendar Manor. The smith recounts that the manor was abandoned after a natural disaster some 500 years ago; and to his knowledge, no one lives in the ruins. Gar thanks the smith with coin, then makes a quick stop at Barthen's to sell the Jade Frog Statue and gather a few provisions.
+Gar also asks about Tresendar Manor. The smith recounts that the manor was abandoned after a natural disaster some 500 years ago; and to his knowledge, no one lives in the ruins. Gar thanks the smith with coin, then makes a quick stop at Barthen's to sell the Jade Frog Statue and gather a few provisions.
 
 > Jade Frog Statue: 35g. Divided between party: 6g each; 5g for Gar.
 
