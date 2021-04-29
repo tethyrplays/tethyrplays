@@ -18,7 +18,7 @@ A Starter Package (~$45) is required to access the Persistent Universe servers -
 
 ![Image](/assets/img/starcitizen-alpha-carousel.png)
 
-The United Empire of Earth is the beating heart of Humanity in the 30th century that spans across dozens of systems, worlds and moons. Imagine a universe that combines the freedom of exploration, the thrill of combat, and the unique challenge of building a life in space.
+**The United Empire of Earth** is the beating heart of Humanity in the 30th century that spans across dozens of systems, worlds and moons. Imagine a universe that combines the freedom of exploration, the thrill of combat, and the unique challenge of building a life in space.
 
 Star Citizen puts ultimate control in the hands of the player.
 
