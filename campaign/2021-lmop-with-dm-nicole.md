@@ -41,13 +41,13 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Smithy & Barthen's.** Lodging his knife into the smith's counter, Gar greets the man working there. The man disapprovingly removes the weapon and asks what he can do for him. The smith doesn't recognize the craftmanship of the jade statue in Gar's possession and recommends checking with Barthan's.
 
-Gar then asks about Tresendar Manor. The smith recounts that the manor was abandoned after a natural disaster nearly 500 years ago; and to his knowledge, no one lives in the ruins. Gar thanks the smith with coin, then makes a quick stop at Barthen's to sell the Jade Frog Statue and gather a few provisions.
+Gar then asks about Tresendar Manor. The smith recounts that the manor was abandoned after a natural disaster some 500 years ago; and to his knowledge, no one lives in the ruins. Gar thanks the smith with coin, then makes a quick stop at Barthen's to sell the Jade Frog Statue and gather a few provisions.
 
 [Jade Frog Statue: 35g. Divided between party: 6g each; 5g for Gar.]
 
 **[===Session Break===]**
 
-**Tresendar Manor.** The party travels through town to reach the manor. As Tarkin checks the surroundings [Survival: 7], Andral walks to the manor's front door. Although it's blocked by rubble, Andral spots a broken wall with a staircase. The stone stairs lead to a cellar room lined with barrels and a cistern filled with fresh water.
+**Tresendar Manor.** The party travels through town to reach the manor. As Tarkin checks the surroundings [Survival: 7], Andral tries the manor's front door. Although it's blocked by rubble, Andral spots a broken wall with a staircase. The stone stairs lead to a cellar room lined with barrels and a cistern filled with fresh water.
 
 Tarkin finds a hidden passage. [Investigation: 20] Andral is the first to go in and immediately falls 20 ft. into a pit trap. [Athletics: 4. Damage: 10] Andral is pulled out with rope; then Gar spends ten minutes creating a platform for everyone to cross the gap with rope and polearms.
 
