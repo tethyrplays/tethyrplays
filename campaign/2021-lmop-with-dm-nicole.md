@@ -43,7 +43,7 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 Gar then asks about Tresendar Manor. The smith recounts that the manor was abandoned after a natural disaster some 500 years ago; and to his knowledge, no one lives in the ruins. Gar thanks the smith with coin, then makes a quick stop at Barthen's to sell the Jade Frog Statue and gather a few provisions.
 
-[Jade Frog Statue: 35g. Divided between party: 6g each; 5g for Gar.]
+> Jade Frog Statue: 35g. Divided between party: 6g each; 5g for Gar.
 
 **[===Session Break===]**
 
@@ -53,13 +53,13 @@ Gar then asks about Tresendar Manor. The smith recounts that the manor was aband
 
 Aarden checks the other door in the room while waiting, but is unable to hear anything more than rats scurrying about. [Perception: 15.] Gesgrim inspects the barrels and notices that the contents are recent, confirming that the old manor is in use. Gar hears that the containers have salted meat and asks Gesgrim to gather some for the group. Gesgrim then inspects the cistern and finds a hidden satchel in the water. [History: 20.] Tarkin checks for any indications that the supplies are stolen, like markings for Barthen's, but finds none.
 
-[Satchel with: potion of healing (2d4+2), potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. Divided between party: 8g each. 9g for Andral & Gar.]
+> Satchel with: potion of healing (2d4+2), potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. Divided between party: 8g each. 9g for Andral & Gar.
 
 Andral takes the potion to recover from the fall. [HP: +7] Asher casts False Life on himself. [+7 Temp HP] . Gar tosses the invisibility potion to Tarkin.
 
 **Hidden Passage.** Making their way across the platform, the party enters a long hallway covered in thick dust, with false columns every 10 feet. At the end are double doors with an angel carving embedded in them. Andral, Aarden and Gar recklessly cross the room and fall into another pit trap. [Damage: 5] Gesgrim walks back to grab the rope-platform and helps the fallen out.
 
-[XP: +20 each for surviving the pit trap.]
+> XP: +20 each for surviving the pit trap.
 
 **Crypt.** The next room is a dusty crypt with three large stone sarcophagi. Propped against each sarcophagus is a human skeleton in rusty mail armor. False columns line the room, carved in the image of spreading oak trees. Aarden immediately tries to spot any traps, but finds none. [Investigation: 11] Gar isn't able to identify any markings on the armor worn by the corpses; age has worn away any distinctive features. [Investigation: 11] Gesgrim then approaches one of the sarcophagi to inspect it and the skeletons chitter to life.
 
@@ -76,8 +76,6 @@ Gar makes a Reckless Attack with his greataxe at Skeleton-3. [23 ATK. 7 DMG. Sla
 **Too Much Noise!** As the fight ends, a door swings open, and a Redbrand demands to know what they're doing in the crypt. The party confronts him directly regarding the troubles in town and demand to speak with the group's leader. The guard laughs and refuses. Gar steps in front of the Redbrand and warns him that the other option is conflict, citing the dispatched skeletons. [Intimidation: 20] Taking a step back, intimidated, the guard draws his weapon...
 
 **Combat Encounter.** Initiative: Tarkin: 20, Gesgrim: 17, Andral: 14, Gar: 11, Asher: 10, Aarden: 5.
-
-__To Be Continued__
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, April 22, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
