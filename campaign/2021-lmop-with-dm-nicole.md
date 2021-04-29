@@ -57,11 +57,11 @@ Aarden checks the other door in the room while waiting, but is unable to hear an
 
 Andral takes the potion to recover from the fall. [HP: +7] Asher casts False Life on himself. [+7 Temp HP] . Gar tosses the invisibility potion to Tarkin.
 
-Making their way across the platform, the party comes across a long hallway covered in thick dust, with faux columns every 10 feet, and a set of double doors with an angel carving at the end. Andral, Aarden and Gar fall into another pit trap. [Damage: 5] Gesgrim walks back to grab the rope-platform and helps the fallen party members out.
+**Hidden Passage.** Making their way across the platform, the party enters a long hallway covered in thick dust, with false columns every 10 feet. At the end are double doors with an angel carving embedded in them. Andral, Aarden and Gar recklessly cross the room and fall into another pit trap. [Damage: 5] Gesgrim walks back to grab the rope-platform and helps the fallen out.
 
 [XP: +20 each for surviving the pit trap.]
 
-The next room is a dusty crypt with three large stone sarcophagi. Propped against each sarcophagus is a human skeleton in rusty mail armor. False columns line the room, carved in the image of spreading oak trees. Aarden immediately tries to spot any traps, but finds none. [Investigation: 11] Gar isn't able to identify any markings on the armor worn by the corpses; age has worn away any distinctive features. [Investigation: 11] Gesgrim then approaches one of the sarcophagi to inspect it and the skeletons chitter to life.
+**Crypt.** The next room is a dusty crypt with three large stone sarcophagi. Propped against each sarcophagus is a human skeleton in rusty mail armor. False columns line the room, carved in the image of spreading oak trees. Aarden immediately tries to spot any traps, but finds none. [Investigation: 11] Gar isn't able to identify any markings on the armor worn by the corpses; age has worn away any distinctive features. [Investigation: 11] Gesgrim then approaches one of the sarcophagi to inspect it and the skeletons chitter to life.
 
 **Combat Encounter.** Initiative: Tarkin: 17, Tarkin: 9, Gesgrim: 8, Asher: 7, Gar: 7, Aarden: 5, Andral: 5
 
