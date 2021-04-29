@@ -19,6 +19,10 @@ Soar through the stars. Fight. Trade. Unite. Explore. With the freedom [to choos
 ---
 
 <p><div class="video-container">
+<iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/eaF4An7M3sM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></p>
+
+<p><div class="video-container">
 <iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/xWikpyIU_RQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></p>
 
