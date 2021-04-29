@@ -6,7 +6,9 @@
 
 <i class="fas fa-sign-in-alt"></i> **Referral:** [STAR-MMRX-W7S9](https://robertsspaceindustries.com/enlist?referral=STAR-MMRX-W7S9)
 
-<i class="far fa-arrow-alt-circle-up"></i> While Star Citizen is in the Alpha stage of development, it is playable in its current state. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC currency. A Starter Package is required to access the Persistent Universe servers, except during Fly Free events. (Note: Purchased ships can be upgraded/downgraded to different models at any time.)
+<i class="far fa-arrow-alt-circle-up"></i> Star Citizen is in the Alpha stage of development, but is playable in its current state. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC currency at launch.
+
+A Starter Package (~$45) is required to access the Persistent Universe servers - except during Fly Free events. Purchased ships can be upgraded/downgraded to different models at any time.
 
 ---
 
