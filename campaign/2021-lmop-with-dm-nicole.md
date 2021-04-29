@@ -73,7 +73,9 @@ Asher waves a hand and an Eldritch blast slams into Skeleton-2. [15 ATK. 11 DMG.
 
 Gar makes a Reckless Attack with his greataxe at Skeleton-3. [23 ATK. 7 DMG. Slashing.] An arrow from Aarden's longbow finishes Skeleton-3. [20 ATK. 11 DMG. Piercing.]
 
-**Too Much Noise!** As the fight ends, a door swings open, and a Redbrand demands to know what they're doing in the crypt. The party confronts him directly regarding the troubles in town and demand to speak with the group's leader. The guard laughs and refuses. Gar steps in front of the Redbrand and warns him that the other option is conflict, citing the dispatched skeletons. [Intimidation: 20] Taking a step back, intimidated, the guard draws his weapon...
+**Too Much Noise!** As the fight ends, a door swings open, and a Redbrand demands to know what they're doing in the crypt. The party confronts him directly regarding the troubles in town and demand to speak with the group's leader. The guard laughs and refuses. Gar steps in front of the Redbrand and warns him that the other option is conflict, citing the dispatched skeletons. [Intimidation: 20]
+
+Taking a step back, intimidated by the half-orc, the guard draws his weapon...
 
 **Combat Encounter.** Initiative: Tarkin: 20, Gesgrim: 17, Andral: 14, Gar: 11, Asher: 10, Aarden: 5.
 
