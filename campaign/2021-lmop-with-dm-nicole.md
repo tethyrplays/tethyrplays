@@ -27,26 +27,57 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 | **Gesgrim Gildedquill** | Hill Dwarf | Peace Domain Cleric |
 | **Andral** | Scourge Aasimar | Paladin |
 
-
-
-
-## TL;DR
-
-The adventurers arrive in Phandalin, after a day on the road, to offload their supplies and those reclaimed from the goblins at Barthen's Provisions. The shopkeeper recommends checking with the local inn and the townmaster for information about the Cragmaw.
-
-At the Townmaster's Hall, arrangements are made for Sildar's remains to be returned to the Lord's Alliance. The townmaster, troubled by current events, pleads for help in uncovering why a band of local misfits are causing unrest.
-
-The Sleeping Giant Inn is their next stop; a run-down watering hole for food, alcohol and a gathering place for all manner of brutes. Tarkin spots the Redbrand; Gesgrim pays a waitress for intel. Too much alcohol later, the party tails the ruffians through the streets of Phandalin.
-
-Discovered, Tarkin barely manages to avert a fight with the Redbrand, and the party concludes that it is time to sober up, rest and weigh their next actions.
-
-<small>As of Session 5</small>
-
 ---
 
 ## Session 6 Recap
 
-(Details coming soon.)
+**Participants:** Asher, Aarden, Tarkin, Gesgrim, Gar, Andral.
+
+**Level 2 continued.** **Inspiration.** 1 point to Tarkin.
+
+**Stonehill Inn.** After a full nights rest the party meets up in the quiet common area of the inn to speak with the proprietor, Toblin Stonehill, about any rumours of goblin activity in the region. He hadn't heard anything, but suggests speaking to Sister Garaele at the shrine.
+
+**Shrine of Luck.** Andral greets Sister Garaele and asks if she knows of any castles in the region where goblins might have taken refuge. She marks two potential locations on the party's map that might be of interest. Garaele then turns the discussion to the local troubles with the Redbrand, and inquires if the party might clear them out. She indicates they may be held up at the abandoned Tresendar Manor up the hill, but has no idea how many they number.
+
+**Smithy & Barthen's.** Lodging his knife into the smith's counter, Gar greets the man working there. The man disapprovingly removes the weapon and asks what he can do for him. The smith doesn't recognize the craftmanship of the jade statue in Gar's possession and recommends checking with Barthan's.
+
+Gar then asks about Tresendar Manor. The smith recounts that the manor was abandoned after a natural disaster nearly 500 years ago; and to his knowledge, no one lives in the ruins. Gar thanks the smith with coin, then makes a quick stop at Barthen's to sell the Jade Frog Statue and gather a few provisions.
+
+[Jade Frog Statue: 35g. Divided between party: 6g each; 5g for Gar.]
+
+**[===Session Break===]**
+
+**Tresendar Manor.** The party travels through town to reach the manor. As Tarkin checks the surroundings [Survival: 7], Andral walks to the manor's front door. Although it's blocked by rubble, Andral spots a broken wall with a staircase. The stone stairs lead to a cellar room lined with barrels and a cistern filled with fresh water.
+
+Tarkin finds a hidden passage. [Investigation: 20] Andral is the first to go in and immediately falls 20 ft. into a pit trap. [Athletics: 4. Damage: 10] Andral is pulled out with rope; then Gar spends ten minutes creating a platform for everyone to cross the gap with rope and polearms.
+
+Aarden checks the other door in the room while waiting for Gar, but is unable to hear anything more than rats scurrying about. [Perception: 15.] Gesgrim inspects the barrels and notices that the contents are recent, confirming that the old manor is in use. Gar hears that the containers have salted meat and asks Gesgrim to gather some for the group. Gesgrim then inspects the cistern and finds a hidden satchel in the water. [History: 20.] Tarkin checks for any indications that the supplies are stolen, like markings for Barthen's, but finds none.
+
+[Satchel with: potion of healing (2d4+2), potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. Divided between party: 8g each. 9g for Andral & Gar.]
+
+Andral takes the potion to recover from the fall. [HP: +7] Asher casts False Life on himself. [+7 Temp HP] . Gar tosses the invisibility potion to Tarkin.
+
+Making their way across the platform, the party comes across a long hallway covered in thick dust, with faux columns every 10 feet, and a set of double doors with an angel carving at the end. Andral, Aarden and Gar fall into another pit trap. [Damage: 5] Gesgrim walks back to grab the rope-platform and helps the fallen party members out.
+
+[XP: +20 each for surviving the pit trap.]
+
+The next room is a dusty crypt with three large stone sarcophagi. Propped against each sarcophagus is a human skeleton in rusty mail armor. False columns line the room, carved in the image of spreading oak trees. Aarden immediately tries to spot any traps, but finds none. [Investigation: 11] Gar isn't able to identify any markings on the armor worn by the corpses; age has worn away any distinctive features. [Investigation: 11] Gesgrim then approaches one of the sarcophagi to inspect it and the skeletons chitter to life.
+
+**Combat Encounter.** Initiative: Tarkin: 17, Tarkin: 9, Gesgrim: 8, Asher: 7, Gar: 7, Aarden: 5, Andral: 5
+
+Tarkin lunges at Skeleton-1, piercing it with his shortsword, then disengages out of range. [21 ATK. 12 DMG. Piercing.]
+
+Skeleton-3 and Skeleton-2 attack Andral, but he deflects their blows. [Miss.] Skeleton-1 slices into Gesgrim's shoulder. [3 DMG.] Gesgrim utters a divine word and a radiant, burning light burns Skeleton-1 and Skeleton-2. [6 DMG. Radiant. DC13 CON Save.] [Skeleton-1 Dead.]
+
+Asher waves a hand and an Eldritch blast slams into Skeleton-2. [15 ATK. 11 DMG. Force.] [Skeleton-2 Dead.]
+
+Gar makes a Reckless Attack with his greataxe at Skeleton-3. [23 ATK. 7 DMG. Slashing.] An arrow from Aarden's longbow finishes Skeleton-3. [20 ATK. 11 DMG. Piercing.]
+
+**Too Much Noise!** As the fight ends, a door swings open, and a Redbrand demands to know what they're doing in the crypt. The party confronts him directly regarding the troubles in town and demand to speak with the group's leader. The guard laughs and refuses. Gar steps in front of the Redbrand and warns him that the other option is conflict, citing the dispatched skeletons. [Intimidation: 20] Taking a step back, intimidated, the guard draws his weapon...
+
+**Combat Encounter.** Initiative: Tarkin: 20, Gesgrim: 17, Andral: 14, Gar: 11, Asher: 10, Aarden: 5.
+
+__To Be Continued__
 
 <i class="fas fa-calendar-alt"></i> <small>Thursday, April 22, 2021 \| 12:30 to 2:30 p.m. PST</small>
 
@@ -56,9 +87,7 @@ Discovered, Tarkin barely manages to avert a fight with the Redbrand, and the pa
 
 **Participants:** Asher, Aarden, Tarkin, Gesgrim. **Absent:** Gar, Andral.
 
-**Level 2.**
-
-**Inspiration.** 1 point to Aarden for recap.
+**Level 2.** **Inspiration.** 1 point to Aarden for recap.
 
 The Party finishes a long rest at the Cragmaw cavern (to level up) before setting off to **Phandalin**. After a day of travel, they emerge from a wooded hillside, to a town of ~50 simple log buildings; some are built on old field-stone foundations while others rest near crumbling ruins. Crumbling stone walls covered in ivy and briars surround the newer houses and shops, showing how it must have been a much larger town in centuries past.
 
@@ -138,9 +167,7 @@ Tarkin opts to walk away and the Ruffians laugh behind his back. Tarkin reiterat
 
 **Participants:** Gar, Asher, Aarden, Tarkin, Gesgrim, Andral.
 
-**Level 1 continued.**
-
-**Inspiration.** 1 point to Gar for recap.
+**Level 1 continued.** **Inspiration.** 1 point to Gar for recap.
 
 The group discuss transporting Sildar Hallwinter's body back to Phandalin. At first, Gar shows no interest as he isn't the sentimental type; Asher "is out" if the corpse begins to stink; Gesgrim thinks that any kin of Hallwinter may hold the party in regard for the gesture.
 
@@ -246,9 +273,7 @@ The party rummages through the goblin's stash, distribute loot, and haul the sto
 
 **Participants:** Gar, Asher, Aarden, Tarkin, Gesgrim, Andral.
 
-**Level 1 continued.**
-
-**Inspiration.** 1 point to Asher for recap.
+**Level 1 continued.** **Inspiration.** 1 point to Asher for recap.
 
 **Perception check.** Tarkin: 22. Aarden: 19. Gar: 11. Asher: 4. The party hears the distant sound of more goblins coming from an eastern shaft of the lair, but they aren't an immediate threat.
 
@@ -354,9 +379,7 @@ Tarkin finds 22 gold + 12 silver among all the goblin corpses, and a small pouch
 
 **Participants:** Gar, Asher, Aarden, Tarkin.
 
-**Level 1 continued.**
-
-**Inspiration.** 1 point to Aarden for recap. [Inspiration allows a player to re-roll a dice, as long as it's done before a result is called.]
+**Level 1 continued.** **Inspiration.** 1 point to Aarden for recap.
 
 **Tarkin Awakens.** Tarkin, a Halfling Rogue, regains consciousness, hears voices beyond the thicket of brush, and stumbles out. After brief defensive posturing, a roughed up Tarkin explains that he was onset by goblins - the very goblins that are now dead. Gar invites Tarkin to join the group if he's willing to lend his skillset to their cause.
 
