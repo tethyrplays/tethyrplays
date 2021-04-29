@@ -8,6 +8,16 @@
 
 <i class="fas fa-sign-in-alt"></i> **Referral:** [STAR-MMRX-W7S9](https://robertsspaceindustries.com/enlist?referral=STAR-MMRX-W7S9)
 
+**The United Empire of Earth** is the beating heart of Humanity in the 30th century that spans across dozens of systems, worlds and moons. Imagine a universe that combines the freedom of exploration, the thrill of combat, and the unique challenge of building a life in space.
+
+Star Citizen puts ultimate control in the hands of the player.
+
+Soar through the stars. Fight. Trade. Unite. Explore. With the freedom [to choose from over 80 vehicles](https://robertsspaceindustries.com/pledge/ships), what kind of experience a pilot has will be affected by the type of ship they select to fly through the depths of space.
+
+---
+
+![Image](/assets/img/starcitizen-alpha-carousel.png)
+
 <i class="far fa-arrow-alt-circle-up"></i> Star Citizen is in the Alpha stage of development, but is playable in its current state. Sign-up for a free account with the referral code to earn a bonus 5,000 UEC currency at launch.
 
 A Starter Package (~$45) is required to access the Persistent Universe servers - except during Fly Free events. Purchased ships can be upgraded/downgraded to different models at any time.
@@ -15,16 +25,6 @@ A Starter Package (~$45) is required to access the Persistent Universe servers -
 <small>Alpha 3.13, as of April 2021.</small>
 
 The next "Fleet Week" Fly Free event is planned for May 2021. The event provides the general public with access to servers with a basic account (no purchase required) and makes all flyable ships available to rent for the duration of the event for free.
-
----
-
-![Image](/assets/img/starcitizen-alpha-carousel.png)
-
-**The United Empire of Earth** is the beating heart of Humanity in the 30th century that spans across dozens of systems, worlds and moons. Imagine a universe that combines the freedom of exploration, the thrill of combat, and the unique challenge of building a life in space.
-
-Star Citizen puts ultimate control in the hands of the player.
-
-Soar through the stars. Fight. Trade. Unite. Explore. With the freedom [to choose from over 80 vehicles](https://robertsspaceindustries.com/pledge/ships), what kind of experience a pilot has will be affected by the type of ship they select to fly through the depths of space.
 
 ---
 
