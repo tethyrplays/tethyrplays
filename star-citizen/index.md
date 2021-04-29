@@ -12,7 +12,9 @@
 
 A Starter Package (~$45) is required to access the Persistent Universe servers - except during Fly Free events. Purchased ships can be upgraded/downgraded to different models at any time.
 
-<small>Alpha 3.13, as of April 2021. The next Fly Free event is planned for May 2021, provides the general public with access to servers with a free account, and everyone the ability to rent all flyable ships for free for the duration of the event.</small>
+<small>Alpha 3.13, as of April 2021.</small>
+
+The next "Fleet Week" Fly Free event is planned for May 2021. The event provides the general public with access to servers with a basic account (no purchase required) and makes all flyable ships available to rent for the duration of the event for free.
 
 ---
 
