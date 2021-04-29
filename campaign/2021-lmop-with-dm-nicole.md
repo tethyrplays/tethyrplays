@@ -67,11 +67,17 @@ Andral takes the potion to recover from the fall. [HP: +7] Asher casts False Lif
 
 Tarkin lunges at Skeleton-1, piercing it with his shortsword, then disengages out of range. [21 ATK. 12 DMG. Piercing.]
 
-Skeleton-3 and Skeleton-2 attack Andral, but he deflects their blows. [Miss.] Skeleton-1 slices into Gesgrim's shoulder. [3 DMG.] Gesgrim utters a divine word and a radiant, burning light burns Skeleton-1 and Skeleton-2. [6 DMG. Radiant. DC13 CON Save.] [Skeleton-1 Dead.]
+Skeleton-3 and Skeleton-2 attack Andral, but he deflects their blows. [Miss.] Skeleton-1 slices into Gesgrim's shoulder. [3 DMG.] Gesgrim utters a divine word and a radiant, burning light burns Skeleton-1 and Skeleton-2. [6 DMG. Radiant. DC13 CON Save.]
 
-Asher waves a hand and an Eldritch blast slams into Skeleton-2. [15 ATK. 11 DMG. Force.] [Skeleton-2 Dead.]
+[Skeleton-1 Dead.]
+
+Asher waves a hand and an Eldritch blast slams into Skeleton-2. [15 ATK. 11 DMG. Force.]
+
+[Skeleton-2 Dead.]
 
 Gar makes a Reckless Attack with his greataxe at Skeleton-3. [23 ATK. 7 DMG. Slashing.] An arrow from Aarden's longbow finishes Skeleton-3. [20 ATK. 11 DMG. Piercing.]
+
+[Skeleton-3 Dead.]
 
 **Too Much Noise!** As the fight ends, a door swings open, and a Redbrand demands to know what they're doing in the crypt. The party confronts him directly regarding the troubles in town and demand to speak with the group's leader. The guard laughs and refuses. Gar steps in front of the Redbrand and warns him that the other option is conflict, citing the dispatched skeletons. [Intimidation: 20]
 
