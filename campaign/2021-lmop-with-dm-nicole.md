@@ -35,9 +35,9 @@ Hosted by **[DM Nicole](https://startplaying.games/game-master/loremasternicole)
 
 **Level 2 continued.** **Inspiration.** 1 point to Tarkin.
 
-**Stonehill Inn.** After a full nights rest the party meets up in the quiet common area of the inn to speak with the proprietor, Toblin Stonehill, about any rumours of goblin activity in the region. He hadn't heard anything, but suggests speaking to Sister Garaele at the shrine.
+**Stonehill Inn.** After a full nights rest the party meets up in the quiet common area of the inn to speak with the proprietor, Toblin Stonehill, about any rumours of goblin activity in the region. He hasn't heard anything, but suggests speaking to Sister Garaele at the shrine.
 
-**Shrine of Luck.** Andral greets Sister Garaele and asks if she knows of any castles in the region where goblins might have taken refuge. She marks two potential locations on the party's map that might be of interest. Garaele then turns the discussion to the local troubles with the Redbrand, and inquires if the party might clear them out. She indicates they may be held up at the abandoned Tresendar Manor up the hill, but has no idea how many they number.
+**Shrine of Luck.** Andral greets Sister Garaele and asks if she knows of any castles in the region where goblins might have taken refuge. She marks two potential locations on the party's map that might be of interest. Garaele then turns the discussion to the local troubles with the Redbrand, and inquires if the party might clear them out. She indicates they may be holding up in the abandoned Tresendar Manor up the hill, but has no idea how many they number.
 
 **Smithy & Barthen's.** Lodging his knife into the smith's counter, Gar greets the man working there. The man disapprovingly removes the weapon and asks what he can do for him. The smith doesn't recognize the craftmanship of the jade statue in Gar's possession and recommends checking with Barthan's.
 
