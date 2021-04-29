@@ -10,6 +10,8 @@
 
 A Starter Package (~$45) is required to access the Persistent Universe servers - except during Fly Free events. Purchased ships can be upgraded/downgraded to different models at any time.
 
+<small>Alpha 3.13, as of April 2021.</small>
+
 ---
 
 The United Empire of Earth is the beating heart of Humanity in the 30th century that spans across dozens of systems, worlds and moons. Imagine a universe that combines the freedom of exploration, the thrill of combat, and the unique challenge of building a life in space.
