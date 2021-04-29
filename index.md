@@ -6,12 +6,12 @@
 
 ---
 
-# <a href="/dofus">Dofus: The World of Twelve</a>
-
-<a class="featured" href="/dofus">![Image](/assets/img/dofus-carousel.png)</a>
-
----
-
 # <a href="/star-citizen">Star Citizen &alpha;: Fight. Trade. Explore.</a>
 
 <a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>
+
+---
+
+# <a href="/dofus">Dofus: The World of Twelve</a>
+
+<a class="featured" href="/dofus">![Image](/assets/img/dofus-carousel.png)</a>
