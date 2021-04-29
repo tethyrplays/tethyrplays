@@ -51,7 +51,7 @@ Gar then asks about Tresendar Manor. The smith recounts that the manor was aband
 
 Tarkin finds a hidden passage. [Investigation: 20] Andral is the first to go in and immediately falls 20 ft. into a pit trap. [Athletics: 4. Damage: 10] Using rope, Andral is pulled out of the pit. Gar then improvises a platform with rope and poles for everyone to cross the gap. [Requires 10 minutes.]
 
-Aarden checks the other door in the room while waiting for Gar, but is unable to hear anything more than rats scurrying about. [Perception: 15.] Gesgrim inspects the barrels and notices that the contents are recent, confirming that the old manor is in use. Gar hears that the containers have salted meat and asks Gesgrim to gather some for the group. Gesgrim then inspects the cistern and finds a hidden satchel in the water. [History: 20.] Tarkin checks for any indications that the supplies are stolen, like markings for Barthen's, but finds none.
+Aarden checks the other door in the room while waiting, but is unable to hear anything more than rats scurrying about. [Perception: 15.] Gesgrim inspects the barrels and notices that the contents are recent, confirming that the old manor is in use. Gar hears that the containers have salted meat and asks Gesgrim to gather some for the group. Gesgrim then inspects the cistern and finds a hidden satchel in the water. [History: 20.] Tarkin checks for any indications that the supplies are stolen, like markings for Barthen's, but finds none.
 
 [Satchel with: potion of healing (2d4+2), potion of invisibility, 50 gp, and a clean set of ordinary travel clothing. Divided between party: 8g each. 9g for Andral & Gar.]
 
