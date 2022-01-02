@@ -13,7 +13,8 @@
 </thead>
 <tbody>
   <tr> <!-- Character -->
-    <td colspan="2" style="text-align:left;"><h2><a href="#link">Taktak</a></h2></td>
+    <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
+    <td class="character-name" style="text-align:left;"><h2><a href="#link">Taktak</a></h2></td>
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Gender</td>
