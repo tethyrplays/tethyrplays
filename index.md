@@ -1,5 +1,5 @@
 ### NOW PLAYING
 
-# <a href="/star-citizen">Star Citizen &alpha;: Fight. Trade. Explore.</a>
+# Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
 
-<a class="featured" href="/star-citizen">![Image](/assets/img/starcitizen-alpha-carousel.png)</a>
+<a class="featured" href="/campaign">![Image](/dnd-5e-phandelver-carousel.png)</a>
