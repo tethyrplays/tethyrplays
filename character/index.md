@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Appearances</td>
-    <td style="text-align:left;">One Shot (Level 7)</td>
+    <td style="text-align:left;"><a href="/campaign/2021-one-shot-shore-of-dreams.html">One Shot (Level 7)</a></td>
   </tr>
   <tr class="character-block"><a name="003"></a> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
