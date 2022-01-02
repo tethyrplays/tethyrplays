@@ -6,13 +6,6 @@
 
 ---
 
-## Next Session
-
-**Tuesday, January 4**
-
-
----
-
 ## Session Recap
 
 **Arrived in village port of Yokotoro via boat**
