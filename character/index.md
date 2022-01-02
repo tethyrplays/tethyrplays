@@ -14,7 +14,32 @@
 <tbody>
   <tr class="character-block"> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
-    <td class="character-name" style="text-align:left;"><h2><a href="#link">Taktak</a></h2></td>
+    <td class="character-name" style="text-align:left;"><h2><a href="https://ddb.ac/characters/59269852/DUmho9">Ilkosh</a></h2></td>
+  </tr>
+  <tr>
+    <td style="text-align:right; font-weight:bold;">Gender</td>
+    <td style="text-align:left;">Male (he/him)</td>
+  </tr>
+  <tr>
+    <td style="text-align:right; font-weight:bold;">Species</td>
+    <td style="text-align:left;">Dragonborn (FToD)</td>
+  </tr>
+  <tr>
+    <td style="text-align:right; font-weight:bold;">Class</td>
+    <td style="text-align:left;">Sorcerer</td>
+  </tr>
+  <tr>
+    <td style="text-align:right; font-weight:bold;">Alignment</td>
+    <td style="text-align:left;">Neutral Good</td>
+  </tr>
+  <tr>
+    <td style="text-align:right; font-weight:bold;">Appearances</td>
+    <td style="text-align:left;">The Wild Beyond the Witchlight (Level 2)<br />
+    One Shot (Level 11)</td>
+  </tr>
+  <tr class="character-block"> <!-- Character -->
+    <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
+    <td class="character-name" style="text-align:left;"><h2><a href="">Taktak</a></h2></td>
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Gender</td>
@@ -35,30 +60,6 @@
   <tr>
     <td style="text-align:right; font-weight:bold;">Appearances</td>
     <td style="text-align:left;">One Shots</td>
-  </tr>
-  <tr class="character-block"> <!-- Character -->
-    <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
-    <td class="character-name" style="text-align:left;"><h2><a href="#link">Ilkosh</a></h2></td>
-  </tr>
-  <tr>
-    <td style="text-align:right; font-weight:bold;">Gender</td>
-    <td style="text-align:left;">Male (he/him)</td>
-  </tr>
-  <tr>
-    <td style="text-align:right; font-weight:bold;">Species</td>
-    <td style="text-align:left;">Dragonborn (FToD)</td>
-  </tr>
-  <tr>
-    <td style="text-align:right; font-weight:bold;">Class</td>
-    <td style="text-align:left;">Sorcerer</td>
-  </tr>
-  <tr>
-    <td style="text-align:right; font-weight:bold;">Alignment</td>
-    <td style="text-align:left;">Lawful Neutral</td>
-  </tr>
-  <tr>
-    <td style="text-align:right; font-weight:bold;">Appearances</td>
-    <td style="text-align:left;">The Wild Beyond the Witchlight</td>
   </tr>
   <tr class="character-block"> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
@@ -86,7 +87,7 @@
   </tr>
   <tr class="character-block"> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
-    <td class="character-name" style="text-align:left;"><h2><a href="#link">Aarden Falknor</a></h2></td>
+    <td class="character-name" style="text-align:left;"><h2><a href="https://ddb.ac/characters/43803420/zHjEYq">Aarden Falknor</a></h2></td>
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Gender</td>
