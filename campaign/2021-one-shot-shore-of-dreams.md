@@ -9,7 +9,7 @@
 ## Next Session
 
 **Tuesday, January 4**
- - Initiative. Fight starts with crocodile. Pisca is there too.
+
 
 ---
 
@@ -60,4 +60,7 @@
 **Kept searching dungeon; found rubble obstructing path**
  - Party spends enough time to clear a path to…
 
-**Large underground chamber is filled with water, floating debris and several bodies**
+**Entered a large underground chamber filled with water, floating debris and several bodies**
+
+ - Rolled for Initiative
+ - Fight starts with crocodile. Pisca is there too.
