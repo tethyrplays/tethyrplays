@@ -7,7 +7,7 @@
 
 <table>
 <tbody>
-  <tr class="character-block"> <!-- Character -->
+  <tr class="character-block"><a name="001"></a> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
     <td class="character-name" style="text-align:left;"><h2><a href="https://ddb.ac/characters/59269852/DUmho9">Ilkosh</a></h2></td>
   </tr>
@@ -32,7 +32,7 @@
     <td style="text-align:left;">The Wild Beyond the Witchlight (Level 2)<br />
     One Shot (Level 11)</td>
   </tr>
-  <tr class="character-block"> <!-- Character -->
+  <tr class="character-block"><a name="002"></a> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
     <td class="character-name" style="text-align:left;"><h2><a href="">Taktak</a></h2></td>
   </tr>
@@ -56,7 +56,7 @@
     <td style="text-align:right; font-weight:bold;">Appearances</td>
     <td style="text-align:left;">One Shot (Level 7)</td>
   </tr>
-  <tr class="character-block"> <!-- Character -->
+  <tr class="character-block"><a name="003"></a> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
     <td class="character-name" style="text-align:left;"><h2><a href="https://ddb.ac/characters/53322227/Nrzl8m" target="_blank">Aarde Aarden</a></h2></td>
   </tr>
@@ -80,7 +80,7 @@
     <td style="text-align:right; font-weight:bold;">Appearances</td>
     <td style="text-align:left;">Candlekeep Mysteries (Level 2)</td>
   </tr>
-  <tr class="character-block"> <!-- Character -->
+  <tr class="character-block"><a name="004"></a> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
     <td class="character-name" style="text-align:left;"><h2><a href="https://ddb.ac/characters/43803420/zHjEYq">Aarden Falknor</a></h2></td>
   </tr>
