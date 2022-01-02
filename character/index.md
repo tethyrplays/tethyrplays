@@ -6,11 +6,6 @@
 <!-- ![Image](/character-aarden.png) -->
 
 <table>
-<thead>
-  <tr>
-    <th colspan="2">&nbsp;</th>
-  </tr>
-</thead>
 <tbody>
   <tr class="character-block"> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
