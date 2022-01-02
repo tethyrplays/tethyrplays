@@ -5,7 +5,7 @@
 
 ![Image](/character-aarden.png)
 
-|  | Aarden Falknor |
+|  | ## Aarden Falknor |
 | ---: | :--- |
 | **Gender** | Male (he/him) |
 | **Species** | Standard Human |
