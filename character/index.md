@@ -6,7 +6,7 @@
 <!-- ![Image](/character-aarden.png) -->
 
 
-|  | ## [Taktak]() |
+|  | <h2>[Taktak]()</h2> |
 | ---: | :--- |
 | **Gender** | Male (he/him) |
 | **Species** | Kobold (Volo's) |
@@ -14,7 +14,7 @@
 | **Alignment** | Chaotic Good |
 | **Appearances** | One Shot |
 
-|  | ## [Ilkosh]() |
+|  | <h2>[Ilkosh]()</h2> |
 | ---: | :--- |
 | **Gender** | Male (he/him) |
 | **Species** | Dragonborn (FToD) |
@@ -22,7 +22,7 @@
 | **Alignment** | Lawful Neutral |
 | **Appearances** | The Wild Beyond the Witchlight |
 
-|  | ## [Aarden Falknor]() |
+|  | <h2>[Aarden Falknor]()</h2> |
 | ---: | :--- |
 | **Gender** | Male (he/him) |
 | **Species** | Standard Human |
