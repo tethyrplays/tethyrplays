@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Class</td>
-    <td style="text-align:left;">Sorcerer</td>
+    <td style="text-align:left;">Wild Magic Sorcerer / Tempest Domain Cleric</td>
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Alignment</td>
