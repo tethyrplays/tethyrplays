@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Appearances</td>
-    <td style="text-align:left;">One Shots</td>
+    <td style="text-align:left;">One Shot (Level 7)</td>
   </tr>
   <tr class="character-block"> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Appearances</td>
-    <td style="text-align:left;">Candlekeep Mysteries</td>
+    <td style="text-align:left;">Candlekeep Mysteries (Level 2)</td>
   </tr>
   <tr class="character-block"> <!-- Character -->
     <td style="text-align:right; font-weight:bold;">&nbsp;&nbsp;</td>
@@ -102,7 +102,7 @@
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Appearances</td>
-    <td style="text-align:left;">Lost Mine of Phandelver</td>
+    <td style="text-align:left;">Lost Mine of Phandelver (Level 2)</td>
   </tr>
 </tbody>
 </table>
