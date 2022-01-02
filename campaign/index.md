@@ -24,6 +24,8 @@
 <span class="quote">&ldquo;</span>Once every eight years, the fantastic Witchlight Carnival touches down on your world, bringing joy to one settlement after the next. Its owners, Mister Witch and Mister Light, know how to put on a good show. But there’s more to this magical extravaganza than meets the eye!
 </div>
 
+---
+
 <a name="002"></a>
 **One Shot: Shore of Dreams**
 <br />One-Shot on Roll20 and Discord
