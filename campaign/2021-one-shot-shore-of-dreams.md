@@ -1,6 +1,6 @@
 ### DUNGEONS & DRAGONS 5E ONE-SHOT
 
-# "Shore of Dreams"<br />with DM Nicole
+# "Shore of Dreams" with DM Nicole
 
 ![Image](/dnd-5e-phandelver-carousel.png)
 
