@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td style="text-align:right; font-weight:bold;">Appearances</td>
-    <td style="text-align:left;">The Wild Beyond the Witchlight (Level 2)<br />
+    <td style="text-align:left;"><a href="/campaign/2021-wbw-ilkosh.html">The Wild Beyond the Witchlight (Level 2)</a><br />
     One Shot (Level 11)</td>
   </tr>
   <tr class="character-block"><a name="002"></a> <!-- Character -->
