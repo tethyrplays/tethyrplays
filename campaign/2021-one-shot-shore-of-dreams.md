@@ -26,9 +26,9 @@
 
 **Next day. Taktak hungover with 1 level of exhaustion**
 
-**Visited port blacksmith; and apothecary run by elders**
+**Visited Yokotoro blacksmith; and apothecary run by elders**
  - Menial buys a +1 weapon from blacksmith (??correct details??)
- - Phlegethon buys healing potions (and detox brew for Taktak)
+ - Phlegethon buys healing potions; and detox brew for Taktak
  - Elders brew a concoction that detoxes Taktak and cures exhaustion
 
 **Returned to the tavern for a late-afternoon meal**
