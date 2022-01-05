@@ -18,7 +18,7 @@
 | | [Girls Guts Glory](https://www.girlsgutsgloryrpg.com/) |
 | | [Twitch: Dungeons & Dragons](https://www.twitch.tv/directory/game/Dungeons%20%26%20Dragons) |
 | | |
-| **More Content** | [Dungeon Masters Guild](https://www.dmsguild.com/) / DriveThru RPG |
+| **More Content** | [Dungeon Masters Guild](https://www.dmsguild.com/) / [DriveThru RPG](https://www.drivethrurpg.com/) |
 | | [Donjon's Random Generators](http://donjon.bin.sh/) |
 | | [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder) |
 | | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
