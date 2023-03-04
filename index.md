@@ -1,5 +1,5 @@
 ### NOW PLAYING
 
-# Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
+# Pathfinder Second Edition: Abomination Vaults
 
-<a class="featured" href="/campaign">![Image](/dnd-5e-phandelver-carousel.png)</a>
+<a class="featured" href="/campaign">![Image](/assets/img/pathfinder-2e-abomination-vaults.svg)</a>
