@@ -14,12 +14,20 @@
 <span class="quote">&ldquo;</span>Short description of campaign.
 </div> -->
 
-<a name="001"></a>
+<!-- <a name="001"></a>
 **Campaign: Abomination Vaults**
-<br />Fridays using Foundry VTT and Discord
-<br />Playing as Taktak (Level 2 Kobold Fighter)
+<br />Thursdays | Foundry VTT and Discord
+<br />Playing as Taktak (Kobold Fighter)
 <div class="notation">
-<span class="quote">&ldquo;</span>Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where the evil sorcerer Belcorra Haruvex attempted to raise an army of monsters hundreds of years ago. Brave into a dungeon full of beasts and traps to prevent a spiteful villain from rising again.
+Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where the evil sorcerer Belcorra Haruvex attempted to raise an army of monsters hundreds of years ago. Brave into a dungeon full of beasts and traps to prevent a spiteful villain from rising again.
+</div> -->
+
+<a name="002"></a>
+**Campaign: Sky King's Tomb**
+<br />Thursdays | Foundry VTT and Discord
+<br />Playing as Taktak (Kobold Fighter)
+<div class="notation">
+Invited to a prestigious festival in Highhelm, the greatest dwarven city, a clan's eclectic guests find a relic linked to one of dwarvenkind’s greatest heroes and are drawn into a mysterious ancient urban intrigue that kicks off a deadly treasure hunt.
 </div>
 
 
