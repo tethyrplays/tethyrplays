@@ -5,7 +5,10 @@
 | ---: | :--- |
 | **Paizo** | [Pathfinder 2E &amp; Starfinder](https://paizo.com/) |
 | | [Organized Play: Pathfinder Society](https://paizo.com/organizedplay) |
+| | [Player's Guide: Archives of Nethys](https://2e.aonprd.com/PlayersGuide.aspx) |
 | | [The Beginner Box](https://paizo.com/pathfinder/beginnerbox) |
+| | [Pathbuilder Tool](https://pathbuilder2e.com/) |
+| | [Character Sheet](https://paizo.s3-us-west-2.amazonaws.com/PZO2101-CharacterSheet-Color.pdf) |
 
 # Dungeons & Dragons 5E
 
