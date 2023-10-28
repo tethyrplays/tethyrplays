@@ -1,24 +1,50 @@
 ### RESOURCES
 
-# Dungeons <i class="fab fa-d-and-d"></i> Dragons 5E
+# Pathfinder Second Edition
 
 | | |
 | ---: | :--- |
-| **Wizards of the Coast** | [5E Basic Rules](https://dnd.wizards.com/articles/features/basicrules) |
+| **Paizo** | [Pathfinder 2E &amp; Starfinder](https://paizo.com/) |
+| | [Organized Play: Pathfinder Society](https://paizo.com/organizedplay) |
+| | [The Beginner Box](https://paizo.com/pathfinder/beginnerbox) |
+
+# Dungeons & Dragons 5E
+
+| | |
+| ---: | :--- |
+| **Wizards of the Coast** | [Dungeons &amp; Dragons](https://dnd.wizards.com/) |
 | | [Player's Guide](https://dnd.wizards.com/products/tabletop/players-basic-rules) |
 | | [DM's Guide](https://dnd.wizards.com/products/tabletop/dm-basic-rules) |
 | | [Errata/Corrections/Clarifications](https://thinkdm.org/5e-errata/) |
 | | [Character Sheets](https://dnd.wizards.com/articles/features/character_sheets) |
-| | [Dragon+: Monthly Magazine](https://dnd.dragonmag.com/) |
+
+# Actual Play
+
 | | |
-| **Actual Play** | [Critical Role](https://critrole.com/) |
+| ---: | :--- |
+| | [Critical Role](https://critrole.com/) |
 | | [The Adventure Zone](https://www.themcelroy.family/theadventurezone) |
 | | [Dimension 20: D&D Meets NYC](https://brennanleemulligan.com/dimension-20-the-unsleeping-city/) |
 | | [Ink and Lyre](https://www.inkandlyre.com/) |
 | | [Girls Guts Glory](https://www.girlsgutsgloryrpg.com/) |
-| | [Twitch: Dungeons & Dragons](https://www.twitch.tv/directory/game/Dungeons%20%26%20Dragons) |
+| | [See Twitch for more D&D](https://www.twitch.tv/directory/game/Dungeons%20%26%20Dragons) |
+
+# Virtual Tabletops & Software
+
 | | |
-| **More Content** | [Dungeon Masters Guild](https://www.dmsguild.com/) / [DriveThru RPG](https://www.drivethrurpg.com/) |
+| ---: | :--- |
+| **Websites** | [Pathfinder Nexus](https://app.demiplane.com/nexus/pathfinder2e) |
+| | [D&D Beyond](https://www.dndbeyond.com) |
+| | [Roll20](https://roll20.net) |
+| **Software** | [Foundry](https://foundryvtt.com/) Recommended |
+| | [Discord](https://discord.com) + [Avrae](https://avrae.io) Bot |
+| | [Fantasy Grounds](https://www.fantasygrounds.com) |
+
+# More Content
+
+| | |
+| ---: | :--- |
+| | [Dungeon Masters Guild](https://www.dmsguild.com/) / [DriveThru RPG](https://www.drivethrurpg.com/) |
 | | [Donjon's Random Generators](http://donjon.bin.sh/) |
 | | [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder) |
 | | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
@@ -28,15 +54,3 @@
 | | [Who The F*ck Is My Character?](https://whothefuckismydndcharacter.com/) |
 | | [Luke Hart's The DM Lair](https://www.thedmlair.com/) |
 | | [The Dungeon Coach](https://thedungeoncoach.com/) |
-
-
-# Virtual <i class="fas fa-dice-d20"></i> Tabletops & Software
-
-| | |
-| ---: | :--- |
-| **Websites** | [D&D Beyond](https://www.dndbeyond.com) |
-| | [Roll20](https://roll20.net) |
-| **Software** | [Foundry](https://foundryvtt.com/) |
-| | [Discord](https://discord.com) + [Avrae](https://avrae.io) Bot |
-| | [Let's Role](https://lets-role.com) (Kickstarter) |
-| | [Fantasy Grounds](https://www.fantasygrounds.com) |
