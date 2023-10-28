@@ -1,6 +1,6 @@
 ### TTRPG RESOURCES
 
-<div id="ttrpg-resources">
+<div id="resources-table">
 
 # Pathfinder Second Edition
 
