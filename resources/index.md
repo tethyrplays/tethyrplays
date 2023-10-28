@@ -31,14 +31,13 @@
 
 # Virtual Tabletops & Software
 
-| | |
 | ---: | :--- |
-| **Websites** | [Pathfinder Nexus](https://app.demiplane.com/nexus/pathfinder2e) |
-| | [D&D Beyond](https://www.dndbeyond.com) |
-| | [Roll20](https://roll20.net) |
-| **Software** | [Foundry](https://foundryvtt.com/) Recommended |
-| | [Discord](https://discord.com) + [Avrae](https://avrae.io) Bot |
+| **Software** | [Foundry](https://foundryvtt.com/) *Recommended* |
+| | [Discord](https://discord.com) *Recommended* + [Avrae](https://avrae.io) Bot |
 | | [Fantasy Grounds](https://www.fantasygrounds.com) |
+| **Websites** | [Roll20](https://roll20.net)|
+| | [Pathfinder Nexus](https://app.demiplane.com/nexus/pathfinder2e) |
+| | [D&D Beyond](https://www.dndbeyond.com) |
 
 # More Content
 
