@@ -46,3 +46,9 @@ td.character-name>h2 {
   margin: 0;
   margin-top: 20px;
 }
+
+#ttrpg-resources {
+  td:first-child {
+    width: 20%;
+  }
+}
