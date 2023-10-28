@@ -2,7 +2,6 @@
 
 # Pathfinder Second Edition
 
-| | |
 | ---: | :--- |
 | **Paizo** | [Pathfinder 2E &amp; Starfinder](https://paizo.com/) |
 | | [Organized Play: Pathfinder Society](https://paizo.com/organizedplay) |
@@ -10,7 +9,6 @@
 
 # Dungeons & Dragons 5E
 
-| | |
 | ---: | :--- |
 | **Wizards of the Coast** | [Dungeons &amp; Dragons](https://dnd.wizards.com/) |
 | | [Player's Guide](https://dnd.wizards.com/products/tabletop/players-basic-rules) |
@@ -20,7 +18,6 @@
 
 # Actual Play
 
-| | |
 | ---: | :--- |
 | | [Critical Role](https://critrole.com/) |
 | | [The Adventure Zone](https://www.themcelroy.family/theadventurezone) |
@@ -41,7 +38,6 @@
 
 # More Content
 
-| | |
 | ---: | :--- |
 | | [Dungeon Masters Guild](https://www.dmsguild.com/) / [DriveThru RPG](https://www.drivethrurpg.com/) |
 | | [Donjon's Random Generators](http://donjon.bin.sh/) |
