@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@use "jekyll-theme-minimal";
 
 .video-container {
   position: relative;
@@ -47,7 +47,7 @@ td.character-name>h2 {
   margin-top: 20px;
 }
 
-#resources-table {
+.resources-table {
   td:first-child {
     width: 20%;
   }
