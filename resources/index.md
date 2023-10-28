@@ -43,7 +43,9 @@
 # More Content
 
 | ---: | :--- |
-| | [Dungeon Masters Guild](https://www.dmsguild.com/) / [DriveThru RPG](https://www.drivethrurpg.com/) |
+| | [DriveThru RPG](https://www.drivethrurpg.com/) / [Dungeon Masters Guild](https://www.dmsguild.com/) |
+| | [Bundle of Holding](https://bundleofholding.com/) |
+| | [Humble Bundle Books](https://www.humblebundle.com/books) |
 | | [Donjon's Random Generators](http://donjon.bin.sh/) |
 | | [Kobold Fight Club: Encounter Generator](http://kobold.club/fight/#/encounter-builder) |
 | | [StackExchange: Roleplaying Games](https://rpg.stackexchange.com/) |
