@@ -19,12 +19,13 @@
 # Actual Play
 
 | ---: | :--- |
-| | [Critical Role](https://critrole.com/) |
 | | [The Adventure Zone](https://www.themcelroy.family/theadventurezone) |
+| | [Critical Role](https://critrole.com/) |
 | | [Dimension 20: D&D Meets NYC](https://brennanleemulligan.com/dimension-20-the-unsleeping-city/) |
 | | [Ink and Lyre](https://www.inkandlyre.com/) |
 | | [Girls Guts Glory](https://www.girlsgutsgloryrpg.com/) |
-| | [See Twitch for more D&D](https://www.twitch.tv/directory/game/Dungeons%20%26%20Dragons) |
+| | [See Twitch for more Pathfinder](https://www.twitch.tv/directory/category/pathfinder) |
+| | [See Twitch for more D&D](https://www.twitch.tv/directory/category/dungeons-and-dragons) |
 
 # Virtual Tabletops & Software
 
