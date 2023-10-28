@@ -27,7 +27,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 <br />Thursdays 4pm-8pm PST | Online | Foundry VTT and Discord
 <br />Playing as Taktak (Kobold Fighter)
 <div class="notation">
-Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic linked to one of dwarvenkind’s greatest heroes and are drawn into a mysterious ancient urban intrigue that kicks off a deadly treasure hunt.
+Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic that kicks off a deadly treasure hunt of intrigue.
 </div>
 
 
