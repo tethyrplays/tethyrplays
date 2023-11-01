@@ -17,7 +17,7 @@
 | | [Player's Guide](https://dnd.wizards.com/products/tabletop/players-basic-rules) |
 | | [DM's Guide](https://dnd.wizards.com/products/tabletop/dm-basic-rules) |
 | | [Errata/Corrections/Clarifications](https://thinkdm.org/5e-errata/) |
-| | [Character Sheets](https://dnd.wizards.com/articles/features/character_sheets) |
+| | [Character Sheet](https://dnd.wizards.com/articles/features/character_sheets) |
 
 # Actual Play
 
@@ -25,6 +25,7 @@
 | | [The Adventure Zone](https://www.themcelroy.family/theadventurezone) |
 | | [Critical Role](https://critrole.com/) |
 | | [Dimension 20: D&D Meets NYC](https://brennanleemulligan.com/dimension-20-the-unsleeping-city/) |
+| | [Kobold DM](https://www.twitch.tv/kobold_dm) |
 | | [Ink and Lyre](https://www.inkandlyre.com/) |
 | | [Girls Guts Glory](https://www.girlsgutsgloryrpg.com/) |
 | | [See Twitch for more Pathfinder](https://www.twitch.tv/directory/category/pathfinder) |
