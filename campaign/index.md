@@ -23,7 +23,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 </div> -->
 
 <a name="002"></a>
-**Adventure Path: Sky King's Tomb** [Learn more](https://paizo.com/store/pathfinder/adventures/adventurePath/skykingstomb) [Player's Guide](https://downloads.paizo.com/SkyKingsTombPlayersGuide.pdf)
+**Adventure Path: Sky King's Tomb** | <i class="fa-sharp fa-solid fa-circle-info"></i> [Learn more](https://paizo.com/store/pathfinder/adventures/adventurePath/skykingstomb) | <i class="fa-sharp fa-solid fa-download"></i> [Player's Guide](https://downloads.paizo.com/SkyKingsTombPlayersGuide.pdf)
 <br />Thursdays 4pm-8pm PST | Online using Foundry VTT and Discord
 <br />Playing as Taktak (Kobold Fighter)
 <div class="notation">
