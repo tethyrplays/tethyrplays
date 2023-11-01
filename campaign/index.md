@@ -31,6 +31,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic that kicks off a deadly treasure hunt of mystery and intrigue.
 </div>
 <br /><i class="fa-brands fa-twitch"></i> <strong>Live on [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays)</strong>
-<br />Nov. 2, 2023 | Session 0
+<br />Upcoming | Nov. 2, 2023 | Session 0
+<br />Seats: 4/6 (2 Open)
 
 
