@@ -1,4 +1,4 @@
-### ACTIVE CAMPAIGN
+### ACTIVE CAMPAIGNS
 
 # Pathfinder Second Edition
 
