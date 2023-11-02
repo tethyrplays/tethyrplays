@@ -1,4 +1,4 @@
-### TTRPG RESOURCES
+### ROLEPLAYING RESOURCES
 
 # Pathfinder Second Edition
 
