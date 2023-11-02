@@ -14,7 +14,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 
 <a name="002"></a>
 **Adventure Path: Sky King's Tomb**
-<br />Levels 1-10 | <i class="fa-sharp fa-solid fa-circle-info"></i> [Learn more](https://paizo.com/store/pathfinder/adventures/adventurePath/skykingstomb){:target="_blank"} | <i class="fa-sharp fa-solid fa-download"></i> [Player's Guide](https://downloads.paizo.com/SkyKingsTombPlayersGuide.pdf)
+<br />**Levels 1-10** | <i class="fa-sharp fa-solid fa-circle-info"></i> [Learn more](https://paizo.com/store/pathfinder/adventures/adventurePath/skykingstomb){:target="_blank"} | <i class="fa-sharp fa-solid fa-download"></i> [Player's Guide](https://downloads.paizo.com/SkyKingsTombPlayersGuide.pdf)
 <br />Thursdays, 4:30pm-8:30pm PST
 <br />Online using Foundry VTT and Discord
 <br />Hosted by GM Jacob (Poisoned Absinthe Gaming)
