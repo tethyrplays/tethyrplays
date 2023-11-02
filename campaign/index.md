@@ -33,5 +33,5 @@ Invited to a prestigious festival in Highhelm, the largest dwarven city in the F
 </div>
 <br /><i class="fa-brands fa-twitch"></i> **Live on [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays){:target="_blank"}**
 <br /><i class="fa-sharp fa-solid fa-calendar"></i> **Upcoming** &nbsp; | Thu, Nov 2, 2023 4:30pm PST | Session 0
-<br /><i class="fa-sharp fa-solid fa-arrow-up-from-bracket"></i> **Open Seats** | To request to play in a game with open seats, message me on Twitch or Discord.
+<br /><i class="fa-sharp fa-solid fa-arrow-up-from-bracket"></i> **Open Seats** | To request to play in a game with open seats, message me on Twitch or Discord. You may also opt to join a waitlist for full games to sit-in for absent players.
 
