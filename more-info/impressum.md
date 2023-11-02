@@ -2,7 +2,7 @@
 
 # Building The Website
 
-This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/CSS), [SASS](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), and [Markdown](https://en.wikipedia.org/wiki/Markdown) programming languages alongside GitHub Pages' [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software)) static generator and Liquid language support.
+This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS](https://en.wikipedia.org/wiki/CSS), [SASS](https://en.wikipedia.org/wiki/Sass_(stylesheet_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Markdown](https://en.wikipedia.org/wiki/Markdown) using [Jekyll](https://en.wikipedia.org/wiki/Jekyll_(software)) and Liquid.
 
 **Recommended Software**
 * [Visual Studio Code](https://code.visualstudio.com/) or [BBEdit](https://www.barebones.com/products/bbedit/)
