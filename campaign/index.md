@@ -5,16 +5,6 @@
 ![Image](/assets/img/pathfinder-2e-abomination-vaults.svg)
 
 <!-- <a name="001"></a>
-**Title of Campaign**
-<br />Date, frequency, platforms
-<br />Adventurer level
-<br />Playing as [dndbeyond-link](/character)
-<br /><i class="fas fa-book-open"></i> [Read the Session Recaps](/campaign/link-to-campaign)
-<div class="notation">
-<span class="quote">&ldquo;</span>Short description of campaign.
-</div> -->
-
-<!-- <a name="001"></a>
 **Campaign: Abomination Vaults**
 <br />Thursdays | Foundry VTT and Discord
 <br />Playing as Taktak (Kobold Fighter)
