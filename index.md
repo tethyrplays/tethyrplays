@@ -6,4 +6,4 @@
 
 # Call of Duty Warzone (Season 6)
 
-<a class="featured" href="/warzone">![Image](/assets/img/caro-cod-warzone-promo.svg)</a>
+<a class="featured" href="/warzone" target="_blank">![Image](/assets/img/caro-cod-warzone-promo.svg)</a>
