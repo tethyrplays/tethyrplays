@@ -24,7 +24,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 
 <a name="002"></a>
 **Adventure Path: Sky King's Tomb** | <i class="fa-sharp fa-solid fa-circle-info"></i> [Learn more](https://paizo.com/store/pathfinder/adventures/adventurePath/skykingstomb){:target="_blank"} | <i class="fa-sharp fa-solid fa-download"></i> [Player's Guide](https://downloads.paizo.com/SkyKingsTombPlayersGuide.pdf)
-<br />Thursdays 4pm-8pm PST
+<br />Thursdays 4:30pm-8:30pm PST
 <br />Online using Foundry VTT and Discord
 <br />Hosted by GM Jacob of Poisoned Absinthe Gaming
 <br />Seats | 4/6 (2 Open)
@@ -32,6 +32,6 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic that kicks off a deadly treasure hunt of mystery and intrigue.
 </div>
 <br /><i class="fa-brands fa-twitch"></i> **Live on [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays){:target="_blank"}**
-<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Upcoming** &nbsp; | Thu, Nov 2, 2023 | Session 0
+<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Upcoming** &nbsp; | Thu, Nov 2, 2023 4:30pm PST | Session 0
 
 
