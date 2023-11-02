@@ -19,7 +19,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 <br />Online using Foundry VTT and Discord
 <br />Hosted by GM Jacob (Poisoned Absinthe Gaming)
 <br />Seats Open: <span style="color: green;">2</span>/6
-<br />Cost: 1st session free, $20 per session <a href="/paid-games/"><i class="fa-sharp fa-light fa-circle-question"></i></a>
+<br />Cost: 1st session free, $20 per session <a href="/paid-games/"><i class="fa-sharp fa-regular fa-circle-question"></i></a>
 <div class="notation">
  Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic that kicks off a deadly treasure hunt of mystery and intrigue.
 </div>
