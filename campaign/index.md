@@ -23,7 +23,7 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 <div class="notation">
  Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic that kicks off a deadly treasure hunt of mystery and intrigue.
 </div>
-<br /><i class="fa-brands fa-twitch"></i> **Live on [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays){:target="_blank"}**
+<br /><i class="fa-brands fa-twitch"></i> **Live On** | [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays){:target="_blank"}
 <br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 0 | Thu, Nov 2 2023 4:30pm PST
-<br /><i class="fa-sharp fa-solid fa-arrow-up-from-bracket"></i> **Open Seats** To request to play in a game with open seats, message me on Twitch (tethyrplays) or Discord (tethyr). You may also ask to join a waitlist for full games to sit-in for absent players.
+<br /><i class="fa-sharp fa-solid fa-arrow-up-from-bracket"></i> **Open Seats** | To request to play in a game with open seats, message me on Twitch (tethyrplays) or Discord (tethyr). You may also ask to join a waitlist for full games to sit-in for absent players.
 
