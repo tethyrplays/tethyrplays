@@ -23,7 +23,11 @@ Evil stirs in the depths of the Abomination Vaults, a sprawling dungeon where th
 <div class="notation">
  Invited to a prestigious festival in Highhelm, the largest dwarven city in the Five Kings Mountains, a clan's eclectic guests find a relic that kicks off a deadly treasure hunt of mystery and intrigue.
 </div>
-<br /><i class="fa-brands fa-twitch"></i> **Live On** | [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays){:target="_blank"}
-<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 0 | Thu, Nov 2 2023 4:30pm PST
+<!-- <br /><i class="fa-brands fa-twitch"></i> **Live On** | [Twitch.tv/tethyrplays](https://twitch.tv/tethyrplays){:target="_blank"} -->
+<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 1 | Thu, Nov 16 2023 4:30pm PST
+<!-- <br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 2 | Thu, Nov 23 2023 4:30pm PST
+<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 3 | Thu, Nov 30 2023 4:30pm PST
+<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 4 | Thu, Dec 7 2023 4:30pm PST
+<br /><i class="fa-sharp fa-solid fa-calendar"></i> **Next Session** | Session 5 | Thu, Nov 14 2023 4:30pm PST -->
 <br /><i class="fa-sharp fa-solid fa-arrow-up-from-bracket"></i> **Open Seats** | To request to play in a game with open seats, message me on Twitch (tethyrplays) or Discord (tethyr). You may also request to join a waitlist to substitute for players.
 
