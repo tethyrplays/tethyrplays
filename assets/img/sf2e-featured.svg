@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 2136 1120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="_Image1_" serif:id="_Image1" transform="matrix(2.864,0,0,2.864,-6,-345.6)">
-        <use xlink:href="#_Image1" x="0" y="0" width="750px" height="495px"/>
+    <g transform="matrix(2.88,0,0,2.88,-12,-296)">
+        <g transform="matrix(0.347222,0,0,0.347222,4.16667,102.778)">
+            <rect x="0" y="889" width="2136" height="231" style="fill:rgb(248,0,10);"/>
+        </g>
+        <g transform="matrix(0.347222,0,0,0.347222,4.16667,-194.931)">
+            <rect x="0" y="889" width="2136" height="231"/>
+        </g>
+        <g id="_Image1_" serif:id="_Image1" transform="matrix(0.981944,0,0,0.981944,6.59722,-11.0347)">
+            <use xlink:href="#_Image1" x="0" y="0" width="750px" height="495px"/>
+        </g>
     </g>
     <g transform="matrix(0.864,0,0,0.864,84,31.6)">
         <use id="_Image2_" serif:id="_Image2" xlink:href="#_Image2" x="0" y="0" width="1500px" height="600px"/>
