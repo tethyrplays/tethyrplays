@@ -7,7 +7,7 @@ This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS]
 **Recommended Software**
 * [Visual Studio Code](https://code.visualstudio.com/) or [BBEdit](https://www.barebones.com/products/bbedit/)
 * [GitHub Desktop](https://desktop.github.com/) and GitHub
-* or [Affinity Photo, Designer](https://affinity.serif.com/en-us/)
+* or [Affinity Photo + Designer + Publisher](https://affinity.serif.com/en-us/)
 
 **Fonts**
 * [DM Serif Text](https://fonts.google.com/specimen/DM+Serif+Text)
@@ -18,8 +18,7 @@ This website was built using [HTML5](https://en.wikipedia.org/wiki/HTML5), [CSS]
 
 **Recommended Software**
 * [Open Broadcasting Software Studio](https://obsproject.com/)
-* and [StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/) for OBS
-* [Adobe Premiere](https://www.adobe.com/products/premiere.html)
+* [StreamFX Plugin](https://obsproject.com/forum/resources/streamfx-for-obs-studio.578/) for OBS
 
 # Disclaimers
 

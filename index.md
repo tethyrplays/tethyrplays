@@ -1,9 +1,8 @@
-### NOW PLAYING
 
-# Pathfinder Second Edition
+<!-- # Pathfinder Second Edition
 
-<a class="featured" href="/campaign">![Image](/assets/img/pathfinder-2e-abomination-vaults.svg)</a>
+<a class="featured" href="/pathfinder2e">![Image](/assets/img/pf2e-featured.svg)</a> -->
 
-# Call of Duty Warzone, Season 6
+<!-- # Starfinder Second Edition
 
-<a class="featured" href="/warzone" target="_blank">![Image](/assets/img/caro-cod-warzone-promo.svg)</a>
+<a class="featured" href="/starfinder2e">![Image](/assets/img/sf2e-featured.svg)</a> -->

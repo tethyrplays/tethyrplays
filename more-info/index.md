@@ -18,11 +18,7 @@
 | Mouse | [Glorious Model O Wired Mouse](https://www.gloriousgaming.com/products/glorious-model-o-black) |
 | Keyboard | [Ducky One 2 Mini RGB Keyboard](https://www.duckychannel.com.tw/en/Ducky-One2-Mini-RGB) |
 | Headphones/Mic | [ModMic m50x Headphone and Microphone Bundle](https://antlionaudio.com/products/m50x-bundle?variant=36525285900447) |
-| Flight Stick | [Thrustmaster T.16000M Duo](https://www.amazon.com/gp/product/B076XKZML8/) |
-| | [Thrustmaster Throttle Controller](https://www.amazon.com/gp/product/B01L28LVUG/) |
 | Console | [Sony Playstation 5](https://www.playstation.com/en-us/ps5/) |
-| Assistant | [Amazon Echo Dot with Alexa](https://www.amazon.com/dp/B07XJ8C8F7/) |
-| Lights | [Philips Hue Smart Lights](https://www.philips-hue.com/en-us) |
 | **Laptop** | |
 | Laptop | [Dell XPS 15 9575 2-in-1 Touchscreen](https://www.amazon.com/Dell-XPS-Touchscreen-Processor-Thunderbolt/dp/B0B928NBCP/) |
 | Monitor | [Acer Predator XB271HU 2560x1440 Monitor](https://www.amazon.com/gp/product/B0173PEX20/) |
