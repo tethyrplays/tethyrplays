@@ -5,7 +5,7 @@
 
 - [**Warhorn:**](https://warhorn.net/events/tethyr-x-starfinder-pathfinder-2e){:target="_blank"} For up-to-date listings of Starfinder and Pathfinder games that you can sign-up to play in the Bay Area or Online.
 - <a href="{{ "/discord" | absolute_url }}" target="blank">**Discord:**</a> Join the community server to receive updates, early notification of upcoming events and exclusive offers.
-- [**Tip Your GM:**](https://ko-fi.com/tethyr){:target="_blank"} Take a moment to share your appreciation with a tip/donation that helps lower the cost of GMing.
+- [**Tip Your GM:**](https://ko-fi.com/tethyr){:target="_blank"} Take a moment to share your appreciation with a tip/donation to help lower the cost of GMing.
 
 ![Image](/assets/img/featured-wrecked-returned.webp)
 
