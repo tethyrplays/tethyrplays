@@ -24,5 +24,5 @@
 | Graphics | [Gigabyte RTX 2070 Super](https://www.amazon.com/gp/product/B07TV9CLL5){:target="_blank"} |
 | Keyboard | [Ducky One 2 Mini RGB Keyboard](https://www.duckychannel.com.tw/en/Ducky-One2-Mini-RGB){:target="_blank"} |
 | Console | [Sony Playstation 5](https://www.playstation.com/en-us/ps5/){:target="_blank"} |
-| **Foundry VTT** | |
+| **Homelab** | |
 | Server | [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/){:target="_blank"} |
