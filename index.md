@@ -7,6 +7,8 @@
 - <a href="{{ "/discord" | absolute_url }}" target="blank">**Discord:**</a> Join the community server to receive updates, early notification of upcoming events and exclusive offers.
 - [**Tip Your GM:**](https://ko-fi.com/tethyr){:target="_blank"} Take a moment to share your appreciation and help with the costs of GMing.
 
+![Image](/assets/img/featured-wrecked-returned.webp)
+
 ## Starfinder Second Edition
 
 ### _Season 1: Invasion's Edge_ 
