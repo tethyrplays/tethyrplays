@@ -13,4 +13,5 @@
 
 ### _Season 1: Invasion's Edge_ 
 A mysterious starship has emerged from deep space and crash landed on the planet Akiton. Within hours of its discovery, the starship's automated defenses activated, driving explorers out and unleashing dangerous monsters and magic into the region. Dubbed the "Wreck of the Returned," and believing it to have a connection to the transmission sent months earlier to the First Ones, the Starfinder Society has put out a call for brave adventurers to help establish and defend a new lodge while exploring the crashed starship.
+- [**Starfinder 2E Player Core:**](https://paizo.com/products/btq09jzb){:target="_blank"} Get the core rulebook to learn to play the science-fantasy tabletop roleplaying game.
 - [**Society Players Guide (PDF):**](https://downloads.paizo.com/OP-Files/SFS+Invasions+Edge+Players+Guide.pdf){:target="_blank"} Find the character creation rules for Starfinder Society Second Edition on Paizo's official website.
